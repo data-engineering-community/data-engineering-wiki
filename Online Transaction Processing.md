@@ -1,3 +1,8 @@
+---
+Aliases: [OLTP]
+Tags: []
+---
+
 The management of transactional data which occurs in the day-to-day opteration of an organization. OLTP systems record the transactional data and support the querying of the data.
 
 # Transactional Data
