@@ -1,0 +1,20 @@
+.graph-view.color-fill {
+  /* Supports all CSS color directives, like #HEX, rgb and rgba */
+  color: #7f6df2;
+}
+
+.site-footer {
+  display: none;
+}
+
+.site-body-left-column-site-name {
+  text-align: center;
+  margin: 0 auto;
+}
+.site-body-left-column-site-name::before {
+  background: none;
+  display: block;
+  content: url(Assets/logo.svg);
+  width: 60%;
+  margin: 0 auto;
+}
