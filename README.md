@@ -5,6 +5,7 @@ This site is a knowledge base for Data Engineering and related topics. It's made
 ### Join our community at [r/dataengineering](https://www.reddit.com/r/dataengineering)
 
 # How to Contribute
+
 1. Download the free obsidian desktop app and learn [how to format your notes](https://help.obsidian.md/How+to/Format+your+notes).
 2. Clone this repo.
 3. Create a new branch and switch to it.
@@ -14,6 +15,7 @@ This site is a knowledge base for Data Engineering and related topics. It's made
 7. Make a pull request on GitHub.
 
 # Rules
+
 1. Limit self-promotion. If you make money from a certain website, app, etc. please refrain from linking it as a source in your note.
 2. Avoid making minor changes unless you are fixing a grammatical issue. If you are editing an existing note then the changes should be significantly different.
 3. No shortened links using services like bit.ly.
