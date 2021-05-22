@@ -10,14 +10,14 @@ Welcome to the official [data engineering](https://www.reddit.com/r/dataengineer
 #### Core Tools
 - Learn [[SQL]], the most widely used language for interacting with data.
 - Learn a scripting language like [[Python]], [[Java]], or [[Scala]] which are currently the most popular languages for DE.
-- Learn how to use a set of cloud tools like [[Amazon Web Services|AWS]], [[Google Cloud Platform|GCP]], or [[Azure]].
+- Learn how to use a set of cloud tools like [[Amazon Web Services]], [[Microsoft Azure]], or [[Google Cloud Platform]].
 
 #### Core Concepts
 - How to build a [[Data Pipeline|data pipeline]].
-- Data Modeling.
-- Batch vs Stream processing.
-- Indexes.
-- Relational vs Non-relational data.
+- [[Data Modeling]].
+- [[Batch Data Processing|Batch]] vs [[Stream Data Processing|Stream processing]].
+- [[Indexing]].
+- [[Relational Database|Relational]] vs [[Non-relational Database|Non-relational]] data.
 - [[Online Transaction Processing|OLTP]] vs [[Online Analytical Processing|OLAP]].
 
 ### Advanced Topics

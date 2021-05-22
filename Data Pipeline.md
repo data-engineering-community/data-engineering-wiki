@@ -1,4 +1,0 @@
----
-Aliases: [data pipeline]
-Tags: []
----
