@@ -15,5 +15,4 @@ Data modeling makes it easier for developers and other stakeholders to view and 
 - Improve communication between developers and business intelligence teams.
 - Ease and speed the process of database design at the conceptual, logical and physical levels.
 
-# Learning Resources
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrJLMduWxPqrQ8lX?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+![[Learning Resources#Data Modeling Learning Resources]]
