@@ -11,10 +11,3 @@
   text-align: center;
   margin: 0 auto;
 }
-.site-body-left-column-site-name::before {
-  background: none;
-  display: block;
-  content: url(Assets/logo.svg);
-  width: 60%;
-  margin: 0 auto;
-}
