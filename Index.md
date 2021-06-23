@@ -8,6 +8,7 @@ Welcome to the official [data engineering](https://www.reddit.com/r/dataengineer
 
 - [[Data Engineering|What is data engineering?]]
 - [[What is the difference between a Data Engineer and X|What's the difference between a data engineer and X?]]
+- [[What skills do I need to become a Data Engineer|What skills do I need to become a Data Engineer?]]
 - [[Learning Resources|What are the best resources for learning about Data Engineering?]]
 
 ### Getting Started
