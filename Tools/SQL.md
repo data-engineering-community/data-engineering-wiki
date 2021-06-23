@@ -12,6 +12,6 @@ There are multiple variants built by different companies which are built on top 
 The most common variants are:
 -   [[T-SQL]] ([[Microsoft SQL Server]])
 -   [[PostgreSQL]] ([[PostgreSQL]])
--   [[MySQL]] (MySQL)
+-   [[MySQL]] ([[MySQL]])
 
 ![[Learning Resources#SQL Learning Resources]]
