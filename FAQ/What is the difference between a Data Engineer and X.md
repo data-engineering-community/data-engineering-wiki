@@ -1,3 +1,8 @@
+---
+Aliases: []
+Tags: []
+---
+
 - **Data Engineer:** Uses a combination of software engineering best practices and database design to build scalable data pipelines, data integrations, and data models for use in applications and reports. See [[Index#Getting Started|here]] for a list of tools/concepts to learn.
 
 - **BI Engineer/BI Developer:** Uses primarily GUI tools liks SSIS to build ETL pipelines, build data models for reports, and even may build the reports themselves. This role is similar in many ways to a Data Engineer but differs in tooling and skillsets required. It is sometimes seen as a pathway to becoming a Data Engineer.
