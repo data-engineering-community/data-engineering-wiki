@@ -15,4 +15,9 @@ Data modeling makes it easier for developers and other stakeholders to view and 
 - Improve communication between developers and business intelligence teams.
 - Ease and speed the process of database design at the conceptual, logical and physical levels.
 
+# Schema Design Patterns
+[Star Schema](https://en.wikipedia.org/wiki/Star_schema)
+[Snowflake Schema](https://en.wikipedia.org/wiki/Snowflake_schema)
+[Data Vault](https://en.wikipedia.org/wiki/Data_vault_modeling)
+
 ![[Learning Resources#Data Modeling Learning Resources]]
