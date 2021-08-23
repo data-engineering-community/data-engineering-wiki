@@ -1,8 +1,11 @@
 # Data Engineering Wiki
 
-This site is a knowledge base for Data Engineering and related topics. It's made up of a series of interconnected markdown notes and is hosted by [Obsidian](https://obsidian.md).
+The official wiki for the largest data engineering community in the world.
 
-### Join our community at [r/dataengineering](https://www.reddit.com/r/dataengineering)
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/dataengineering?style=social)
+
+![Data Engineering Wiki Index](Assets/data_engineering_wiki_index.png)
+![Data Engineering Wiki Graph](Assets/data_engineering_wiki_graph.png)
 
 # How to Contribute
 
