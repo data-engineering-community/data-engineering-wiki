@@ -1,5 +1,5 @@
 ---
-Aliases: [data warehouse]
+Aliases: [data warehouse, enterprise data warehouse, EDW]
 Tags: []
 ---
 
