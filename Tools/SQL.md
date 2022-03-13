@@ -15,3 +15,5 @@ The most common variants are:
 -   [[MySQL]] ([[MySQL]])
 
 ![[Learning Resources#SQL Learning Resources]]
+
+# [Recent Posts](https://www.reddit.com/r/dataengineering/search/?q=sql&restrict_sr=1&t=year&sort=relevance)
