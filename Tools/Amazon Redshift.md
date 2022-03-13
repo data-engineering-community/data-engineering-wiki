@@ -1,5 +1,5 @@
 ---
-Aliases: [Redshift]
+Aliases: [Redshift, AWS Redshift]
 Tags: []
 ---
 

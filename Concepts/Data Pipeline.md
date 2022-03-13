@@ -1,5 +1,5 @@
 ---
-Aliases: [data pipeline, ETL, ELT]
+Aliases: [data pipeline, ETL, ELT, ETL Pipeline]
 Tags: []
 ---
 
