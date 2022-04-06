@@ -1,6 +1,6 @@
 ---
 Aliases: []
-Tags: []
+Tags: [seedling]
 publish: false
 ---
 
