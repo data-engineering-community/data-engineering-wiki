@@ -29,4 +29,21 @@
 8.  **Reference any relevant issues** or supporting documentation in your PR (for example, “Closes #37.”)
 9.  **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
+## Tag glossary
+
+We use tags mostly to indicate the status of a note:
+
+-   #seedling - All new notes get this tag. If you want to contribute, notes with this tag are usually a great place to start! Might need a template applied to it or if it already has it, no placeholders have been filled out.
+-   #incubating - Some preliminary work was done, it has a template with placeholders but it was only partially filled out. These notes still have incomplete information and need their placeholders filled out!
+-   #evergreen - Notes that have been updated and no longer have placeholders in them. Usually these notes need corrections, updates or additions to existing knowledge. Before adding new content to these notes, please make sure you have read [[#Contributing Rules|how to contribute]].
+
+We also have a #placeholder tag we use to signal the type of information that is missing on a note. Most of them are self-explanatory:
+
+-   #placeholder/title
+-   #placeholder/author - Information about the author is missing (can include their name, Discord handle, GitHub username, GitHub sponsors page or buy me a coffee links)
+-   #placeholder/description
+-   #placeholder/link
+-   #placeholder/screenshot
+-   #placeholder/tool - Similar to the author tag, any information about a tool
+
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which [@kentcdodds](https://github.com/kentcdodds) created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by [@Roshanjossey](https://github.com/Roshanjossey).
