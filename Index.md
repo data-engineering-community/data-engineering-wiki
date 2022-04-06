@@ -1,16 +1,15 @@
-## About This Site
+## What is the Data Engineering Wiki?
 
-Welcome to the official [data engineering](https://www.reddit.com/r/dataengineering) wiki! This page contains a quick index to help you find the things you may be interested in. You can also contribute to the site on [GitHub](https://github.com/JPHaus/data-engineering-wiki).
+Welcome! This is the official wiki built and maintained by the [data engineering](https://www.reddit.com/r/dataengineering) community.
+
+It contains a constantly evolving collection of topics related to data engineering. Since we're at a very early stage, there's a lot of space to grow!
+
+> [!success] Contribute in 3 ways
+> 1. ⭐ Star our [GitHub](https://github.com/JPHaus/data-engineering-wiki) repo
+> 2. 🗣️ [Share the wiki](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20resource%20for%20data%20engineering!%20https%3A//dataengineering.wiki/)
+> 3. ✍️ [Contribute to the wiki](https://github.com/JPHaus/data-engineering-wiki/blob/main/CONTRIBUTING.md)
 
 ## Data Engineering
-
-### Frequently Asked Questions
-
-- [[What is Data Engineering|What is data engineering?]]
-- [[What is the difference between a Data Engineer and X|What's the difference between a data engineer and X?]]
-- [[What skills do I need to become a Data Engineer|What skills do I need to become a Data Engineer?]]
-- [[What are the best resources for learning about Data Engineering|What are the best resources for learning about Data Engineering?]]
-- [[How can I transition into Data Engineering|How can I transition into Data Engineering?]]
 
 ### Getting Started
 
@@ -33,3 +32,19 @@ Welcome to the official [data engineering](https://www.reddit.com/r/dataengineer
 
 - [[Data Unit Test|Data Quality]].
 - [[Data Governance]].
+
+## Frequently Asked Questions
+> [!faq]- ### What is Data Engineering?
+> ![[What is Data Engineering|What is data engineering?]]
+
+> [!faq]- ### What's the difference between a data engineer and X?
+> ![[What is the difference between a Data Engineer and X|What's the difference between a data engineer and X?]]
+
+> [!faq]- ### What skills do I need to become a Data Engineer?
+> ![[What skills do I need to become a Data Engineer|What skills do I need to become a Data Engineer?]]
+
+> [!faq]- ### What are the best resources for learning about Data Engineering?
+> ![[What are the best resources for learning about Data Engineering|What are the best resources for learning about Data Engineering?]]
+
+> [!faq]- ### How can I transition into Data Engineering?
+> ![[How can I transition into Data Engineering|How can I transition into Data Engineering?]]
