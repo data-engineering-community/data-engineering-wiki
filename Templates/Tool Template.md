@@ -1,18 +1,19 @@
 ---
 Aliases: []
 Tags: []
+publish: false
 ---
 
 (optional) Logo
 
 Brief description of the tool.
 
-# Official Documentation
+## {{title}} Official Documentation
 
-# Advantages
+## {{title}} Advantages
 
-# Disadvantages
+## {{title}} Disadvantages
 
-# Learning Resources
+## {{title}} Learning Resources
 
-# Recent Posts
+## {{title}} Recent Posts

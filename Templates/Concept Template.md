@@ -1,10 +1,11 @@
 ---
 Aliases: []
 Tags: []
+publish: false
 ---
 
 Brief description of the concept.
 
-# Advantages
+## {{title}} Advantages
 
-# Disadvantages
+## {{title}} Disadvantages
