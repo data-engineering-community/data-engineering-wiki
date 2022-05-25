@@ -32,11 +32,11 @@ There are very few of these roles currently but similar roles with different tit
 - Scripting language ([[Python]], [[Java]], or [[Scala]]) (Intermediate)
 - [[Indexing]] & Query Optimization (Intermediate)
 - [[Batch Data Processing]] (Intermediate)
+- Soft skills (Intermediate)
 - [[Relational Database]] (Intermediate)
 - [[Online Transaction Processing]] (Beginner)
 - [[Data Pipeline]] (Beginner)
 - [[Data Warehouse]] (Beginner)
-- Soft skills (Intermediate)
 
 **Nice to have:**
 - Cloud platform ([[Amazon Web Services]], [[Microsoft Azure]], or [[Google Cloud Platform]]) (Intermediate)
@@ -46,6 +46,7 @@ There are very few of these roles currently but similar roles with different tit
 
 # Senior Data Engineer
 **Minimum skills required:**
+- Soft skills (Intermediate/Advanced)
 - [[SQL]] (Advanced)
 - [[Data Modeling]] (Advanced)
 - Scripting language ([[Python]], [[Java]], or [[Scala]]) (Advanced)
@@ -58,7 +59,6 @@ There are very few of these roles currently but similar roles with different tit
 - [[Online Transaction Processing]] (Intermediate)
 - [[Online Analytical Processing]] (Intermediate)
 - [[Data Pipeline]] (Advanced)
-- Soft skills (Intermediate/Advanced)
 
 **Nice to have:**
 - Infrastructure as code (Advanced)
