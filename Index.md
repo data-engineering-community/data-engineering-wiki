@@ -9,42 +9,11 @@ It contains a constantly evolving collection of topics related to data engineeri
 > 2. 🗣️ [Share the wiki](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20resource%20for%20data%20engineering!%20https%3A//dataengineering.wiki/)
 > 3. ✍️ [Contribute to the wiki](https://github.com/JPHaus/data-engineering-wiki/blob/main/CONTRIBUTING.md)
 
-## Data Engineering
+[[Getting Started With Data Engineering]]
 
-### Getting Started
-
-#### Core Tools
-
-- Learn [[SQL]], the most widely used language for interacting with data.
-- Learn a scripting language like [[Python]], [[Java]], or [[Scala]] which are currently the most popular languages for DE.
-- Learn how to use a set of cloud tools like [[Amazon Web Services]], [[Microsoft Azure]], or [[Google Cloud Platform]].
-
-#### Core Concepts
-
-- How to build a [[Data Pipeline|data pipeline]].
-- [[Data Modeling]].
-- [[Batch Data Processing|Batch]] vs [[Stream Data Processing|Stream processing]].
-- [[Indexing]].
-- [[Relational Database|Relational]] vs [[Non-relational Database|Non-relational]] data.
-- [[Online Transaction Processing|OLTP]] vs [[Online Analytical Processing|OLAP]].
-
-### Advanced Topics
-
-- [[Data Unit Test|Data Quality]].
-- [[Data Governance]].
-
-## Frequently Asked Questions
-> [!faq]- ### What is Data Engineering?
-> ![[What is Data Engineering|What is data engineering?]]
-
-> [!faq]- ### What's the difference between a data engineer and X?
-> ![[What is the difference between a Data Engineer and X|What's the difference between a data engineer and X?]]
-
-> [!faq]- ### What skills do I need to become a Data Engineer?
-> ![[What skills do I need to become a Data Engineer|What skills do I need to become a Data Engineer?]]
-
-> [!faq]- ### What are the best resources for learning about Data Engineering?
-> ![[What are the best resources for learning about Data Engineering|What are the best resources for learning about Data Engineering?]]
-
-> [!faq]- ### How can I transition into Data Engineering?
-> ![[How can I transition into Data Engineering|How can I transition into Data Engineering?]]
+[[Concepts]]: Concepts related to Data Engineering.
+[[FAQ]]: Frequently asked questions about Data Engineering.
+[[Guides]]: (Coming soon) Understand how to make Data Engineering decisions.
+[[Tools]]: Commonly used tools for Data Engineering.
+[[Tutorials]]: Step-by-step instructions for Data Engineering tasks.
+[[Learning Resources]]: Learn Data Engineering with resources recommended by other Data Engineers.
