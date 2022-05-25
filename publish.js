@@ -35,7 +35,7 @@ for (const item of navOrderDsc.reverse()){
 
 // Each folder contains a note with the same name as the folder, add a redirect to the note when the folder is clicked.
 // Expand arrow should not be affected.
-let folders = ["Concepts", "FAQ", "Tools", "Tutorials"];
+let folders = ["Concepts", "FAQ", "Guides", "Tools", "Tutorials"];
 for (const item of folders){
     navContainer.querySelector(`[data-path="${item}"] div.tree-item-inner`).addEventListener('click', function(e) {
         window.location.href = `${site}/${item}/${item}`;

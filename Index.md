@@ -13,7 +13,7 @@ It contains a constantly evolving collection of topics related to data engineeri
 
 [[Concepts]]: Concepts related to Data Engineering.
 [[FAQ]]: Frequently asked questions about Data Engineering.
-[[Guides]]: (Coming soon) Understand how to make Data Engineering decisions.
+[[Guides]]: Understand how to make Data Engineering decisions.
 [[Tools]]: Commonly used tools for Data Engineering.
 [[Tutorials]]: Step-by-step instructions for Data Engineering tasks.
 [[Learning Resources]]: Learn Data Engineering with resources recommended by other Data Engineers.
