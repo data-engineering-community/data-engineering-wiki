@@ -9,4 +9,4 @@ The official wiki for the largest data engineering community in the world.
 
 ## Contributing
 
-Contributions are welcome! Read [here](https://github.com/JPHaus/data-engineering-wiki/blob/main/CONTRIBUTING.md) on how to contribute to this project.
+Contributions are welcome! Read [here](https://github.com/data-engineering-community/data-engineering-wiki/blob/main/CONTRIBUTING.md) on how to contribute to this project.

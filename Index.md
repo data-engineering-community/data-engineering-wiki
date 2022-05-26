@@ -5,9 +5,9 @@ Welcome! This is the official wiki built and maintained by the [data engineering
 It contains a constantly evolving collection of topics related to data engineering. Since we're at a very early stage, there's a lot of space to grow!
 
 > [!success] Contribute in 3 ways
-> 1. ⭐ Star our [GitHub](https://github.com/JPHaus/data-engineering-wiki) repo
+> 1. ⭐ Star our [GitHub](https://github.com/data-engineering-community/data-engineering-wiki) repo
 > 2. 🗣️ [Share the wiki](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20resource%20for%20data%20engineering!%20https%3A//dataengineering.wiki/)
-> 3. ✍️ [Contribute to the wiki](https://github.com/JPHaus/data-engineering-wiki/blob/main/CONTRIBUTING.md)
+> 3. ✍️ [Contribute to the wiki](https://github.com/data-engineering-community/data-engineering-wiki/blob/main/CONTRIBUTING.md)
 
 [[Getting Started With Data Engineering]]
 
