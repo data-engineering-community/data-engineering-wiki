@@ -38,9 +38,7 @@ for (const item of folders) {
 
     var element = navContainer.querySelector(`[data-path="${item}"] div.tree-item-inner`);
     element.setAttribute('data-link', `${site}/${item}/${item}`);
-    element.addEventListener('click', function(e) {
-        console.log(e);
-        console.log(e.target.getAttribute('data-link'));
+    element.addEventListener('click', function (e) {
         window.location.href = e.target.getAttribute('data-link');
         return false;
     });
