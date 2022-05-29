@@ -31,3 +31,51 @@
 .tree-item-self[data-path^='Tutorials/Tutorials'] {
   display: none;
 }
+
+/* Footer Heading */
+h2[data-heading="This note on GitHub"],
+h2[data-heading="This note in GitHub"] {
+    font-size: var(--editor-font-size);
+    text-align: center;
+}
+h2[data-heading="This note on GitHub"]::before,
+h2[data-heading="This note in GitHub"]::before {
+    content: '';
+    display: block;
+    height: 2px;
+    background: var(--background-modifier-border);
+    margin-bottom: 10px;
+}
+
+/* Style GitHub footer links */
+span.git-footer {
+  display: block;
+  text-align: center;
+  bottom: 0;
+}
+.git-footer .external-link {
+  background-image: url();
+  padding-right: 0;
+  padding: 6px 15px;
+  background: var(--interactive-normal);
+  border-radius: 4px;
+  text-decoration: none;
+}
+.git-footer .external-link:hover {
+  background: var(--interactive-accent-hover);
+  color: var(--text-on-accent);
+}
+/* Footer Link Icons */
+.git-footer .external-link::before {
+  vertical-align: -3px;
+  padding-right: 4px;
+}
+.git-footer .external-link[title="git-hub-edit-note"]::before {
+  content: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20width%3D%221em%22%20height%3D%221em%22%20preserveAspectRatio%3D%22xMidYMid%20meet%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M3%2017.25V21h3.75L17.81%209.94l-3.75-3.75L3%2017.25zM20.71%207.04a.996.996%200%200%200%200-1.41l-2.34-2.34a.996.996%200%200%200-1.41%200l-1.83%201.83l3.75%203.75l1.83-1.83z%22%20fill%3D%22currentColor%22%2F%3E%3C%2Fsvg%3E');
+}
+.git-footer .external-link[title="git-hub-copy-note"]::before {
+  content: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20width%3D%221em%22%20height%3D%221em%22%20preserveAspectRatio%3D%22xMidYMid%20meet%22%20viewBox%3D%220%200%20256%20256%22%3E%3Cpath%20d%3D%22M216%2032H88a8%208%200%200%200-8%208v40H40a8%208%200%200%200-8%208v128a8%208%200%200%200%208%208h128a8%208%200%200%200%208-8v-40h40a8%208%200%200%200%208-8V40a8%208%200%200%200-8-8zm-8%20128h-32V88a8%208%200%200%200-8-8H96V48h112z%22%20fill%3D%22currentColor%22%2F%3E%3C%2Fsvg%3E');
+}
+.git-footer .external-link[title="git-hub-download-vault"]::before {
+  content: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20width%3D%221em%22%20height%3D%221em%22%20preserveAspectRatio%3D%22xMidYMid%20meet%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M19%209h-4V3H9v6H5l7%207l7-7zM5%2018v2h14v-2H5z%22%20fill%3D%22currentColor%22%2F%3E%3C%2Fsvg%3E')
+}
