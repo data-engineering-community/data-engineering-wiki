@@ -17,3 +17,9 @@ It contains a constantly evolving collection of topics related to data engineeri
 [[Tools]]: Commonly used tools for Data Engineering.
 [[Tutorials]]: Step-by-step instructions for Data Engineering tasks.
 [[Learning Resources]]: Learn Data Engineering with resources recommended by other Data Engineers.
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Index.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Index.md "git-hub-copy-note") </span>
