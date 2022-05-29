@@ -14,3 +14,9 @@ Tags: []
 - **Data Analyst:** Uses data for basic to medium complexity analysis and builds reports and dashboards. This role will typically require a good grasp of [[SQL]] and reporting tools but relies on an engineer for the data.
 
 - **Data Scientist:** Uses data for more in-depth analysis and visualizations. Typically the work is more research based and sometimes one will work on a product like a machine learning model. However, in the real-world most businesses either do not have the data, data quality, or business need required for such work.
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/FAQ/What%20is%20the%20difference%20between%20a%20Data%20Engineer%20and%20X.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/FAQ/What%20is%20the%20difference%20between%20a%20Data%20Engineer%20and%20X.md "git-hub-copy-note") </span>

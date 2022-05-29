@@ -63,3 +63,9 @@ There are very few of these roles currently but similar roles with different tit
 **Nice to have:**
 - Infrastructure as code (Advanced)
 - Reporting tools (Tableau, Superset, Metabase) (Beginner/Intermediate)
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/FAQ/What%20skills%20do%20I%20need%20to%20become%20a%20Data%20Engineer.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/FAQ/What%20skills%20do%20I%20need%20to%20become%20a%20Data%20Engineer.md "git-hub-copy-note") </span>

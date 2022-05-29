@@ -12,3 +12,9 @@ This question has been asked in a variety of different ways so we encourage you 
 ## [Top Posts on Transitioning to Data Engineering](https://www.reddit.com/r/dataengineering/search/?q=transition&restrict_sr=1&sort=top)
 
 ## [Data Engineering Project Examples](https://www.reddit.com/r/dataengineering/search/?q=project&restrict_sr=1)
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/FAQ/How%20can%20I%20transition%20into%20Data%20Engineering.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/FAQ/How%20can%20I%20transition%20into%20Data%20Engineering.md "git-hub-copy-note") </span>
