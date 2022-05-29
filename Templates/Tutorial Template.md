@@ -15,3 +15,9 @@ The specific outcome(s) that will occur by following this tutorial.
 ## 2. Step 2
 
 ## 3. Step 3
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tutorials/{{title}}.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tutorials/{{title}}.md "git-hub-copy-note") </span>
