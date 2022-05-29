@@ -12,3 +12,9 @@ https://docs.snowflake.com/en/index.html
 
 # Learning Resources
 https://developers.snowflake.com/resources/
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Snowflake.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Snowflake.md "git-hub-copy-note") </span>

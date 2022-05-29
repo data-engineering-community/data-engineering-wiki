@@ -27,3 +27,9 @@ Tags: []
 ## Scheduling and Workflow Orchestration
 - [[Amazon Step Functions]]
 - [[Amazon MWAA (Managed Airflow)]]
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Amazon%20Web%20Services.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Amazon%20Web%20Services.md "git-hub-copy-note") </span>

@@ -14,3 +14,9 @@ https://airflow.apache.org/docs/
 https://airflow.apache.org/ecosystem/#learning-resources
 
 # [Recent Posts](https://www.reddit.com/r/dataengineering/search/?q=airflow&restrict_sr=1&t=year&sort=relevance)
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Apache%20Airflow.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Apache%20Airflow.md "git-hub-copy-note") </span>
