@@ -7,6 +7,9 @@ publish: true
 > [!faq]- ### What is Data Engineering?
 > ![[What is Data Engineering|What is data engineering?]]
 
+> [!faq]- ### What does a Data Engineer do?
+> ![[What does a Data Engineer do|What does a Data Engineer do?]]
+
 > [!faq]- ### What's the difference between a data engineer and X?
 > ![[What is the difference between a Data Engineer and X|What's the difference between a data engineer and X?]]
 
