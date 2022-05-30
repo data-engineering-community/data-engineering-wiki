@@ -16,3 +16,9 @@ Some commonly used tools for data unit testing are [[Great Expectations|great ex
 One of the most common tests to incorporate in your data pipeline is a check to see if there is recently created data by looking at a created date column. This is known as a stale data check or data freshness check. The reason why it's common is that your data pipeline can run successfully, but the data inside it might have been old or malformed which is considered a "silent failure."
 
 Other commonly used tests for data are checking to make sure all values in a column are unique, checking for null values, and checking to make sure all the values in a column are within a certain expected range.
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Data%20Unit%20Test.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Data%20Unit%20Test.md "git-hub-copy-note") </span>

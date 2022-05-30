@@ -16,3 +16,9 @@ The semantic layer is a term used to describe the [[Data Modeling|data model]] t
 ## Semantic Layer Disadvantages
 
 - Requires regular maintenance
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Semantic%20Layer.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Semantic%20Layer.md "git-hub-copy-note") </span>

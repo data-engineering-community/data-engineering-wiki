@@ -32,3 +32,9 @@ Correlated Subquery:
    FROM employees
    WHERE department = emp.department
 ```
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Correlated%20Subquery.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Correlated%20Subquery.md "git-hub-copy-note") </span>

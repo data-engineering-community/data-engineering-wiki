@@ -7,3 +7,9 @@ The CAP theorem in computer science states that it's impossible for a distribute
 - [**Consistency**](https://en.wikipedia.org/wiki/Consistency_model): Every read receives the most recent write or an error
 - [**Availability**](https://en.wikipedia.org/wiki/Availability): Every request receives a (non-error) response, without the guarantee that it contains the most recent write
 - [**Partition tolerance**](https://en.wikipedia.org/wiki/Network_partition): The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/CAP%20Theorem.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/CAP%20Theorem.md "git-hub-copy-note") </span>

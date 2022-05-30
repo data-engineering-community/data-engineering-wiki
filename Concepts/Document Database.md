@@ -9,6 +9,7 @@ A document database is a type of [[Non-relational Database|NoSQL]] database that
 *"Document data stores" by Microsoft.com*
 
 # Popular Document Databases
+
 [[MongoDB]]
 [[Couchbase]]
 [[Amazon DynamoDB]]
@@ -16,14 +17,23 @@ A document database is a type of [[Non-relational Database|NoSQL]] database that
 [Azure Cosmos DB](https://azure.microsoft.com/services/cosmos-db/)
 
 # Advantages
+
 - Create documents without needing to define their structure upfront.
 - Add new fields to the database without changing the fields of existing documents.
 - Can scale horizontally very easily.
 
 # Disadvantages
+
 - Query performance can be less efficient compared to a [[Relational Database]] because the data isn't necessarily structured or organized for queries.
 - Generally requires more technical knowledge to query which means usage is typically limited to technical staff vs other non-technical business people.
 
 # When to use it
+
 - Storing article content, social media posts, sensor data, and other unstructured data.
 - You need to develop and iterate rapidly when building a product.
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Document%20Database.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Document%20Database.md "git-hub-copy-note") </span>
