@@ -3,7 +3,9 @@ Aliases: [What is data engineering?]
 Tags: []
 ---
 
-![[Data Engineering]]
+![[Data Engineering#^344bc8]]
+
+[[What does a Data Engineer do|What does a Data Engineer do?]]
 
 %% wiki footer: Please don't edit anything below this line %%
 
