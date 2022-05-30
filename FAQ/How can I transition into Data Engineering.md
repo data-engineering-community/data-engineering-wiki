@@ -11,7 +11,7 @@ This question has been asked in a variety of different ways so we encourage you 
 
 ## [Top Posts on Transitioning to Data Engineering](https://www.reddit.com/r/dataengineering/search/?q=transition&restrict_sr=1&sort=top)
 
-## [Data Engineering Project Examples](https://www.reddit.com/r/dataengineering/search/?q=project&restrict_sr=1)
+## [Data Engineering Project Examples](https://www.reddit.com/r/dataengineering/?f=flair_name%3A%22Personal%20Project%20Showcase%22)
 
 %% wiki footer: Please don't edit anything below this line %%
 
