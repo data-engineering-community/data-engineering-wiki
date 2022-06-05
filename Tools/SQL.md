@@ -1,6 +1,7 @@
 ---
 Aliases: [Structured Query Language]
-Tags: []
+Tags: [incubating]
+publish: true
 ---
 
 SQL stands for [Structured Query Language](https://en.wikipedia.org/wiki/SQL) and is used for retrieving and manipulating data in a relational database management system (RDBMS). SQL is a [declarative language](https://en.wikipedia.org/wiki/Declarative_programming) meaning you don't tell the computer how to return the data, you tell it what you want the results to look like and the database figures out the best way to deliver those results.

@@ -1,6 +1,7 @@
 ---
 Aliases: []
-Tags: []
+Tags: [seedling]
+publish: true
 ---
 [RavenDB](https://ravendb.net/) is a fully Transactional NoSQL Document Database.
 

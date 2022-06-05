@@ -1,6 +1,7 @@
 ---
 Aliases: [Redshift, AWS Redshift]
-Tags: []
+Tags: [seedling]
+publish: true
 ---
 
 [Amazon Redshift](https://aws.amazon.com/redshift/) is an [[Amazon Web Services|AWS]] cloud-based [[Data Warehouse|data warehouse]] service based on [[PostgreSQL]].

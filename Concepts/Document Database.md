@@ -1,6 +1,7 @@
 ---
 Aliases: []
-Tags: []
+Tags: [evergreen]
+publish: true
 ---
 
 A document database is a type of [[Non-relational Database|NoSQL]] database that is designed to store and query data as JSON-like documents. Document databases make it easier to store an query data in a way that can evolve with an application's needs. The document model works well with use cases such as catalogs, user profiles, and content management systems where each document is unique and evolves over time.
@@ -8,7 +9,7 @@ A document database is a type of [[Non-relational Database|NoSQL]] database that
 ![[document_database_example.png]]
 *"Document data stores" by Microsoft.com*
 
-# Popular Document Databases
+## Popular Document Databases
 
 [[MongoDB]]
 [[Couchbase]]
@@ -16,18 +17,20 @@ A document database is a type of [[Non-relational Database|NoSQL]] database that
 [[RavenDB]]
 [Azure Cosmos DB](https://azure.microsoft.com/services/cosmos-db/)
 
-# Advantages
+## Document Database Advantages
 
 - Create documents without needing to define their structure upfront.
 - Add new fields to the database without changing the fields of existing documents.
 - Can scale horizontally very easily.
 
-# Disadvantages
+## Document Database Disadvantages
 
 - Query performance can be less efficient compared to a [[Relational Database]] because the data isn't necessarily structured or organized for queries.
 - Generally requires more technical knowledge to query which means usage is typically limited to technical staff vs other non-technical business people.
+- Updating data can be a slow process because the data can be distributed between machines and can be duplicated.
+- Atomic transactions are not inherently supported.
 
-# When to use it
+## When to use a Document Database
 
 - Storing article content, social media posts, sensor data, and other unstructured data.
 - You need to develop and iterate rapidly when building a product.

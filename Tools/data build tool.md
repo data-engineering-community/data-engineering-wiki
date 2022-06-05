@@ -1,6 +1,7 @@
 ---
 Aliases: [dbt]
-Tags: []
+Tags: [seedling]
+publish: true
 ---
 Data build tool or [dbt](https://www.getdbt.com/) is a tool primarily used for transforming and creating [[Data Modeling|data models]] within a [[Data Warehouse|data warehouse]] using [[SQL]]. It's marketed as a tool to empower analysts to become self-serve analytics engineers.
 

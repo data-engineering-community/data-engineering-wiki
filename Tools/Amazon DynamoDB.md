@@ -1,6 +1,7 @@
 ---
 Aliases: [DynamoDB]
-Tags: []
+Tags: [seedling]
+publish: true
 ---
 [DynamoDB](https://aws.amazon.com/dynamodb/) is a fast and flexible NoSQL database service for any scale
 

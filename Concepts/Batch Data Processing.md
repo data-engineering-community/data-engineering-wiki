@@ -1,6 +1,7 @@
 ---
 Aliases: [batch processing]
-Tags: []
+Tags: [incubating]
+publish: true
 ---
 
 Batch processing is a term used to describe collecting, modifying, or exporting multiple data records at a regular cadence with downtime in betwen batches. Because large amounts of data can be processed all at once in these batches it can be a very efficient approach and is best suited for handling frequent, repetitive tasks. It is the most common form of data processing that fits most businesses data needs.

@@ -1,6 +1,7 @@
 ---
 Aliases: [great expectations]
-Tags: []
+Tags: [seedling]
+publish: true
 ---
 
 [Great Expectations](https://github.com/great-expectations/great_expectations) is a [[Python]] library for creating [[Data Unit Test|data unit tests]] that can be used in your [[Data Pipeline|data pipelines]].

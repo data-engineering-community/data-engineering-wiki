@@ -1,6 +1,7 @@
 ---
 Aliases: []
-Tags: []
+Tags: [seedling]
+publish: true
 ---
 [Couchbase](https://www.couchbase.com/) is the highest performing NoSQL distributed database.
 

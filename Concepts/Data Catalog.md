@@ -1,6 +1,7 @@
 ---
 Aliases: [data dictionary]
-Tags: []
+Tags: [incubating]
+publish: true
 ---
 
 A data catalog is a collection of all data assets of an organization which uses metadata along with data management to help business users find data for their use case. A data catalog covers the discoverability feature of a database. It can also help build the lineage of the data.

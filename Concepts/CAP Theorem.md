@@ -1,6 +1,7 @@
 ---
 Aliases: [Brewer's theorem]
-Tags: []
+Tags: [incubating]
+publish: true
 ---
 
 The CAP theorem in computer science states that it's impossible for a distributed data store to provide more than two out of the three following guarantees:

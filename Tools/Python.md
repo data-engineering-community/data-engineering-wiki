@@ -1,6 +1,7 @@
 ---
 Aliases: [python]
-Tags: []
+Tags: [incubating]
+publish: true
 ---
 
 ![[python_logo.svg]]

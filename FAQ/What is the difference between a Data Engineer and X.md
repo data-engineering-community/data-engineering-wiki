@@ -1,6 +1,7 @@
 ---
 Aliases: []
-Tags: []
+Tags: [incubating]
+publish: true
 ---
 
 - **Data Engineer:** Uses a combination of software engineering best practices and database design to build scalable data pipelines, data integrations, and data models for use in applications and reports. See [[Getting Started With Data Engineering]] for a list of tools/concepts to learn.

@@ -1,9 +1,8 @@
 ---
 Aliases: [How do I become a Data Engineer]
-Tags: []
+Tags: [incubating]
+publish: true
 ---
-
-**This guide is a work in progress**
 
 There is no one set of tools that will get you a job as a Data Engineer. It will depend on the company, industry, and the need for data engineering where you live. Unlike other guides, this guide will list the minimum requirements needed (generally) to get a job as a Data Engineer. For each role, skills are listed in order of general importance and what level of mastery is needed for that role.
 

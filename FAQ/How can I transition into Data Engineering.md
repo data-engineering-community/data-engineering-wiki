@@ -1,6 +1,7 @@
 ---
 Aliases: [How can I transition into Data Engineering?]
-Tags: []
+Tags: [incubating]
+publish: true
 ---
 
 It's fairly common for people to transition into Data Engineering from another data-related role. The [most common roles that people have successfully transitioned from](https://www.reddit.com/r/dataengineering/comments/peoguf/data_engineers_that_transitioned_from_a_noncs/) are: Data Analyst, Business Intelligence Analyst or Developer, Backend Engineer, and Data Scientist. However, there are plenty of people who transitioned from other roles not listed above.

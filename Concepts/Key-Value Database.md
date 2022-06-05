@@ -1,24 +1,29 @@
 ---
 Aliases: []
-Tags: []
+Tags: [evergreen]
+publish: true
 ---
 A Key/Value database is a type of [[Non-relational Database|NoSQL]] database that stores data as a table where you have a unique key for each data value.
 
 ![[key_value_database_example.png]]
 *"Key/Value data store" by Microsoft.com*
 
-# Popular Key/Value Databases
+## Popular Key/Value Databases
 [Redis](https://redis.io/)
 [[Amazon DynamoDB|DynamoDB]]
 [Riak](http://docs.basho.com/riak/kv/)
 [IonDB](https://github.com/iondbproject/iondb)
 
-# Advantages
+## Key-Value Database Advantages
 - Optimized for simple lookups using the key or a range of keys on a single table.
 - Can be very scalable because data can be distributed across multiple machines.
 
-# Disadvantages
+## Key-Value Database Disadvantages
 - Not great if you need to query or filter by non-key values.
+- Often more expensive than other kinds of databases because they tend to run in-memory.
+
+## When to use a Key-Value Database
+A key-value database is mostly used when you need to cache data because it is very fast and doesn't require complex querying.
 
 %% wiki footer: Please don't edit anything below this line %%
 

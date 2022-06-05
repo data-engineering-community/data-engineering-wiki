@@ -1,6 +1,7 @@
 ---
 Aliases: [CDC]
 Tags: [incubating]
+publish: true
 ---
 
 Change data capture describes the process of recording the change of data in a database. Typically, this means tracking when records are inserted, updated, and deleted along with the data itself.

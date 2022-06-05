@@ -1,6 +1,7 @@
 ---
 Aliases: [What are the best resources for learning about Data Engineering?]
-Tags: []
+Tags: [incubating]
+publish: true
 ---
 
 ![[Learning Resources]]

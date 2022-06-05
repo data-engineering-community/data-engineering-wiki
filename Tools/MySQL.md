@@ -1,6 +1,7 @@
 ---
 Aliases: []
-Tags: []
+Tags: [seedling]
+publish: true
 ---
 
 ![[mysql_logo.png]]

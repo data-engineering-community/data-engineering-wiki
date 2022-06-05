@@ -1,6 +1,7 @@
 ---
 Aliases: [What is data engineering?]
-Tags: []
+Tags: [seedling]
+publish: true
 ---
 
 ![[Data Engineering#^344bc8]]

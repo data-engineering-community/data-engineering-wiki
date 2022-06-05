@@ -1,6 +1,7 @@
 ---
 Aliases: [Postgres]
-Tags: []
+Tags: [seedling]
+publish: true
 ---
 
 ![[postgresql_logo.png]]

@@ -1,6 +1,7 @@
 ---
 Aliases: []
 Tags: [incubating]
+publish: true
 ---
 
 [Debezium](https://debezium.io/) is an open-source log-based [[Change Data Capture|change data capture]] tool used for streaming changes from your database. It works by reading the [[Transaction Log|transaction log]] of your database to capture INSERT/UPDATE/DELETE events and propagates those events to a consumer (most commonly [[Apache Kafka]]).
