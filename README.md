@@ -3,8 +3,10 @@
     <img width="200" height="200" src="Assets/logo.svg">
   </a>
   <br>
-  <br>
-
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/data-engineering-community/data-engineering-wiki">
+  <a href="https://dataengineering.wiki">
+  <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdataengineering.wiki">
+  </a>
 
 # Data Engineering Wiki
 
