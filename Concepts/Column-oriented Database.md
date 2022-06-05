@@ -1,7 +1,7 @@
 ---
 Aliases: [columnar database]
 Tags: [incubating]
-publish: false
+publish: true
 ---
 
 ![[Assets/row_oriented_vs_column_oriented_database.jpeg]]
