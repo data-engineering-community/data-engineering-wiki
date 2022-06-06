@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-![[yugabyte.svg]]
+![[Assets/yugabyte.svg]]
 
 YugabyteDB is an open-source distributed SQL database. It is the most PostgreSQL compatible distributed database that is resilient and horizontally scalable.
 
