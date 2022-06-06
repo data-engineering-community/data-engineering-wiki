@@ -9,7 +9,7 @@ A Key/Value database is a type of [[Non-relational Database|NoSQL]] database tha
 *"Key/Value data store" by Microsoft.com*
 
 ## Popular Key/Value Databases
-[Redis](https://redis.io/)
+[[Redis]]
 [[Amazon DynamoDB|DynamoDB]]
 [Riak](http://docs.basho.com/riak/kv/)
 [IonDB](https://github.com/iondbproject/iondb)
