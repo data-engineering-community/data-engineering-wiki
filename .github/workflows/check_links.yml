@@ -1,6 +1,6 @@
 # Quickly check links in Markdown, HTML, and text files using lychee.
 # https://github.com/lycheeverse/lychee-action
-name: Links
+name: Check Links
 
 on:
   repository_dispatch:
@@ -19,6 +19,8 @@ jobs:
         uses: lycheeverse/lychee-action@v1.5.0
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          args: --verbose --no-progress --accept 200,201,204,206,401,403,406,429,999 --exclude-path Templates
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
