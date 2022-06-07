@@ -1,25 +1,32 @@
 ---
 Aliases: [spark]
 Tags: [seedling]
-publish: false
+publish: true
 ---
 
-![[apache_spark_logo.jpg]]
+![[Assets/apache_spark_logo.png]]
 
 [Apache Spark](https://spark.apache.org/) is a data processing engine used in Data Engineering primarily for large scale data processing.
 
 ## Official Documentation
+
 https://spark.apache.org/docs/latest/
 
-## Advantages
-- Speed
+## Apache Spark Advantages
+
+- High speed data querying, analysis, and transformation with large data sets
+- Easy to use APIs
 - Support for multiple programming languages
 
-## Disadvantages
+## Apache Spark Disadvantages
 
-## Learning Resources
+#placeholder/description 
 
-## Recent Posts
+## Apache Spark Learning Resources
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrTqJieLqrOr9xSv?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## [Apache Spark Recent Posts](https://www.reddit.com/r/dataengineering/search/?q=Apache%20Spark&restrict_sr=1&sr_nsfw=)
 
 %% wiki footer: Please don't edit anything below this line %%
 
