@@ -4,6 +4,8 @@ Tags: [seedling]
 publish: true
 ---
 
+![GitHub Repo stars](https://img.shields.io/github/stars/transform-data/metricflow?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/transform-data/metricflow) ![GitHub](https://img.shields.io/github/license/transform-data/metricflow)
+
 [Metricflow](https://transform.co/metricflow/) translates a simple metric definition into reusable SQL, and executes it against the SQL engine of your choice. This makes it easy to get consistent metric output broken down by attributes (dimensions) of interest.
 
 ## Metricflow Official Documentation
