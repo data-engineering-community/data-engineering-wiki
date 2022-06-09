@@ -10,6 +10,16 @@ A single source of truth for how metrics are defined and their business logic in
 
 - You can define a metric once and use it everywhere
 
+## Metrics Layer Disadvantages
+
+#placeholder/description
+
+## Popular Metrics Layer Tools
+[[Cube.js]]
+[[Metriql]]
+[[data build tool|dbt]] (with [dbt metrics + dbt server coming soon](https://www.getdbt.com/blog/licensing-dbt/))
+[[Metricflow]]
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub
