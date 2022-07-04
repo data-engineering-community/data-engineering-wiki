@@ -42,12 +42,6 @@ Modern day batch processing methods often use a combination of both concurrent a
 
 As mentioned above, live data streaming is a challenge for batch processing traditionally. While attempts have been made to use concurrent and parallel batch processing methods to analyze "microbatches" stacked on top of eachother on extremely powerful machines, the use case for complex architectures like this is niche. For the majority of live data cases, [[Stream Data Processing|stream processing]] is still preferred. The main business use case for batch processing for this application is when such large quantities of data needs to be analyzed that stream data processing is not a viable option.
 
-### Batch Processing Interview Questions
-
-Data engineering interviews can ask questions on what the best processing method would be for a certain business case. Think carefully about any contextual questions that would be necessary and ask the interviewer targeted questions to get the required context.
-
-More complicated architecture questions will require multiple processing techniques, so make sure to feel comfortable distinguishing between different processing methods for different kinds of datasets.
-
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub
