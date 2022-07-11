@@ -26,7 +26,19 @@ A collection of notes that are connected organically but loosely organized into 
 5. **[Tutorials](https://dataengineering.wiki/Tutorials/Tutorials):** Step-by-step instructions for Data Engineering tasks.
 6. **[Learning Resources](https://dataengineering.wiki/Learning+Resources):** Learn Data Engineering with resources recommended by the Data Engineering community.
 
-![Wiki Graph Timelapse](Assets/wiki_graph_timelapse.gif)
+## Sponsors
+
+The Data Engineering Wiki is an CC0-1.0-licensed open source project with its ongoing development made possible entirely by the support of these awesome [backers](https://github.com/data-engineering-community/data-engineering-wiki/blob/main/BACKERS.md). If you'd like to join them, please consider [sponsoring the Data Engineering Wiki's development](https://github.com/data-engineering-community/data-engineering-wiki).
+
+<div align="center">
+
+## Gold Sponsors
+
+<a href="https://dataengjobs.com/">
+    <img src="https://avatars.githubusercontent.com/u/109050594?v=4" width=250>
+</a>
+
+</div>
 
 ## How to run it locally
 

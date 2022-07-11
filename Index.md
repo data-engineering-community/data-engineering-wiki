@@ -18,6 +18,12 @@ It contains a constantly evolving collection of topics related to data engineeri
 [[Tutorials]]: Step-by-step instructions for Data Engineering tasks.
 [[Learning Resources]]: Learn Data Engineering with resources recommended by other Data Engineers.
 
+## Gold Sponsors
+
+<a href="https://dataengjobs.com/">
+    <img src="https://avatars.githubusercontent.com/u/109050594?v=4" width=250>
+</a>
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub
