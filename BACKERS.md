@@ -13,3 +13,7 @@ The Data Engineering Wiki is an CC0-1.0-licensed open source project with its on
 </a>
 
 </div>
+
+## Backers
+
+- digitalghost-dev
