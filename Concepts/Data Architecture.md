@@ -13,6 +13,7 @@ publish: true
 - [[Data Mesh]]
 - [[Data Warehouse]]
 - [[Lambda Architecture]]
+- [[Kappa Architecture]]
 
 %% wiki footer: Please don't edit anything below this line %%
 
