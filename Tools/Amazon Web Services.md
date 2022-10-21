@@ -29,6 +29,12 @@ publish: true
 - [[Amazon Step Functions]]
 - [[Amazon MWAA (Managed Airflow)]]
 
+## Data Migration and Streaming
+
+- [[Amazon DMS]]
+- [[Amazon MSK]]
+- [[Amazon Kinesis]]
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub
