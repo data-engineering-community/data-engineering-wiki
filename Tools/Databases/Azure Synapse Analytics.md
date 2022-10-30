@@ -1,5 +1,5 @@
 ---
-Aliases: [Azure Synapse]
+Aliases: [Azure Synapse, Azure Data Warehouse]
 Tags: [seedling]
 publish: true
 ---
