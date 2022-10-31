@@ -40,7 +40,7 @@ This way of working, the *Divide and Conquer* system, is also what defines MapRe
 - Map: Map will read important information in the HDFS environment, analyzing key-value pairs and sending them to the datanodes.
 - Reduce: Reduce will retrieve all pairs and group them by its key to produce the final pairs. Once this finishes, the data will be stored in a datanode.
 
-When MapReduce function is finished, the Master will be informed.
+When the MapReduce function is finished, the leader will be informed.
 
 ![](../Assets/mapreduce.png)
 
