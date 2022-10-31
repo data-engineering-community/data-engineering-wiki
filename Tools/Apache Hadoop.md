@@ -29,7 +29,7 @@ https://hadoop.apache.org/docs/current/
 **HDFS** or Hadoop Distributed File System is a native tool on Hadoop that let us store structured and non-structured data on a local cluster. Although HDFS is the main option and is the one Apache Spark uses as well, Hadoop offers other tools such as HFTP, HSFTP, WebHDFS, and Amazon S3.
 
 
-# How does Hadoop works?
+# How does Hadoop work?
 
 Apache Hadoop is settled upon a **Master-Slave** system. A Master node, also known as *NameNode* in HDFS, will be the responsible of setting tasks and send information to Slave nodes through the information nodes, known as *DataNodes*. 
 
