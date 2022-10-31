@@ -26,7 +26,7 @@ https://hadoop.apache.org/docs/current/
 
 # HDFS
 
-**HDFS** or Hadoop Distributed File System is a native tool on Hadoop that let us store from structured to non-structured data on a local cluster. Although HDFS is the main option, and is the one Apache Spark uses as well, Hadoop offers other tools such as HFTP, HSFTP, WebHDFS and Amazon S3.
+**HDFS** or Hadoop Distributed File System is a native tool on Hadoop that let us store structured and non-structured data on a local cluster. Although HDFS is the main option and is the one Apache Spark uses as well, Hadoop offers other tools such as HFTP, HSFTP, WebHDFS, and Amazon S3.
 
 
 # How does Hadoop works?
