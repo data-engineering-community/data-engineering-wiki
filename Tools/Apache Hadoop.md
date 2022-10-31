@@ -42,7 +42,7 @@ This way of working, the *Divide and Conquer* system, is also what defines MapRe
 
 When the MapReduce function is finished, the leader will be informed.
 
-![](../Assets/mapreduce.png)
+![[Assets/mapreduce.png]]
 
 # When to use Hadoop?
 
