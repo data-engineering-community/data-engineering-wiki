@@ -35,7 +35,7 @@ Apache Hadoop is settled upon a **Leader-Follower** system. A Leader node, also 
 
 Once the *name node* and the *data nodes* are configured, the Leader will set a **job-tracker**. This job-tracker will have control over the tasks using **task-trackers** on the Follower nodes. This is done to prevent Followers from trying to complete every task, that is, job-trackers **indicate exactly** which tasks must be done on each follower node as well as which information every follower node needs to fetch from the data nodes.
 
-This way of working, the *Divide and Conquer* system, is also what defines MapReduce on Hadoop. Tasks get divided to every Slave node, which improves data processing speed on real large datasets. MapReduce consists of two functions:
+This way of working, the *Divide and Conquer* system, is also what defines MapReduce on Hadoop. Tasks get divided to every follower node, which improves data processing speed on real large datasets. MapReduce consists of two functions:
 
 - Map: Map will read important information in the HDFS environment, analyzing key-value pairs and sending them to the datanodes.
 - Reduce: Reduce will retrieve all pairs and group them by its key to produce the final pairs. Once this finishes, the data will be stored in a datanode.
