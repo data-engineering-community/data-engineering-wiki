@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-![[Assets\hadoop_logo.jpg]]
+![](../Assets/hadoop_logo.jpg)
 
 [Apache Hadoop](https://hadoop.apache.org/) is a data processing framework designed to batch process big amounts of data.
 
@@ -42,7 +42,7 @@ This way of working, the *Divide and Conquer* system, is also what defines MapRe
 
 When MapReduce function is finished, the Master will be informed.
 
-![[Assets\mapreduce.png]]
+![](../Assets/mapreduce.png)
 
 # When to use Hadoop?
 
