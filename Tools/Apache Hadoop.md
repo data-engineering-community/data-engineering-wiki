@@ -31,7 +31,7 @@ https://hadoop.apache.org/docs/current/
 
 # How does Hadoop work?
 
-Apache Hadoop is settled upon a **Master-Slave** system. A Master node, also known as *NameNode* in HDFS, will be the responsible of setting tasks and send information to Slave nodes through the information nodes, known as *DataNodes*. 
+Apache Hadoop is settled upon a **Leader-Follower** system. A Leader node, also known as *NameNode* in HDFS, will be responsible for creating tasks and sending information to Follower nodes through the information nodes, known as *DataNodes*. 
 
 Once the *namenode* and the *datanodes* are configured, the Master will set a **job-tracker**. This job-tracker will have control over the tasks using **task-trackers** on the Slave nodes. This is done to prevent Slaves trying to complete every task, that is, job-trackers **indicate exactly** which tasks must be done on each Slave node as well as which information does every Slave node need to fetch from the datanodes.
 
