@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-![](../Assets/hadoop_logo.jpg)
+![[Assets/hadoop_logo.jpg]]
 
 [Apache Hadoop](https://hadoop.apache.org/) is a data processing framework designed to batch process big amounts of data.
 
