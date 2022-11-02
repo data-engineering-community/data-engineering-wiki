@@ -46,9 +46,15 @@ When the MapReduce function is finished, the leader will be informed.
 
 # When to use Hadoop?
 
+<<<<<<< HEAD
 |   |                        **_Use it if..._**                       |                   **_Don't use it if..._**                  |
 |:-:|:---------------------------------------------------------------:|:-----------------------------------------------------------:|
 |   | **You are working with tasks that can be divided on side jobs** | **You are working with serial tasks or  low latency tasks** |
+=======
+|                        **_Use it if..._**                       |                   **_Don't use it if..._**                  |
+|:---------------------------------------------------------------:|:-----------------------------------------------------------:|
+| **You are working with tasks that can be divided on side jobs** | **You are working with serial tasks or  low latency tasks** |
+>>>>>>> upstream/main
 
 %% wiki footer: Please don't edit anything below this line %%
 
