@@ -8,7 +8,7 @@ publish: true
 
 This tutorial will cover basic RDD operations that can be run on either Google Colab or Databricks Community Edition.
 
-# Official Documentation
+## Official Documentation
 
 https://spark.apache.org/docs/latest/rdd-programming-guide.html
 
@@ -31,7 +31,7 @@ conf = SparkConf().setAppName('test').setMaster('local')
 sc = SparkContext(conf=conf)
 ```
 
-# First Steps
+## First Steps
 
 In order to work with RDDs we need to understand how an RDD is created. We will execute `sc.parallelize([your_data])` to create an RDD. By default, Spark admits *lists* and *dictionaries* on the parallelize argument. Now, if we want to see the content of an RDD, we must execute `.collect()`.
 
