@@ -1,5 +1,5 @@
 ---
-Aliases: [Apache Spark]
+Aliases: []
 Tags: [seedling]
 publish: true
 ---
@@ -12,7 +12,7 @@ This tutorial will cover basic RDD operations that can be run on either Google C
 
 https://spark.apache.org/docs/latest/rdd-programming-guide.html
 
-# Configuration
+## Configuration
 
 While Databricks has Spark installed as a native module, Google Colab needs some previous configuration to set the environment for the RDD operations.
 

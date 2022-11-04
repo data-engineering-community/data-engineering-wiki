@@ -37,13 +37,13 @@ Spark describes tasks based on a DAG (**Directed Acyclic Graphs**), it gives pro
 - *Acyclic*: means that there are no loops on the tasks
 - *Graph*: is a reference on how they can be displayed as an actual graph
 
-DAG system is also fault tolerant.
+A DAG system is also fault-tolerant.
 
 ## Apache Spark RDDs
 
 RDDs (**Resilient Distributed Datasets**) are the main Spark abstraction. They consist of element sets that are fault tolerance and able to be parallel processed. RDDs also provide scalability due to being distributed processes as well as being immutable. 
 
-RDDs admit two kind of operations: **transformations** (such as filter, map...) and **actions** (such as reduce, collect...). Spark RDDs tend to perform lazy evaluation, which improves efficiency by executing operations only when they are needed.
+RDDs emit two kind of operations: **transformations** (such as filter, map...) and **actions** (such as reduce, collect...). Spark RDDs tend to perform lazy evaluation, which improves efficiency by executing operations only when they are needed.
 
 ## Apache Spark Learning Resources
 
