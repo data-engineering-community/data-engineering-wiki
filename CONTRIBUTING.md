@@ -15,7 +15,9 @@
   - If you are using Obisdian, you can use the [Templates plugin](https://help.obsidian.md/Plugins/Templates) for easy note creation.
 - **Note naming conventions**
   - All note files should use the markdown format and end in the `.md` file extension.
-  - File names should be title case and use spaces instead of hypens or plus symbols.
+  - File names should be title case and use spaces instead of hyphens or plus symbols.
+- **Other guidelines**
+	- Use https://mermaid.live/ to create mermaid.js diagrams
 
 ## Contribution Workflow
 
