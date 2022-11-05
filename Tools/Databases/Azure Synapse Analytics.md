@@ -18,4 +18,4 @@ https://azure.microsoft.com/en-us/resources/developers/synapse-analytics-for-dat
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Azure%20Synapse%20Analytics.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Azure%20Synapse%20Analytics.md "git-hub-copy-note") </span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Databases/Azure%20Synapse%20Analytics.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Databases/Azure%20Synapse%20Analytics.md "git-hub-copy-note") </span>
