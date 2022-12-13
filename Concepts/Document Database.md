@@ -35,6 +35,11 @@ A document database is a type of [[Non-relational Database|NoSQL]] database that
 - Storing article content, social media posts, sensor data, and other unstructured data.
 - You need to develop and iterate rapidly when building a product.
 
+## Document Database Use Cases
+
+- Content management
+- Catalogs. For example, in an e-commerce application, storing different products with different attributes.
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub

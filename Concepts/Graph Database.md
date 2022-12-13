@@ -8,12 +8,20 @@ A graph database is a type of [[Non-relational Database|NoSQL]] database that us
 
 ![[graph_database_example.png]]
 
-# Popular Graph Databases
+## Popular Graph Databases
+
 [Neo4j](https://neo4j.com/)
 [ArangoDB](https://www.arangodb.com/)
 [OrientDB](https://orientdb.com/)
 [Titan](https://titan.thinkaurelius.com/)
 [Azure Cosmos DB Graph API](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
+
+## Graph Database Use Cases
+
+- Social networks
+- Fraud detection
+- Anti-money laundering
+- Machine Learning
 
 %% wiki footer: Please don't edit anything below this line %%
 
