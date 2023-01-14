@@ -6,9 +6,7 @@ publish: false
 
 ## Overview
 
-This guide is intended to be a general SQL reference for data engineers. It is not specific to any particular [[SQL#[SQL Variants](http://troels.arvin.dk/db/rdbms/)|variant of SQL]]. It also does not cover every concept or feature of SQL - only the most important or commonly used ones in data engineering.
-
-![[SQL#^e63bc3]]
+This guide is intended to be a general [[SQL]] reference for data engineers. It is not specific to any particular [[SQL#[SQL Variants](http://troels.arvin.dk/db/rdbms/)|variant of SQL]]. It also does not cover every concept or feature of SQL - only the most important or commonly used ones in data engineering.
 
 > [!info]- ### SQL Learning Resources
 > ![[Learning Resources#SQL Learning Resources]]
@@ -17,10 +15,10 @@ This guide is intended to be a general SQL reference for data engineers. It is n
 ## 1. Beginner SQL
 
 ### Basic Commands
+
 **SELECT**
 * Used to select data from a database
 * The data returned is stored in a result table, called the result-set.
-> [!tip] Avoid using `SELECT *` in data pipelines - only select the data you need.
 
 **FROM**
 * Used to specify which table to select or delete data from.
