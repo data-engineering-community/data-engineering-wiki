@@ -69,7 +69,17 @@ This guide is intended to be a general [[SQL]] reference for data engineers. It 
 
 ### CTE vs Subquery
 
-#placeholder
+**CTE**
+
+* Can be used multiple times in the body of a query.
+* Allows for recursive queries.
+* Generally more readable.
+
+**Subquery**
+
+* Can only be used once in a query.
+* Can be used to filter results in the `WHERE` clause.
+* Can be used as a column in your query.
 
 ### Table vs View vs Materialized View
 
