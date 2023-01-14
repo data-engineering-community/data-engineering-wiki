@@ -18,7 +18,7 @@ This guide is intended to be a general SQL reference for data engineers. It is n
 
 ### Basic Commands
 **SELECT**
-* Used to selet data from a database
+* Used to select data from a database
 * The data returned is stored in a result table, called the result-set.
 > [!tip] Avoid using `SELECT *` in data pipelines - only select the data you need.
 
