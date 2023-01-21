@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-![[Assets/google_bigquery_logo.png]]
+![[Assets/google_bigquery_logo.png|100]]
 
 [Google BigQuery](https://cloud.google.com/bigquery/) is an analytics data warehouse that Google Cloud offers. It lets you run complex queries quickly over large data sets, and there's no need to set up or manage any infrastructure.
 

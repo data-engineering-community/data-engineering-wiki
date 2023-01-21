@@ -6,7 +6,7 @@ publish: true
 
 A Data Pipeline is a term used to describe a workflow consisting of one or more tasks that ingest, move, and transform raw data from one or more sources to destination. Usually, the destination data is then used for analysis or other business functions. There are generally 2 types of data pipelines: [[Batch Data Processing|batch processing]] (most common) and [[Stream Data Processing|real-time processing]] pipelines.
 
-![[data_pipeline_patterns.png]]
+![[data_pipeline_patterns.png|800]]
 *"Data Pipeline Patterns" by Informatica.com*
 
 ## Data Pipeline Architecture
@@ -17,7 +17,7 @@ The architecture you choose can vary wildly and there is no one size fits all. H
 
 ### Data Sources
 
-Common data sources are application databases, APIs, or files from an SFTP server. If you are looking for data sources to practice with or analyze, many governments publish their datasets publically and you can find them by searching "[open data portal](http://googleitfor.me/?q=open+data+portal)."
+Common data sources are application databases, APIs, or files from an SFTP server. If you are looking for data sources to practice with or analyze, many governments publish their datasets publicly and you can find them by searching "[open data portal](http://googleitfor.me/?q=open+data+portal)."
 
 ### Business Logic
 

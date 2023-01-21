@@ -24,7 +24,7 @@ Normalization is the process of organizing data in a database to reduce redundan
 
 ## Normalization Examples
 
-![[Assets/normalization_example.png]]
+![[Assets/normalization_example.png|800]]
 
 %% wiki footer: Please don't edit anything below this line %%
 

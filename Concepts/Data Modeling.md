@@ -5,7 +5,7 @@ publish: true
 ---
 Data Modeling is the process of mapping out an information system and how multiple parts are connected. Data models are typically illustrated in an entity-relationship diagram for relational databases like the picture below.
 
-![[Assets/data_model_example.png]]
+![[Assets/data_model_example.png|500]]
 
 ## Benefits of data modeling
 Data modeling makes it easier for developers and other stakeholders to view and understand the relationships between data in a database or data warehouse. A good data model can also have the following benefits:
@@ -20,6 +20,9 @@ Data modeling makes it easier for developers and other stakeholders to view and 
 [Star Schema](https://en.wikipedia.org/wiki/Star_schema)
 [Snowflake Schema](https://en.wikipedia.org/wiki/Snowflake_schema)
 [Data Vault](https://en.wikipedia.org/wiki/Data_vault_modeling)
+[[One Big Table]]
+[[Dimensional Data Modeling|Dimensional Modeling]]
+[[Data Vault Modeling]]
 
 ![[Learning Resources#Data Modeling Learning Resources]]
 

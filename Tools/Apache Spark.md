@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-![[Assets/apache_spark_logo.png]]
+![[Assets/apache_spark_logo.png|100]]
 
 [Apache Spark](https://spark.apache.org/) is a data processing engine used in Data Engineering primarily for large scale data processing.
 

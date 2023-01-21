@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-![[Assets/benthos.png]]
+![[Assets/benthos.png|100]]
 
 [Benthos](https://www.benthos.dev/) is a free and open source data streaming engine written entirely in Go and packaged as a static single-binary command line tool. It comes with a wide range of [connectors](https://www.benthos.dev/docs/about/#components) and is totally data agnostic.
 

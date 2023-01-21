@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-![[Assets/rockset_logo.png]]
+![[Assets/rockset_logo.png|100]]
 
 [Rockset](https://rockset.com/) is a real-time analytics database designed to serve low latency, high concurrency analytical queries at scale. It builds a Converged Index™ on structured and semi-structured data from OLTP databases, streams and lakes in real-time and exposes a RESTful SQL interface.
 
