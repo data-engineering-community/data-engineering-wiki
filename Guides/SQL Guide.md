@@ -57,7 +57,10 @@ This guide is intended to be a general [[SQL]] reference for data engineers. It 
 
 #### Limit
 
-#placeholder
+Used to specify the number of records to return. Different database systems use their own syntax:
+* SQL Server = `SELECT TOP 3 * FROM Customers;`
+* MySQL = `SELECT * FROM Customers LIMIT 3;`
+* Oracle = `SELECT * FROM Customers WHERE ROWNUM <= 3`
 
 #### Where vs Having
 
@@ -85,17 +88,45 @@ This guide is intended to be a general [[SQL]] reference for data engineers. It 
 
 #placeholder 
 
-### Case statements
+### Case Statements
 
-#placeholder 
+Case statements are SQL's version of an if-else logic. The `CASE` expression goes through conditions and returns a value when the first condition is met. Once a condition is true, it will stop reading and return the result. If no conditions are true, it returns the value in the `ELSE` clause.
+
+Example:
+```SQL
+--Sytanx
+CASE
+    WHEN condition1 THEN result1
+    WHEN condition2 THEN result2
+    WHEN conditionN THEN resultN
+    ELSE result
+END;
+
+--Example
+SELECT OrderID, Quantity,
+CASE
+    WHEN Quantity > 30 THEN 'The quantity is greater than 30'
+    WHEN Quantity = 30 THEN 'The quantity is 30'
+    ELSE 'The quantity is under 30'
+END AS QuantityText
+FROM OrderDetails;
+```
 
 ### DML vs DDL
 
 #placeholder
 
-### Aggregate functions
+### Aggregate Functions
 
-#placeholder 
+An SQL aggregate function calculates on a set of values and returns a single value. For example, the average function `(AVG)` takes a list of values and returns the average.
+
+Other basic aggregate functions include:
+* `COUNT()` – returns the number of items in a set.
+* `MAX()` – returns the maximum value in a set.
+* `MIN()` – returns the minimum value in a set
+* `SUM()` – returns the sum of all or distinct values in a set
+
+Note that aggregate functions do not work within in a `WHERE` clause due to the order of evaluation of clauses. Instead, `GROUP BY` and `HAVING` clases are used in place of a `WHERE` clause.
 
 ---
 
@@ -105,6 +136,8 @@ This guide is intended to be a general [[SQL]] reference for data engineers. It 
 [Online Reference](https://www.sqltutorial.org/sql-window-functions/)
 
 Window functions perform calculations on a set of rows that are related together, but, unlike aggregate functions, windowing functions do not collapse the result of the rows into a single value. Instead, all the rows maintain their original identity and the calculated result is returned for every row.
+
+![[Assets/window-vs-aggregate-function.png]]
 
 
 ### Correlated Subqueries
