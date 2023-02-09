@@ -14,6 +14,20 @@ This guide is intended to be a general [[SQL]] reference for data engineers. It 
 ---
 ## 1. Beginner SQL
 
+### Order of Operations
+> SQL executes each clause in a query in a defined order.
+
+1. FROM, including JOINs
+2. WHERE
+3. GROUP BY
+4. HAVING
+5. WINDOW functions
+6. SELECT
+7. DISTINCT
+8. UNION
+9. ORDER BY
+10. LIMIT and OFFSET
+
 ### Basic Commands
 
 **SELECT**
@@ -51,6 +65,28 @@ This guide is intended to be a general [[SQL]] reference for data engineers. It 
 **SELF JOIN**
 * Joins a table to itself.
 
+### UNION vs UNION ALL
+> `UNION` and `UNION ALL` are both used to retrieve records from multiple tables. Both `UNION` and `UNION ALL` are known as set operators. In SQL, set operators combine the results of two or more queries into a single result. 
+
+There is one major difference:
+
+* `UNION` only returns unique
+* `UNION ALL` returns all records, including duplicates.
+
+**Example:**
+*The columns in both SELECT statements are of the same or matching data types.*
+```
+SELECT column_1, column_2
+FROM table_1
+[WHERE condition]
+ 
+UNION [ALL]
+ 
+SELECT column_1, column_2
+FROM table_2
+[WHERE condition]
+```
+
 ### Filtering Data
 
 #placeholder
@@ -64,7 +100,12 @@ Used to specify the number of records to return. Different database systems use 
 
 #### Where vs Having
 
-#placeholder 
+* `WHERE`
+    * Introduces a condition on *individual* rows.
+    * Use **before** `GROUP BY` clause.
+* `HAVING`
+    * Introduces a condition on *aggregations*, i.e. results of selection where a single result, such as `COUNT()`, `SUM()`, `MAX()`, `MIN()` has been produced from multiple rows.
+    * Use **after** `GROUP BY` clause.
 
 ---
 
