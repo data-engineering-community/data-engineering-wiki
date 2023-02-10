@@ -13,13 +13,13 @@ Delta Lake is essentially a metadata layer on top of Parquet.
 
 The file layout looks like:
 
-![source](https://www.databricks.com/wp-content/uploads/2019/08/image6-1.png)
+![[Assets/delta-lake-file-format.png|500]]
 
 Delta Lake Official Documentation
 
 https://docs.delta.io/latest/index.html
 
-## Delta Lake Advantages over plain [[Apache Parquet|Parquet]]
+## Delta Lake Advantages (over plain [[Apache Parquet|Parquet]])
 
 - ACID transactions with optimistic concurrency control.
 - Efficient streaming I/O.
@@ -30,7 +30,7 @@ https://docs.delta.io/latest/index.html
 - UPSERT & MERGE statements.
 - Audit logging.
 
-## Apache Parquet Disadvantages
+## Delta Lake Disadvantages
 
 - Same Parquet disadvantages.
 - Maintenance processes _are_ required to maintain its performance, e.g. `OPTIMIZE`.
