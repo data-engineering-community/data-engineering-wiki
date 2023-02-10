@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-![GitHub Repo stars](https://img.shields.io/github/stars/apache/parquet-mr?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/parquet-mr) ![GitHub](https://img.shields.io/github/license/apache/parquet-mr)
+![GitHub Repo stars](https://img.shields.io/github/stars/delta-io/delta?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/delta-io/delta) ![GitHub](https://img.shields.io/github/license/delta-io/delta)
 
 [Delta Lake](https://databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf) is an open-source storage framework that enables building a  
 [Lakehouse architecture](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf) with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
