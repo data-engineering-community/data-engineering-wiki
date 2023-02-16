@@ -18,16 +18,16 @@ publish: true
 - [[Amazon Glacier]]
 
 ## Computation
-- [[Amazon Lambda Function]]
+- [[Amazon Lambda]]
 - [[Amazon EC2]]
 - [[Amazon ECS]]
 - [[Amazon Fargate]]
 - [[Amazon EMR]]
-- [[AWS Batch]]
+- [[Amazon Batch]]
 
 ## Scheduling and Workflow Orchestration
 - [[Amazon Step Functions]]
-- [[Amazon MWAA (Managed Airflow)]]
+- [[Amazon Managed Airflow]]
 
 ## Data Migration and Streaming
 
