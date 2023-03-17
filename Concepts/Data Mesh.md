@@ -10,7 +10,7 @@ Data Mesh is an analytical data architecture and operating model where data is t
 
 1. **Domain Ownership**: Arranging Data in Domains and declaring full end-to-end ownership
 2. **Data as a Product**: Applying Product-thinking to Data Assets and bridging the gap  between Producers and Consumers
-3. **Self-serve Data Platform**: Removing the intricancies of Infrastructure provisioning to enable domain autonomy and shorten lifecycles
+3. **Self-serve Data Platform**: Removing the intricacies of Infrastructure provisioning to enable domain autonomy and shorten lifecycles
 4. **Federated Computational Governance**: Seeking interoperability through global standardization
 
 
@@ -23,7 +23,7 @@ Data Mesh is an analytical data architecture and operating model where data is t
 
 ## Data Mesh Disadvantages
 
-- The decentralisation of data is challenging. It requires changes not only technically, but also at organizational and mindset levels.
+- The decentralization of data is challenging. It requires changes not only technically, but also at organizational and mindset levels.
 
 %% wiki footer: Please don't edit anything below this line %%
 
