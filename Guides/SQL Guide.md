@@ -28,6 +28,7 @@ This guide is intended to be a general [[SQL]] reference for data engineers. It 
 9. ORDER BY
 10. LIMIT and OFFSET
 
+---
 ### Basic Commands
 
 **SELECT**
@@ -45,6 +46,7 @@ This guide is intended to be a general [[SQL]] reference for data engineers. It 
 * Used to sort the result set in ascending or descending order.
 * Sorts the result set in ascending order by default. To sort the records in descending order, use the `DESC` keyword.
 
+---
 ### Joins
 
 **INNER JOIN**
@@ -65,6 +67,7 @@ This guide is intended to be a general [[SQL]] reference for data engineers. It 
 **SELF JOIN**
 * Joins a table to itself.
 
+---
 ### UNION vs UNION ALL
 > `UNION` and `UNION ALL` are both used to retrieve records from multiple tables. Both `UNION` and `UNION ALL` are known as set operators. In SQL, set operators combine the results of two or more queries into a single result. 
 
@@ -87,11 +90,71 @@ FROM table_2
 [WHERE condition]
 ```
 
+---
 ### Filtering Data
 
-#placeholder
+> Filtering data with SQL is useful for returning desired reults from a dataset or table. Filtering can be accomplsihed with the `WHERE` clause.
 
-#### Limit
+**Examples:**
+
+* Filter with logical operators
+
+**AND** operator
+```
+# this will return rows where the City column has a value of "London" and the Country column has a value of "UK"
+
+SELECT *
+FROM Customers
+WHERE City = "London" AND Country = "UK"
+```
+**OR** operator
+```
+# this will return rows where the City column has a value of either "London" or "Paris"
+
+SELECT *
+FROM Customers
+WHERE City = "London" OR City = "Paris"
+```
+**BETWEEN** operator
+```
+# this will return rows where the Price column has values that are between 50 and 60
+
+SELECT *
+FROM Products
+WHERE Price BETWEEN 50 AND 60
+```
+**LIKE** operator
+```
+# this will return rows where the City column has values that start with 'S' with no character limit
+
+SELECT *
+FROM Customers
+WHERE City LIKE 'S%'
+
+>> Santiago, Sydney, San Antonio
+
+# the '%' wildcard can placed any where in a string to try and find a match
+
+SELECT *
+FROM Customers
+WHERE City LIKE '%ar%'
+
+>> Paris, Barcelona, Jakarta
+
+# the '_' wildcard can also be used in conjuction with '%' to find a single value
+# this will return rows where 'a' has to be the second character and the rest of the characters can be anything
+
+SELECT *
+FROM Customers
+WHERE City LIKE '_a%'
+
+>> Lagos, Manila, Cairo
+```
+
+
+
+---
+### Limit
 
 Used to specify the number of records to return. Different database systems use their own syntax:
 * SQL Server = `SELECT TOP 3 * FROM Customers;`
