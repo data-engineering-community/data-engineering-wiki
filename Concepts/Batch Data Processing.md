@@ -22,7 +22,7 @@ Compared to [[Stream Data Processing|stream processing]], batch processing is us
 
 ### Processing Speed
 
-Because batch processing allows companies to process large amounts of data quickly, this speeds up procesing time and delivers data that companies can use in a timely fashion.
+Because batch processing allows companies to process large amounts of data quickly, this speeds up processing time and delivers data that companies can use in a timely fashion.
 
 ## Advanced Batch Processing
 
@@ -40,7 +40,7 @@ Parallel batch processing takes a similar approach as concurrent batch processin
 
 Modern day batch processing methods often use a combination of both concurrent and parallel batch processing. Also called parallel concurrent batch processing, by finding the right balance of parameter tunings to optimize how each CPU core handles multiple tasks and how each worker system handles a single task, when properly configured, parallel concurrent batch processing is a state of the art solution. Institutions that require greater stability and security such as the financial sector most commonly use parallel concurrent batch processing. For the most important data, often multiple redundant batches are run so that even if one batch fails, other batches can cover for the mistakes of the failure.
 
-As mentioned above, live data streaming is a challenge for batch processing traditionally. While attempts have been made to use concurrent and parallel batch processing methods to analyze "microbatches" stacked on top of eachother on extremely powerful machines, the use case for complex architectures like this is niche. For the majority of live data cases, [[Stream Data Processing|stream processing]] is still preferred. The main business use case for batch processing for this application is when such large quantities of data needs to be analyzed that stream data processing is not a viable option.
+As mentioned above, live data streaming is a challenge for batch processing traditionally. While attempts have been made to use concurrent and parallel batch processing methods to analyze "microbatches" stacked on top of each other on extremely powerful machines, the use case for complex architectures like this is niche. For the majority of live data cases, [[Stream Data Processing|stream processing]] is still preferred. The main business use case for batch processing for this application is when such large quantities of data needs to be analyzed that stream data processing is not a viable option.
 
 %% wiki footer: Please don't edit anything below this line %%
 

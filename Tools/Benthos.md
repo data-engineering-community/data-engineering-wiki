@@ -21,7 +21,7 @@ The [Community](https://www.benthos.dev/community/) page contains links to vario
 - Can be used for both realtime and batch processing use cases
 - Provides a unified framework for building data streaming pipelines
 - Simple and easy to deploy
-- Well-maintained and organised codebase written in pure Go
+- Well-maintained and organized codebase written in pure Go
 - Stateless
 
 ## Popular use cases
