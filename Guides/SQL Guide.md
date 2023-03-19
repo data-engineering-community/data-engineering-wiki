@@ -190,7 +190,13 @@ Used to specify the number of records to return. Different database systems use 
 
 ### Table vs View vs Materialized View
 
-#placeholder 
+| Table | View | Materialized View |
+|------------ | ------------| ------------|
+| A **table** contains records (rows) with data values for specified columns (fields) and is stored physically in a database. Tables can be joined together to create reports, manipulated through SQL queries, and changed directly by updating or deleting individual rows or columns. | A **view** is a virtual table based on the results of a SQL statement. It does not physically exist in the database and the fields in the view are fields from one or more real tables in the database. | A **materialized view** is a snapshot of a query saved as a physical object within the database. Materialized views can be used instead of tables and support all operations available to real tables with some drawbacks such as maintenance costs. |
+| Data physically stored in database | Data not physically stored | Data physically stored in database |
+| Faster to query | Slower to query | Faster to query |
+|  | If underlying table is dropped then view will no longer work | Materialized view will continue to work if underlying table is dropped |
+| No additional maintenance required | No additional maintenance required | Needs to be updated as new/updated data arrive in underlying table |
 
 ### Case Statements
 
