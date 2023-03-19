@@ -4,7 +4,7 @@ Tags: [incubating]
 publish: true
 ---
 
-Batch processing is a term used to describe collecting, modifying, or exporting multiple data records at a regular cadence with downtime in betwen batches. Because large amounts of data can be processed all at once in these batches it can be a very efficient approach and is best suited for handling frequent, repetitive tasks. It is the most common form of data processing that fits many businesses data needs.
+Batch processing is a term used to describe collecting, modifying, or exporting multiple data records at a regular cadence with downtime in between batches. Because large amounts of data can be processed all at once in these batches it can be a very efficient approach and is best suited for handling frequent, repetitive tasks. It is the most common form of data processing that fits many businesses data needs.
 
 A key point to remember about batch processing is that it was originally designed to handle non-continuous data. [[Stream Data Processing|Stream processing]] is typically used for continuous data, though there are ways to configure the architecture behind batch processing to enable quasi-continuous workflows. (See [Concurrent Batch Processing](#Concurrent+Batch+Processing) below)
 
