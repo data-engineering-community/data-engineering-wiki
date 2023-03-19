@@ -3,7 +3,7 @@ Aliases: [Databricks]
 Tags: [seedling]
 publish: true
 ---
-[Databricks](https://databricks.com) is an Data Architecture Platform used for Data analytics, Data Engineering, and Data Science work. 
+[Databricks](https://databricks.com) is a Data Architecture Platform used for Data analytics, Data Engineering, and Data Science work. 
 
 ## Databricks Official Documentation
 
