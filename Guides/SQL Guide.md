@@ -1,7 +1,7 @@
 ---
 Aliases: []
 Tags: [seedling]
-publish: false
+publish: true
 ---
 
 ## Overview
