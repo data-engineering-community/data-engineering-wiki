@@ -78,7 +78,7 @@ There is one major difference:
 
 **Example:**
 *The columns in both SELECT statements are of the same or matching data types.*
-```
+```SQL
 SELECT column_1, column_2
 FROM table_1
 [WHERE condition]
@@ -100,7 +100,7 @@ FROM table_2
 * Filter with logical operators
 
 **AND** operator
-```
+```SQL
 # this will return rows where the City column has a value of "London" and the Country column has a value of "UK"
 
 SELECT *
@@ -108,7 +108,7 @@ FROM Customers
 WHERE City = "London" AND Country = "UK"
 ```
 **OR** operator
-```
+```SQL
 # this will return rows where the City column has a value of either "London" or "Paris"
 
 SELECT *
@@ -116,7 +116,7 @@ FROM Customers
 WHERE City = "London" OR City = "Paris"
 ```
 **BETWEEN** operator
-```
+```SQL
 # this will return rows where the Price column has values that are between 50 and 60
 
 SELECT *
@@ -124,7 +124,7 @@ FROM Products
 WHERE Price BETWEEN 50 AND 60
 ```
 **LIKE** operator
-```
+```SQL
 # this will return rows where the City column has values that start with 'S' with no character limit
 
 SELECT *
