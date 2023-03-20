@@ -4,11 +4,11 @@ Tags: [incubating]
 publish: true
 ---
 
-Batch processing is a term used to describe collecting, modifying, or exporting multiple data records at a regular cadence with downtime in betwen batches. Because large amounts of data can be processed all at once in these batches it can be a very efficient approach and is best suited for handling frequent, repetitive tasks. It is the most common form of data processing that fits many businesses data needs.
+Batch processing is a term used to describe collecting, modifying, or exporting multiple data records at a regular cadence with downtime in between batches. Because large amounts of data can be processed all at once in these batches it can be a very efficient approach and is best suited for handling frequent, repetitive tasks. It is the most common form of data processing that fits many businesses data needs.
 
-A key point to remember about batch processing is that it was originally designed to handle non-continuous data. [[Stream Data Processing|stream processing]] is typically used for continuous data, though there are ways to configure the architecture behind batch processing to enable quasi-continuous workflows. (See [Concurrent Batch Processing](#concurrent-batch-processing) below)
+A key point to remember about batch processing is that it was originally designed to handle non-continuous data. [[Stream Data Processing|Stream processing]] is typically used for continuous data, though there are ways to configure the architecture behind batch processing to enable quasi-continuous workflows. (See [Concurrent Batch Processing](#Concurrent+Batch+Processing) below)
 
-Many businesses face increasingly complicated and diverse data challenges due to the sheer magnitude of data available. Batch processing has increased in sophistication, and is also often used in conjunction with other processing techniques for modern analysis. While batch processing used to be by far the most common and widely used method of data processing, recently real-time or near real-time [[Stream Data Processing|stream processing]] has proven to be a worthy competitor. As traditional batch systems run overnight to process data accumulated during the day, there is naturally a delta between the real world versus what the data is actually describing. [Advanced Batch Processing](#advanced-batch-processing) partially solves this issue, but even the most advanced systems cannot compete with [Stream Data Processing|stream processing]] for real-time continuous data.
+Many businesses face increasingly complicated and diverse data challenges due to the sheer magnitude of data available. Batch processing has increased in sophistication, and is also often used in conjunction with other processing techniques for modern analysis. While batch processing used to be by far the most common and widely used method of data processing, recently real-time or near real-time [[Stream Data Processing|stream processing]] has proven to be a worthy competitor. As traditional batch systems run overnight to process data accumulated during the day, there is naturally a delta between the real world versus what the data is actually describing. [Advanced Batch Processing](#Advanced+Batch+Processing) partially solves this issue, but even the most advanced systems cannot compete with [[Stream Data Processing|stream processing]] for real-time continuous data.
 
 ## Batch Data Processing Advantages
 
@@ -22,7 +22,7 @@ Compared to [[Stream Data Processing|stream processing]], batch processing is us
 
 ### Processing Speed
 
-Because batch processing allows companies to process large amounts of data quickly, this speeds up procesing time and delivers data that companies can use in a timely fashion.
+Because batch processing allows companies to process large amounts of data quickly, this speeds up processing time and delivers data that companies can use in a timely fashion.
 
 ## Advanced Batch Processing
 
@@ -40,7 +40,7 @@ Parallel batch processing takes a similar approach as concurrent batch processin
 
 Modern day batch processing methods often use a combination of both concurrent and parallel batch processing. Also called parallel concurrent batch processing, by finding the right balance of parameter tunings to optimize how each CPU core handles multiple tasks and how each worker system handles a single task, when properly configured, parallel concurrent batch processing is a state of the art solution. Institutions that require greater stability and security such as the financial sector most commonly use parallel concurrent batch processing. For the most important data, often multiple redundant batches are run so that even if one batch fails, other batches can cover for the mistakes of the failure.
 
-As mentioned above, live data streaming is a challenge for batch processing traditionally. While attempts have been made to use concurrent and parallel batch processing methods to analyze "microbatches" stacked on top of eachother on extremely powerful machines, the use case for complex architectures like this is niche. For the majority of live data cases, [[Stream Data Processing|stream processing]] is still preferred. The main business use case for batch processing for this application is when such large quantities of data needs to be analyzed that stream data processing is not a viable option.
+As mentioned above, live data streaming is a challenge for batch processing traditionally. While attempts have been made to use concurrent and parallel batch processing methods to analyze "microbatches" stacked on top of each other on extremely powerful machines, the use case for complex architectures like this is niche. For the majority of live data cases, [[Stream Data Processing|stream processing]] is still preferred. The main business use case for batch processing for this application is when such large quantities of data needs to be analyzed that stream data processing is not a viable option.
 
 %% wiki footer: Please don't edit anything below this line %%
 

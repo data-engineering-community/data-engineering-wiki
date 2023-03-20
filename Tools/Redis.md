@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-![[Assets/redis_logo.png]]
+![[Assets/redis_logo.png|100]]
 
 Popular in-memory data platform used as a cache, message broker, and database that can be deployed on-premises, across clouds, and hybrid environments.
 
