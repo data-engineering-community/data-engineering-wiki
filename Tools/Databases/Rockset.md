@@ -19,10 +19,11 @@ https://rockset.com/docs/
 - No need for pre-built schema. Rockset automatically unwinds even nested data
 - You can resize compute without having to stop or restart CDC streams
 - Full-featured joins on streaming data
+- Ingestion and queries can have seperate compute so you can scale for the two workloads independently
 
 ## Rockset Disadvantages
 
-- Ingestion and queries share the same compute so you can't scale for the two workloads independently
+#placeholder/description
 
 %% wiki footer: Please don't edit anything below this line %%
 
