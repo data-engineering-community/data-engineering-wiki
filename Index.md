@@ -24,6 +24,9 @@ It contains a constantly evolving collection of topics related to data engineeri
     <img src="https://avatars.githubusercontent.com/u/109050594?v=4" width=250>
 </a>
 
+<iframe src="https://dataengineeringcommunity.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub
