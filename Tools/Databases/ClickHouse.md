@@ -29,4 +29,4 @@ https://clickhouse.com/docs/en/home/
 <span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Databases/ClickHouse.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Databases/ClickHouse.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/3jZ8D4?rating=Yes&url=https://dataengineering.wiki/Tools/Databases/ClickHouse) or [👎](https://tally.so/r/3jZ8D4?rating=No&url=https://dataengineering.wiki/Tools/Databases/ClickHouse)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Databases/ClickHouse) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Databases/ClickHouse)</span>
