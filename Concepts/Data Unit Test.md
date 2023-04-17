@@ -22,4 +22,7 @@ Other commonly used tests for data are checking to make sure all values in a col
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Data%20Unit%20Test.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Data%20Unit%20Test.md "git-hub-copy-note") </span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Data%20Unit%20Test.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Data%20Unit%20Test.md "git-hub-copy-note")</span>
+
+<span class="git-footer">Was this page helpful?
+[👍](https://tally.so/r/3jZ8D4?rating=Yes&url=https://dataengineering.wiki/Concepts/Data+Unit+Test) or [👎](https://tally.so/r/3jZ8D4?rating=No&url=https://dataengineering.wiki/Concepts/Data+Unit+Test)</span>

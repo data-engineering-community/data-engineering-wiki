@@ -24,4 +24,7 @@ https://cube.dev/docs
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Cube.js.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Cube.js.md "git-hub-copy-note") </span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Cube.js.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Cube.js.md "git-hub-copy-note")</span>
+
+<span class="git-footer">Was this page helpful?
+[👍](https://tally.so/r/3jZ8D4?rating=Yes&url=https://dataengineering.wiki/Tools/Cube.js) or [👎](https://tally.so/r/3jZ8D4?rating=No&url=https://dataengineering.wiki/Tools/Cube.js)</span>
