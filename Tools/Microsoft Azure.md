@@ -10,4 +10,7 @@ publish: true
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Microsoft%20Azure.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Microsoft%20Azure.md "git-hub-copy-note") </span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Microsoft%20Azure.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Microsoft%20Azure.md "git-hub-copy-note")</span>
+
+<span class="git-footer">Was this page helpful?
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Microsoft+Azure) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Microsoft+Azure)</span>

@@ -6,7 +6,7 @@ publish: true
 
 ![[Assets/apache-airflow-logo.png|100]]
 
-[Apache Airflow](https://airflow.apache.org/) is an open-source platform used to programatically develop, schedule, and orchestrate [[Batch Data Processing|batch workflows]]. It is most commonly used to schedule Python and SQL scripts but is flexible enough to schedule any other type of script you might use to build your data pipeline. There are also several companies that offer [Airflow as a service](https://airflow.apache.org/ecosystem/#airflow-as-a-service) if you don't want to manage the infrastructure yourself.
+[Apache Airflow](https://airflow.apache.org/) is an open-source platform used to programmatically develop, schedule, and orchestrate [[Batch Data Processing|batch workflows]]. It is most commonly used to schedule Python and SQL scripts but is flexible enough to schedule any other type of script you might use to build your data pipeline. There are also several companies that offer [Airflow as a service](https://airflow.apache.org/ecosystem/#airflow-as-a-service) if you don't want to manage the infrastructure yourself.
 
 # Official Documentation
 https://airflow.apache.org/docs/
@@ -20,4 +20,7 @@ https://airflow.apache.org/ecosystem/#learning-resources
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Apache%20Airflow.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Apache%20Airflow.md "git-hub-copy-note") </span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Apache%20Airflow.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Apache%20Airflow.md "git-hub-copy-note")</span>
+
+<span class="git-footer">Was this page helpful?
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Apache+Airflow) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Apache+Airflow)</span>

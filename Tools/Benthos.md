@@ -21,7 +21,7 @@ The [Community](https://www.benthos.dev/community/) page contains links to vario
 - Can be used for both realtime and batch processing use cases
 - Provides a unified framework for building data streaming pipelines
 - Simple and easy to deploy
-- Well-maintained and organised codebase written in pure Go
+- Well-maintained and organized codebase written in pure Go
 - Stateless
 
 ## Popular use cases
@@ -33,4 +33,7 @@ The [Community](https://www.benthos.dev/community/) page contains links to vario
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Benthos.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Benthos.md "git-hub-copy-note") </span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Benthos.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Benthos.md "git-hub-copy-note")</span>
+
+<span class="git-footer">Was this page helpful?
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Benthos) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Benthos)</span>

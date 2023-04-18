@@ -31,6 +31,14 @@
 8.  **Reference any relevant issues** or supporting documentation in your PR (for example, “Closes #37.”)
 9.  **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
+## What is the policy for using generative AI?
+
+We will not accept entries that were exclusively generated through an AI tool. We have this policy because:
+
+AI-generated content is often confidently incorrect, leading to the spread of inaccurate or misleading information.
+We provide authorship credit for submissions, and to submit AI-generated work under one's own name would be a violation of our plagiarism policy.
+The Data Engineering Wiki is an educational space for people to learn how to write effective technical documentation. Using generative AI, at this point, negatively impacts that desired learning goal.
+
 ## Tag glossary
 
 We use tags mostly to indicate the status of a note:
