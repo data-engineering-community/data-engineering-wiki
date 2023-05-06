@@ -28,6 +28,12 @@ Data modeling makes it easier for developers and other stakeholders to view and 
 
 %% wiki footer: Please don't edit anything below this line %%
 
+## Data Modeling Tools
+
+- [Oracle Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/download/)
+- [dbdiagram.io](https://dbdiagram.io/home)
+    - This is not a full fledged modeling tool like Oracle Data modeler but supports the modeling using DBML which you can view and then convert DBML to DDL using the [dbml cli](https://www.npmjs.com/package/@dbml/cli)
+
 ## This note in GitHub
 
 <span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Data%20Modeling.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Data%20Modeling.md "git-hub-copy-note")</span>
