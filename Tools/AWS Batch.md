@@ -4,9 +4,9 @@ Tags: [seedling]
 publish: true
 ---
 
-Amazon Batch enables running hundreds of thousands of batch jobs that scale efficiently.
+AWS Batch enables running hundreds of thousands of batch jobs that scale efficiently.
 
-## Amazon Batch Official Documentation
+## AWS Batch Official Documentation
 
 https://aws.amazon.com/batch/
 
