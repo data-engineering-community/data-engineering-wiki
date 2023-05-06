@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-AWS RDS (Amazon Web Services Relational Database Service) is a collection of AWS managed services. Featuring several different popular relational database engines, including Aurora, Postgres, and MySQL, RDS is a popular choice for spinning up databases.
+Amazon RDS (Relational Database Service) is a collection of AWS managed services. Featuring several different popular relational database engines, including Aurora, Postgres, and MySQL, RDS is a popular choice for spinning up databases.
 
 One of the key features of RDS is that it is a cloud distributed product. This simplifies the setup of the databases and allows for easier scalability. There are a few features in particular that RDS is known for:
 
