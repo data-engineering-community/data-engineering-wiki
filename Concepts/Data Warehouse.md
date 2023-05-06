@@ -22,7 +22,7 @@ A data warehouse is a central repository for data which will be used for reporti
 Data warehouses are made for complex queries on large datasets. You should consider a data warehouse if you're looking to keep your historical data separate from current transactions for performance reasons.
 
 ## Popular Data Warehouses
-- [[Amazon Redshift]]
+- [[Tools/Databases/Amazon Redshift|Amazon Redshift]]
 - [[Azure Synapse Analytics]]
 - [[Google BigQuery]]
 - [[Microsoft SQL Server]]
