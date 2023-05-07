@@ -26,6 +26,13 @@ Data modeling makes it easier for developers and other stakeholders to view and 
 
 ![[Learning Resources#Data Modeling Learning Resources]]
 
+
+## Data Modeling Tools
+
+- [Oracle Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/download/)
+- [dbdiagram.io](https://dbdiagram.io/home)
+    - This is not a full fledged modeling tool like Oracle Data modeler but supports the modeling using DBML which you can view and then convert DBML to DDL using the [dbml cli](https://www.npmjs.com/package/@dbml/cli)
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub
