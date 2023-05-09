@@ -28,7 +28,7 @@ A collection of notes that are connected organically but loosely organized into 
 
 ## Sponsors
 
-The Data Engineering Wiki is an CC0-1.0-licensed open source project with its ongoing development made possible entirely by the support of these awesome [backers](https://github.com/data-engineering-community/data-engineering-wiki/blob/main/BACKERS.md). If you'd like to join them, please consider [sponsoring the Data Engineering Wiki's development](https://github.com/data-engineering-community/data-engineering-wiki).
+The Data Engineering Wiki is an CC0-1.0-licensed open source project with its ongoing development made possible entirely by the support of these awesome [backers](https://github.com/data-engineering-community/data-engineering-wiki/blob/main/BACKERS.md). If you'd like to join them, please consider [sponsoring the Data Engineering Wiki's development](https://github.com/sponsors/data-engineering-community).
 
 <div align="center">
 
