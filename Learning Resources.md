@@ -7,6 +7,8 @@ Tags: []
 A collection of recommended resources by other Data Engineers. [Submit your own](https://airtable.com/shrU3rPnmrjx33ZmQ)!
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrvWUqOPg9x6x8IM?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+<iframe src="https://dataengineeringcommunity.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 ## Data Modeling Learning Resources
 > [!info]- View Resources
 ><iframe class="airtable-embed" src="https://airtable.com/embed/shrJLMduWxPqrQ8lX?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
