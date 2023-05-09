@@ -42,4 +42,4 @@ publish: true
 <span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Amazon%20Web%20Services.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Amazon%20Web%20Services.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Amazon+Web+Services) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Amazon+Web+Services)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Amazon%20Web%20Services) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Amazon%20Web%20Services)</span>

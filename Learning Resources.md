@@ -32,4 +32,4 @@ A collection of recommended resources by other Data Engineers. [Submit your own]
 <span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Learning%20Resources.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Learning%20Resources.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Learning+Resources) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Learning+Resources)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Learning%20Resources) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Learning%20Resources)</span>

@@ -63,4 +63,4 @@ Let's explain this operation:
 <span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tutorials/Apache%20Spark%20RDD%20example.md "git-hub-edit-note") | [Copy this note](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tutorials/Apache%20Spark%20RDD%20example.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tutorials/Apache+Spark+RDD+example) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tutorials/Apache+Spark+RDD+example)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tutorials/Apache%20Spark%20RDD%20example) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tutorials/Apache%20Spark%20RDD%20example)</span>

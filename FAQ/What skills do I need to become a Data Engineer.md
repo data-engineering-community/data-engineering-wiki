@@ -79,4 +79,4 @@ There are very few of these roles currently but similar roles with different tit
 <span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/FAQ/What%20skills%20do%20I%20need%20to%20become%20a%20Data%20Engineer.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/FAQ/What%20skills%20do%20I%20need%20to%20become%20a%20Data%20Engineer.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/FAQ/What+skills+do+I+need+to+become+a+Data+Engineer) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/FAQ/What+skills+do+I+need+to+become+a+Data+Engineer)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/FAQ/What%20skills%20do%20I%20need%20to%20become%20a%20Data%20Engineer) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/FAQ/What%20skills%20do%20I%20need%20to%20become%20a%20Data%20Engineer)</span>
