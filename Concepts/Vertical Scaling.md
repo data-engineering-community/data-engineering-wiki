@@ -7,6 +7,7 @@ publish: true
 Vertical scaling is when you increase the capacity of a system by increasing the compute size.
 
 ```mermaid
+%%{init: { "flowchart": { "useMaxWidth": true } } }%%
 flowchart LR
 
 subgraph Before

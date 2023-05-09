@@ -7,6 +7,7 @@ publish: true
 A horizontally scalable system is one that can increase capacity by adding more computers to the system.
 
 ```mermaid
+%%{init: { "flowchart": { "useMaxWidth": true } } }%%
 flowchart LR
 
 subgraph Before

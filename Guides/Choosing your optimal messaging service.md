@@ -11,6 +11,7 @@ A short guide on choosing which messaging service(s) to use.
 ## AWS
 
 ```mermaid
+%%{init: { "flowchart": { "useMaxWidth": true } } }%%
 graph TD
 
 A((Start)) --> B{Fan-out}
