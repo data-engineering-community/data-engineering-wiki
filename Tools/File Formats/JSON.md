@@ -22,6 +22,11 @@ JSON, or JavaScript Object Notation, is a lightweight data-interchange format. I
 
 There are other versions of JSON that address some of these disadvantages (see BSON and NDJSON.)
 
+## JSON Editors/Viewers
+
+- [JSON Crack](https://jsoncrack.com/) - Seamlessly visualize your JSON data instantly into graphs.
+- [VSCode: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is an opinionated code formatter. Supports JSON formatting among several other code languages.
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub
