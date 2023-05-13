@@ -1,7 +1,7 @@
 ---
 Aliases: [Reference-Based Messaging]
-Tags: [seedling]
-publish: false
+Tags: [incubating]
+publish: true
 ---
 
 The claim-check pattern is used to reduce the cost and size of large messages by first storing the data in an external storage location and then sending a reference to the data/event to the consumer.
