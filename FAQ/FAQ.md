@@ -22,6 +22,12 @@ publish: true
 > [!faq]- ### How can I transition into Data Engineering?
 > ![[How can I transition into Data Engineering|How can I transition into Data Engineering?]]
 
+> [!faq]- ### Where can I find datasets to practice with?
+> ![[Where can I find datasets to practice with|Where can I find datasets to practice with?]]
+
+> [!faq]- ### Is getting X certification going to help me get hired?
+> ![[Is getting X certification going to help me get hired|Is getting X certification going to help me get hired?]]
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub
