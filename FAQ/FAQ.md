@@ -22,6 +22,9 @@ publish: true
 > [!faq]- ### How can I transition into Data Engineering?
 > ![[How can I transition into Data Engineering|How can I transition into Data Engineering?]]
 
+> [!faq]- ### Am I a Data Engineer?
+> ![[Am I a Data Engineer|Am I a Data Engineer?]]
+
 > [!faq]- ### Where can I find datasets to practice with?
 > ![[Where can I find datasets to practice with|Where can I find datasets to practice with?]]
 
