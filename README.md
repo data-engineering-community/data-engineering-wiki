@@ -37,6 +37,9 @@ The Data Engineering Wiki is an CC0-1.0-licensed open source project with its on
 <a href="https://dataengjobs.com/">
     <img src="https://avatars.githubusercontent.com/u/109050594?v=4" width=250>
 </a>
+<a href="https://greatexpectations.io/cloud/?utm_source=reddit&utm_medium=sponsored&utm_campaign=r-dataengineering&utm_content=cloud-signup">
+    <img src="https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/41d72633bf4c6fea9f1d073f590dfc7d331359b4/Assets/great-expectations-logo.svg" width=250>
+</a>
 
 </div>
 
