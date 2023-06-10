@@ -20,9 +20,15 @@ It contains a constantly evolving collection of topics related to data engineeri
 
 ## Gold Sponsors
 
-<a href="https://dataengjobs.com/">
-    <img src="https://avatars.githubusercontent.com/u/109050594?v=4" width=250>
-</a>
+<div class="sponsors-gold" style="display: flex;">
+	<a href="https://dataengjobs.com/">
+	    <img src="https://avatars.githubusercontent.com/u/109050594?v=4" width=250>
+	</a>
+	<a href="https://greatexpectations.io/cloud/?utm_source=reddit&utm_medium=sponsored&utm_campaign=r-dataengineering&utm_content=cloud-signup">
+	    <img src="https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/1c463afb2384231438810f36bb91311b94a09102/Assets/great-expectations-logo.svg" width=250>
+	</a>
+</div>
+
 
 <iframe src="https://dataengineeringcommunity.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
