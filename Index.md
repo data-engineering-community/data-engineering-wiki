@@ -20,7 +20,7 @@ It contains a constantly evolving collection of topics related to data engineeri
 
 ## Gold Sponsors
 
-<div class="sponsors-gold" style="display: flex;">
+<div class="sponsors-gold" style="display: flex; flex-wrap: wrap;">
 	<a href="https://dataengjobs.com/">
 	    <img src="https://avatars.githubusercontent.com/u/109050594?v=4" width=250>
 	</a>
