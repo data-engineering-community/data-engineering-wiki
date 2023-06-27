@@ -16,6 +16,17 @@ Data modeling makes it easier for developers and other stakeholders to view and 
 - Improve communication between developers and business intelligence teams.
 - Ease and speed the process of database design at the conceptual, logical and physical levels.
 
+## Types of Data Models
+
+### Conceptual
+Offers a big-picture view of what the system will contain, how it will be organized, and which business rules are involved. Conceptual models are usually created as part of the process of gathering initial project requirements. Typically, they include entity classes (defining the types of things that are important for the business to represent in the data model), their characteristics and constraints, the relationships between them and relevant security and data integrity requirements
+
+### Logical
+They are less abstract and provide greater detail about the concepts and relationships in the domain under consideration. One of several formal data modeling notation systems is followed. These indicate data attributes, such as data types and their corresponding lengths, and show the relationships among entities. Logical data models don’t specify any technical system requirements. This stage is frequently omitted in agile or DevOps practices. Logical data models can be useful in highly procedural implementation environments, or for projects that are data-oriented by nature, such as data warehouse design or reporting system development.
+
+### Physical
+They provide a schema for how the data will be physically stored within a database. As such, they’re the least abstract of all. They offer a finalized design that can be implemented as a relational database, including associative tables that illustrate the relationships among entities as well as the primary keys and foreign keys that will be used to maintain those relationships. Physical data models can include database management system (DBMS)-specific properties, including performance tuning.
+
 ## Schema Design Patterns
 [Star Schema](https://en.wikipedia.org/wiki/Star_schema)
 [Snowflake Schema](https://en.wikipedia.org/wiki/Snowflake_schema)
