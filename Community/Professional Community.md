@@ -1,0 +1,2 @@
+If you are a vendor or would like to become a community partner, please fill out [this form](https://tally.so/r/wvrVk4).
+<iframe src="https://community.dataengineering.wiki/" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
