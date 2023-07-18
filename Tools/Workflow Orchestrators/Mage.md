@@ -3,11 +3,6 @@ Aliases: [Tools/Mage]
 Tags: [seedling]
 publish: true
 ---
-## Official Links
-- [~1.5 minute video](https://www.youtube.com/watch?v=hrsErfPDits)
-- [Live interactive demo](http://demo.mage.ai/)
-- [Documentation](https://docs.mage.ai/)
-- [Community chat](https://www.mage.ai/chat)
 
 ## Overview
 [Mage](https://www.mage.ai/) is an open-source data pipeline tool for transforming and integrating data. Mage features a GUI and pre-built assets for data extraction, transformation, and storage.
@@ -26,7 +21,7 @@ Each pipeline is comprised of discrete blocks. Blocks allow users to load, expor
 
 These outputs can be previewed and analyzed via Mage's GUI. This reduces friction in the developer feedback loop, allowing for faster editing and troubleshooting.
 
-## 🔮 Features
+## 🔮 [Features](https://docs.mage.ai/introduction/overview#features)
 
 | 🎶  | [Orchestration](https://docs.mage.ai/design/data-pipeline-management)                | Schedule and manage data pipelines with observability.                 |
 | --- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -35,7 +30,7 @@ These outputs can be previewed and analyzed via Mage's GUI. This reduces frictio
 | 🚰  | [Streaming pipelines](https://docs.mage.ai/guides/streaming-pipeline)                | Ingest and transform real-time data.                                   |
 | ❎  | [DBT](https://docs.mage.ai/dbt/overview)                                             | Build, run, and manage your dbt models with Mage.                      |
 
-## 🏔️ Core design principles
+## 🏔️ [Core design principles](https://docs.mage.ai/design/core-design-principles)
 
 Every user experience and technical design decision adheres to these principles.
 
@@ -45,7 +40,7 @@ Every user experience and technical design decision adheres to these principles.
 | 💳  | [Data is a first-class citizen](https://docs.mage.ai/design/core-design-principles#data-is-a-first-class-citizen)                                                                       | Designed from the ground up specifically for running data-intensive workflows.                                               |
 | 🪐  | [Scaling is made simple](https://docs.mage.ai/design/core-design-principles#scaling-is-made-simple)                                                                              | Analyze and process large data quickly for rapid iteration.                                                                  |
 
-## 🛸 Core abstractions
+## 🛸 [Core abstractions](https://docs.mage.ai/design/core-abstractions)
 
 These are the fundamental concepts that Mage uses to operate.
 
@@ -56,6 +51,34 @@ These are the fundamental concepts that Mage uses to operate.
 | [Data product](https://docs.mage.ai/design/core-abstractions#data-product) | Every block produces data after it's been executed. These are called data products in Mage.                                                                 |
 | [Trigger](https://docs.mage.ai/design/core-abstractions#trigger)           | A set of instructions that determine when or how a pipeline should run.                                                                                     |
 | [Run](https://docs.mage.ai/design/core-abstractions#run)                   | Stores information about when it was started, its status, when it was completed, any runtime variables used in the execution of the pipeline or block, etc. |
+
+## Advantages
+- **Hybrid GUI/Code Tool:** design-driven GUI for building and editing pipelines while still allowing the flexibility of code.
+- **Easy developer experience:** start developing locally with a single command or launch a dev environment in the cloud.
+- **Engineering best practices built-in:** each step in your pipeline is a standalone file containing modular code that’s reusable and testable with data validations.
+- **Interactive code**: Immediately see results from your code’s output with an interactive notebook UI.
+- **Data is a first-class citizen**: Each block of code in your pipeline produces data that can be versioned, partitioned, and cataloged for future use.
+- **Collaborate on cloud**: Develop collaboratively on cloud resources, version control with Git, and test pipelines without waiting for an available shared staging environment.
+- **Scaling made simple**: Transform very large datasets directly in your data warehouse or through a native integration with Spark.
+- **Observability**: Operationalize your pipelines with built-in monitoring, alerting, and observability through an intuitive UI.
+- **Rapidly growing community**: Mage has a vibrant community of over 2.5k data professionals as of 07/23.
+- **Data integration**: Use existing connectors or build your own with the Singer-spec for a free alternative to paid tools, like Fivetran. Full table and incremental via CDC (change data capture) support.
+- **Native integration with dbt**: preview dbt results, orchestrate dbt model runs, schedule dbt models to depend on non-dbt tasks (e.g. ETL/ELT pipelines).
+
+## Disadvantages
+- **Requires frequent patches**: Frequent releases/version upgrades mean that some maintenance is required.
+- **Work in progress**: version 0.9.3 as of 07/23— this is not yet a v1 tool.
+- **No managed offering**: there is only a self-hosted option, currently.
+- **Compliance**: At this time, Mage only supports SOC-2 security standards
+- **SLAs**: Since Mage is self-hosted, no support service-level agreements are available.
+
+## Learning Resources
+- [~1.5 minute video](https://www.youtube.com/watch?v=hrsErfPDits)
+- [Live interactive demo](http://demo.mage.ai/)
+- [Documentation](https://docs.mage.ai/)
+- [Community chat](https://www.mage.ai/chat)
+
+## [Recent Posts](https://www.reddit.com/r/dataengineering/search/?q=Mage&restrict_sr=1&sr_nsfw=&sort=new)
 
 %% wiki footer: Please don't edit anything below this line %%
 
