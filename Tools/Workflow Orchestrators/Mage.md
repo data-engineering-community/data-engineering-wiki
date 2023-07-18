@@ -26,16 +26,16 @@ Each pipeline is comprised of discrete blocks. Blocks allow users to load, expor
 
 These outputs can be previewed and analyzed via Mage's GUI. This reduces friction in the developer feedback loop, allowing for faster editing and troubleshooting.
 
-## 🔮 [Features](https://docs.mage.ai/about/features)
+## 🔮 Features
 
 | 🎶  | [Orchestration](https://docs.mage.ai/design/data-pipeline-management)                | Schedule and manage data pipelines with observability.                 |
 | --- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | 📓  | [Notebook](https://docs.mage.ai/about/features#notebook-for-building-data-pipelines) | Interactive Python, SQL, & R editor for coding data pipelines.         |
 | 🏗️  | [Data integrations](https://docs.mage.ai/integrations/data-integrations)             | Synchronize data from 3rd party sources to your internal destinations. |
 | 🚰  | [Streaming pipelines](https://docs.mage.ai/guides/streaming-pipeline)                | Ingest and transform real-time data.                                   |
-| ❎  | [DBT](https://docs.mage.ai/dbt/overview)                                             | Build, run, and manage your DBT models with Mage.                      |
+| ❎  | [DBT](https://docs.mage.ai/dbt/overview)                                             | Build, run, and manage your dbt models with Mage.                      |
 
-## 🏔️ [Core design principles](https://docs.mage.ai/design/core-design-principles)
+## 🏔️ Core design principles
 
 Every user experience and technical design decision adheres to these principles.
 
@@ -45,7 +45,7 @@ Every user experience and technical design decision adheres to these principles.
 | 💳  | [Data is a first-class citizen](https://docs.mage.ai/design/core-design-principles#data-is-a-first-class-citizen)                                                                       | Designed from the ground up specifically for running data-intensive workflows.                                               |
 | 🪐  | [Scaling is made simple](https://docs.mage.ai/design/core-design-principles#scaling-is-made-simple)                                                                              | Analyze and process large data quickly for rapid iteration.                                                                  |
 
-## 🛸 [Core abstractions](https://docs.mage.ai/design/core-abstractions)
+## 🛸 Core abstractions
 
 These are the fundamental concepts that Mage uses to operate.
 
