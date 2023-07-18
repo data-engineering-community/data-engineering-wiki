@@ -13,7 +13,7 @@ publish: true
 [Mage](https://www.mage.ai/) is an open-source data pipeline tool for transforming and integrating data. Mage features a GUI and pre-built assets for data extraction, transformation, and storage.
 
 <center>
-<a href="https://dataengjobs.com/">
+<a href="https://https://mage.ai/">
      <img src="https://raw.githubusercontent.com/mage-ai/assets/main/mage-build.gif" width=600>
 </a>
 </center>
