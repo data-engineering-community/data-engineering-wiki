@@ -54,14 +54,11 @@ These are the fundamental concepts that Mage uses to operate.
 
 ## Advantages
 - **Hybrid GUI/Code Tool:** design-driven GUI for building and editing pipelines while still allowing the flexibility of code.
-- **Easy developer experience:** start developing locally with a single command or launch a dev environment in the cloud.
 - **Engineering best practices built-in:** each step in your pipeline is a standalone file containing modular code that’s reusable and testable with data validations.
 - **Interactive code**: Immediately see results from your code’s output with an interactive notebook UI.
 - **Data is a first-class citizen**: Each block of code in your pipeline produces data that can be versioned, partitioned, and cataloged for future use.
 - **Collaborate on cloud**: Develop collaboratively on cloud resources, version control with Git, and test pipelines without waiting for an available shared staging environment.
 - **Scaling made simple**: Transform very large datasets directly in your data warehouse or through a native integration with Spark.
-- **Observability**: Operationalize your pipelines with built-in monitoring, alerting, and observability through an intuitive UI.
-- **Rapidly growing community**: Mage has a vibrant community of over 2.5k data professionals as of 07/23.
 - **Data integration**: Use existing connectors or build your own with the Singer-spec for a free alternative to paid tools, like Fivetran. Full table and incremental via CDC (change data capture) support.
 - **Native integration with dbt**: preview dbt results, orchestrate dbt model runs, schedule dbt models to depend on non-dbt tasks (e.g. ETL/ELT pipelines).
 
