@@ -66,7 +66,7 @@ These are the fundamental concepts that Mage uses to operate.
 - **Requires frequent patches**: Frequent releases/version upgrades mean that some maintenance is required.
 - **Work in progress**: version 0.9.3 as of 07/23— this is not yet a v1 tool.
 - **No managed offering**: there is only a self-hosted option, currently.
-- **Compliance**: At this time, Mage only supports SOC-2 security standards.
+- **Compliance**: At this time, Mage only supports SOC-2 security standards— not HIPAA or GDPR.
 - **SLAs**: Since Mage is self-hosted, no support service-level agreements are available.
 
 ## Learning Resources
