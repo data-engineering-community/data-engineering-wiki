@@ -120,13 +120,14 @@ publish: true
 </div>
 
 ## Overview
+
 [Mage](https://www.mage.ai/) is an open-source data pipeline tool for transforming and integrating data. Mage features a GUI and pre-built assets for data extraction, transformation, and storage.
 
 <center>
 <div style="margin:0 auto;">
-	<a href="https://mage.ai/">
-	     <img src="https://raw.githubusercontent.com/mage-ai/assets/main/mage-build.gif" width=75%>
-	</a>
+ <a href="https://mage.ai/">
+      <img src="https://raw.githubusercontent.com/mage-ai/assets/main/mage-build.gif" width=75%>
+ </a>
 <div>
 </center>
 
@@ -168,6 +169,7 @@ These are the fundamental concepts that Mage uses to operate.
 | [Run](https://docs.mage.ai/design/core-abstractions#run)                   | Stores information about when it was started, its status, when it was completed, any runtime variables used in the execution of the pipeline or block, etc. |
 
 ## Advantages
+
 - **Hybrid GUI/Code Tool:** design-driven GUI for building and editing pipelines while still allowing the flexibility of code.
 - **Easy developer experience:** start developing locally with a single command or launch a dev environment in the cloud.
 - **Engineering best practices built-in:** each step in your pipeline is a standalone file containing modular code that’s reusable and testable with data validations.
@@ -181,6 +183,7 @@ These are the fundamental concepts that Mage uses to operate.
 - **Native integration with dbt**: preview dbt results, orchestrate dbt model runs, schedule dbt models to depend on non-dbt tasks (e.g. ETL/ELT pipelines).
 
 ## Disadvantages
+
 - **Requires frequent patches**: Frequent releases/version upgrades mean that some maintenance is required.
 - **Work in progress**: version 0.9.3 as of 07/23— this is not yet a v1 tool.
 - **No managed offering**: there is only a self-hosted option, currently.
@@ -188,6 +191,7 @@ These are the fundamental concepts that Mage uses to operate.
 - **SLAs**: Since Mage is self-hosted, no support service-level agreements are available.
 
 ## Learning Resources
+
 - [~1.5 minute video](https://www.youtube.com/watch?v=hrsErfPDits)
 - [Live interactive demo](http://demo.mage.ai/)
 - [Documentation](https://docs.mage.ai/)
