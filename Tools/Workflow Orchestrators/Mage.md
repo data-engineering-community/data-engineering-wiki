@@ -8,14 +8,14 @@ publish: true
 [Mage](https://www.mage.ai/) is an open-source data pipeline tool for transforming and integrating data. Mage features a GUI and pre-built assets for data extraction, transformation, and storage.
 
 <center>
-<a href="https://https://mage.ai/">
-     <img src="https://raw.githubusercontent.com/mage-ai/assets/main/mage-build.gif" width=600>
-</a>
+<div style="margin:0 auto;">
+	<a href="https://mage.ai/">
+	     <img src="https://raw.githubusercontent.com/mage-ai/assets/main/mage-build.gif" width=75%>
+	</a>
+<div>
 </center>
 
-Mage is built around the following core abstractions: projects, pipelines, and blocks.
-
-Each project houses one or many pipelines, which can perform batch processing, streaming, or data integration.
+Mage is built around the following core abstractions: projects, pipelines, and blocks. Each project houses one or many pipelines, which can perform batch processing, streaming, or data integration.
 
 Each pipeline is comprised of discrete blocks. Blocks allow users to load, export, and transform data. Mage's built-in testing framework allows data engineers to check outputs at every step of the way.
 
