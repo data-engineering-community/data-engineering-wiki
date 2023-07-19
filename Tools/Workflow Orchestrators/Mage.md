@@ -4,18 +4,134 @@ Tags: [seedling]
 publish: true
 ---
 
+<div
+  style={{
+    display: "flex",
+    flexWrap: "wrap",
+  }}
+>
+  <a
+    style={{
+      borderStyle: "none",
+      marginTop: "0.125rem",
+      marginBottom: "0.125rem",
+    }}
+    href="https://pypi.org/project/mage-ai/"
+  >
+    <img
+      style={{
+        margin: 0,
+        cursor: "pointer",
+      }}
+      src="https://img.shields.io/pypi/v/mage-ai?color=orange"
+      alt="Python package version"
+    />
+  </a>
+  <a
+    style={{
+      borderStyle: "none",
+      marginTop: "0.125rem",
+      marginBottom: "0.125rem",
+      marginLeft: "0.25rem",
+    }}
+    href="https://opensource.org/licenses/Apache-2.0"
+  >
+    <img
+      style={{
+        margin: 0,
+        cursor: "pointer",
+      }}
+      src="https://img.shields.io/github/license/mage-ai/mage-ai?color=red"
+      alt="Apache version"
+    />
+  </a>
+  <a
+    style={{
+      borderStyle: "none",
+      marginTop: "0.125rem",
+      marginBottom: "0.125rem",
+      marginLeft: "0.25rem",
+    }}
+    href="https://join.slack.com/t/mageai/shared_invite/zt-1adn34w4m-t~TcnPTlo3~5~d_0raOp6A"
+  >
+    <img
+      style={{
+        margin: 0,
+        cursor: "pointer",
+      }}
+      src="https://img.shields.io/badge/Slack-Join%20Slack-blueviolet?logo=slack"
+      alt="Slack community"
+    />
+  </a>
+  <a
+    style={{
+      borderStyle: "none",
+      marginTop: "0.125rem",
+      marginBottom: "0.125rem",
+      marginLeft: "0.25rem",
+    }}
+    href="https://github.com/mage-ai/mage-ai"
+  >
+    <img
+      style={{
+        margin: 0,
+        cursor: "pointer",
+      }}
+      src="https://img.shields.io/github/stars/mage-ai/mage-ai?logo=github"
+      alt="GitHub Stars"
+    />
+  </a>
+  <a
+    style={{
+      borderStyle: "none",
+      marginTop: "0.125rem",
+      marginBottom: "0.125rem",
+      marginLeft: "0.25rem",
+    }}
+    href="https://hub.docker.com/r/mageai/mageai"
+  >
+    <img
+      style={{
+        margin: 0,
+        cursor: "pointer",
+      }}
+      src="https://img.shields.io/docker/pulls/mageai/mageai.svg"
+      alt="Docker pulls"
+    />
+  </a>
+  <a
+    style={{
+      borderStyle: "none",
+      marginTop: "0.125rem",
+      marginBottom: "0.125rem",
+      marginLeft: "0.25rem",
+    }}
+    href="https://pepy.tech/project/mage-ai"
+  >
+    <img
+      style={{
+        margin: 0,
+        cursor: "pointer",
+      }}
+      src="https://static.pepy.tech/personalized-badge/mage-ai?period=total&units=international_system&left_color=grey&right_color=blue&left_text=pip%20installs"
+      alt="pip installs"
+    />
+  </a>
+</div>
+
 ## Overview
+
 [Mage](https://www.mage.ai/) is an open-source data pipeline tool for transforming and integrating data. Mage features a GUI and pre-built assets for data extraction, transformation, and storage.
 
 <center>
-<a href="https://mage.ai/">
-     <img src="https://raw.githubusercontent.com/mage-ai/assets/main/mage-build.gif" width=600>
-</a>
+<div style="margin:0 auto;">
+ <a href="https://mage.ai/">
+      <img src="https://raw.githubusercontent.com/mage-ai/assets/main/mage-build.gif" width=75%>
+ </a>
+<div>
 </center>
 
-Mage is built around the following core abstractions: projects, pipelines, and blocks.
-
-Each project houses one or many pipelines, which can perform batch processing, streaming, or data integration.
+Mage is built around the following core abstractions: projects, pipelines, and blocks. Each project houses one or many pipelines, which can perform batch processing, streaming, or data integration.
 
 Each pipeline is comprised of discrete blocks. Blocks allow users to load, export, and transform data. Mage's built-in testing framework allows data engineers to check outputs at every step of the way.
 
@@ -53,23 +169,29 @@ These are the fundamental concepts that Mage uses to operate.
 | [Run](https://docs.mage.ai/design/core-abstractions#run)                   | Stores information about when it was started, its status, when it was completed, any runtime variables used in the execution of the pipeline or block, etc. |
 
 ## Advantages
+
 - **Hybrid GUI/Code Tool:** design-driven GUI for building and editing pipelines while still allowing the flexibility of code.
+- **Easy developer experience:** start developing locally with a single command or launch a dev environment in the cloud.
 - **Engineering best practices built-in:** each step in your pipeline is a standalone file containing modular code that’s reusable and testable with data validations.
 - **Interactive code**: Immediately see results from your code’s output with an interactive notebook UI.
 - **Data is a first-class citizen**: Each block of code in your pipeline produces data that can be versioned, partitioned, and cataloged for future use.
 - **Collaborate on cloud**: Develop collaboratively on cloud resources, version control with Git, and test pipelines without waiting for an available shared staging environment.
 - **Scaling made simple**: Transform very large datasets directly in your data warehouse or through a native integration with Spark.
+- **Observability**: Operationalize your pipelines with built-in monitoring, alerting, and observability through an intuitive UI.
+- **Rapidly growing community**: Mage has a vibrant community of over 2.5k data professionals as of 07/23.
 - **Data integration**: Use existing connectors or build your own with the Singer-spec for a free alternative to paid tools, like Fivetran. Full table and incremental via CDC (change data capture) support.
 - **Native integration with dbt**: preview dbt results, orchestrate dbt model runs, schedule dbt models to depend on non-dbt tasks (e.g. ETL/ELT pipelines).
 
 ## Disadvantages
+
 - **Requires frequent patches**: Frequent releases/version upgrades mean that some maintenance is required.
 - **Work in progress**: version 0.9.3 as of 07/23— this is not yet a v1 tool.
 - **No managed offering**: there is only a self-hosted option, currently.
-- **Compliance**: At this time, Mage only supports SOC-2 security standards— not HIPAA or GDPR.
+- **Compliance**: At this time, Mage only supports SOC-2 security standards.
 - **SLAs**: Since Mage is self-hosted, no support service-level agreements are available.
 
 ## Learning Resources
+
 - [~1.5 minute video](https://www.youtube.com/watch?v=hrsErfPDits)
 - [Live interactive demo](http://demo.mage.ai/)
 - [Documentation](https://docs.mage.ai/)
