@@ -30,7 +30,6 @@ Finally, in the gold stage, data is refined to meet specific business and analyt
 - **Simple data model**: Medallion architectures are familiar to many who have used dbt or warehouse data staging techniques like source ➡️ stage ➡️ curated.
 - **Logical progression of data cleanliness**: Each stage in a medallion architecture follows a logical pattern that makes it easy for new members to understand. The final stage (gold) used for analytics is entirely separate than the raw stage (bronze) used for ingestion.
 - **Allows you to recreate _any_ downstream tables from raw sources.**: Since _all_ captured data exists in raw tables, it's possible to recreate downstream tables to add additional columns, rebuild incremental models, or recover data from a disaster.
-- **Benefits of Parquet-based data lake storage systems, like [[Delta Lake|Delta Lake]]**: Since medallion architectures are built on formats like Iceberg or Delta Lake, they benefit from the functionality those formats provide— ACID guarantees, Time Travel, and schema enforcement, to name a few.  
 
 ## Medallion Architecture Disadvantages
 
