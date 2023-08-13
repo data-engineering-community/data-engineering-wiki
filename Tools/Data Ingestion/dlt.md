@@ -1,11 +1,8 @@
 ---
-Aliases: [Tools/Loaders/dlt]
+Aliases: [data load tool]
 Tags: [seedling]
 publish: true
 ---
-
-
-
 
 [dlt](https://pypi.org/project/dlt/) is an open-source library that enables you to create a data pipeline in a Python script, replacing your glue code with robust, declarative 1-liners with schema evolution. dlt is the first Python library in this space, enabling you to run pipelines anywhere python runs - no redundant orchestrators, etc.
 
@@ -31,7 +28,7 @@ https://dlthub.com/docs/getting-started
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Loaders/dlt.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Loaders/dlt.md "git-hub-copy-note")</span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Data%20Ingestion/dlt.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Data%20Ingestion/dlt.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Loaders/dlt) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Loaders/dlt)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Data%20Ingestion/dlt) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Data%20Ingestion/dlt)</span>
