@@ -9,11 +9,13 @@ publish: true
 ## [dlt Official Documentation](https://dlthub.com/docs/intro)
 
 ### dlt Advantages
-Can be run in unprecedented places like Airflow, Cloud Functions, GitHub Actions, and more.
-Removes complexity by integrating with your existing stack.
-Empowers data teams and collaboration by allowing you to discover or prototype in notebooks, run in cloud functions, and deploy to production.
-Rapid data exploration and prototyping with DuckDB.
-No vendor limits, dlt is forever free.
+
+- Can be run in unprecedented places like Airflow, Cloud Functions, GitHub Actions, and more.
+- Removes complexity by integrating with your existing stack.
+- Empowers data teams and collaboration by allowing you to discover or prototype in notebooks, run in cloud functions, and deploy to production.
+- Rapid data exploration and prototyping with DuckDB.
+- No vendor limits, dlt is forever free.
+
 ### dlt Disadvantages
 As a relatively new tool, the community is still growing and there may be fewer learning resources available compared to more established tools.
 
