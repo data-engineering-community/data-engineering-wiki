@@ -57,3 +57,9 @@ See [Obsidian help](https://help.obsidian.md/) for questions on using Obsidian.
 ## Contributing
 
 There are many different ways to contribute to the wiki's development. If you're interested, check out our [contributing guidelines](https://github.com/data-engineering-community/data-engineering-wiki/blob/main/CONTRIBUTING.md) to learn how you can get involved.
+
+Thank you to all of our [contributors](https://github.com/data-engineering-community/data-engineering-wiki/graphs/contributors) who shared their data engineering knowledge!
+
+<a href="https://github.com/data-engineering-community/data-engineering-wiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=data-engineering-community/data-engineering-wiki" />
+</a>
