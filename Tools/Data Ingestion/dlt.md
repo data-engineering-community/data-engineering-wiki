@@ -17,7 +17,8 @@ publish: true
 - No vendor limits, dlt is forever free.
 
 ### dlt Disadvantages
-As a relatively new tool, the community is still growing and there may be fewer learning resources available compared to more established tools.
+
+- As a relatively new tool, the community is still growing and there may be fewer learning resources available compared to more established tools.
 
 
 ## dlt Learning Resources
