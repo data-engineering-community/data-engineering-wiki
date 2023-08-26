@@ -1,4 +1,5 @@
 ---
+Aliases: [Community/Professional Community]
 cssclasses:
   - list-cards
 ---
