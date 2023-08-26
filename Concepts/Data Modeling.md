@@ -27,13 +27,15 @@ They are less abstract and provide greater detail about the concepts and relatio
 ### Physical
 They provide a schema for how the data will be physically stored within a database. As such, they’re the least abstract of all. They offer a finalized design that can be implemented as a relational database, including associative tables that illustrate the relationships among entities as well as the primary keys and foreign keys that will be used to maintain those relationships. Physical data models can include database management system (DBMS)-specific properties, including performance tuning.
 
-## Schema Design Patterns
-[Star Schema](https://en.wikipedia.org/wiki/Star_schema)
-[Snowflake Schema](https://en.wikipedia.org/wiki/Snowflake_schema)
-[Data Vault](https://en.wikipedia.org/wiki/Data_vault_modeling)
-[[One Big Table]]
-[[Dimensional Data Modeling|Dimensional Modeling]]
+## Data Modeling Techniques
+
+[[Relational Modeling]]
+[[Dimensional Modeling]]
 [[Data Vault Modeling]]
+[[One Big Table]]
+[[Activity Schema]]
+[[Unified Star Schema]]
+
 
 ![[Learning Resources#Data Modeling Learning Resources]]
 
