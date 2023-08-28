@@ -10,7 +10,7 @@
 
 # Data Engineering Wiki
 
-The best place to learn data engineering. Built and maintained by the [data engineering community](https://www.reddit.com/r/dataengineering).
+The best place to learn data engineering. Built and maintained by the [data engineering community](https://dataengineering.wiki/Community/Community).
 
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/dataengineering?style=social)](https://www.reddit.com/r/dataengineering/)
 </div>
