@@ -24,3 +24,12 @@ Welcome to the largest community of data engineers in the world with over 120,00
 	- Learn about ways you can contribute to the community.
 
 If you would like to become a community partner, please fill out [this form](https://tally.so/r/wvrVk4).
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Community/Community.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Community/Community.md "git-hub-copy-note")</span>
+
+<span class="git-footer">Was this page helpful?
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Community/Community) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Community/Community)</span>
