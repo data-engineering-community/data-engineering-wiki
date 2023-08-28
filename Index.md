@@ -5,29 +5,26 @@ cssclasses:
 
 ## What is the Data Engineering Wiki?
 
-Welcome! This is the official wiki built and maintained by the [[Community|data engineering community]].
+Welcome! This is the official wiki built and maintained by the [[Community|data engineering community]]. The data engineering wiki is an open-source living document that contains a constantly evolving collection of topics related to data engineering.
 
-It contains a constantly evolving collection of topics related to data engineering.
-
-> [!success]- Want to get involved? Click here!
-> 1. ⭐ Star our [GitHub](https://github.com/data-engineering-community/data-engineering-wiki) repo
-> 2. 🗣️ [Share the wiki](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20resource%20for%20data%20engineering!%20https%3A//dataengineering.wiki/)
-> 3. ✍️ [Contribute to the wiki](https://github.com/data-engineering-community/data-engineering-wiki/blob/main/CONTRIBUTING.md)
+⭐ Star our [GitHub](https://github.com/data-engineering-community/data-engineering-wiki) repo and 🗣️ [Share the wiki](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20resource%20for%20data%20engineering!%20https%3A//dataengineering.wiki/)
 
 ## Start Here: [[Getting Started With Data Engineering]]
 
-- [[Concepts]]
+- [[Concepts|💭 Concepts]]
 	- Concepts related to Data Engineering.
-- [[FAQ]]
+- [[FAQ|❓ FAQ]]
 	- Frequently asked questions about Data Engineering.
-- [[Guides]]
+- [[Guides|🧭 Guides]]
 	- Understand how to make Data Engineering decisions.
-- [[Tools]]
+- [[Tools|🛠️ Tools]]
 	- Commonly used tools for Data Engineering.
-- [[Tutorials]]
+- [[Tutorials|🔢 Tutorials]]
 	- Step-by-step instructions for Data Engineering tasks.
-- [[Learning Resources]]
+- [[Learning Resources|📚 Learning Resources]]
 	- Learn Data Engineering with resources recommended by other Data Engineers.
+
+> [!success]- [[Get Involved|Want to get involved? Click here!]]
 
 ## Gold Sponsors
 

@@ -14,11 +14,13 @@ cssclasses:
 
 Welcome to the largest community of data engineers in the world with over 120,000+ members from over 50+ countries.
 
-- [Join our Learning Community](https://www.reddit.com/r/dataengineering/)
+- [🎓 Join our Learning Community](https://www.reddit.com/r/dataengineering/)
 	- A public data engineering community focused on bringing together people who are interested in data engineering to learn the core concepts and tools used in data engineering in order to get started with the profession.
-- [Join our Professional community](https://community.dataengineering.wiki/)
+- [👔 Join our Professional community](https://community.dataengineering.wiki/)
 	- A private data engineering community that brings together professional Data Engineers who are looking to level up their skills, advance their careers, network with other industry experts, and become leaders in the field.
-- [[Events]]
+- [[Events|📅 Events]]
 	- Community calendar of data engineering events and conferences.
+- [[Get Involved|✋ Get Involved]]
+	- Learn about ways you can contribute to the community.
 
 If you would like to become a community partner, please fill out [this form](https://tally.so/r/wvrVk4).
