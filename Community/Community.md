@@ -22,6 +22,8 @@ Welcome to the largest community of data engineers in the world with over 120,00
 	- Community calendar of data engineering events and conferences.
 - [[Get Involved|✋ Get Involved]]
 	- Learn about ways you can contribute to the community.
+- [[Meetups|🌎 Meetups]]
+	- Find a local group of data engineers.
 
 If you would like to become a community partner, please fill out [this form](https://tally.so/r/wvrVk4).
 
