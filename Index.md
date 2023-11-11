@@ -37,6 +37,14 @@ Welcome! This is the official wiki built and maintained by the [[Community|data 
 	</a>
 </div>
 
+## Silver Sponsors
+
+<div class="sponsors-silver" style="display: flex; flex-wrap: wrap;">
+<a href="https://bit.ly/dataengwiki">
+    <img src="https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Assets/starburst-logo.svg" width=200>
+</a>
+</div>
+
 
 <iframe src="https://dataengineeringcommunity.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
