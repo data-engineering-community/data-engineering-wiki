@@ -1,7 +1,7 @@
 ---
 Aliases: []
 Tags: [seedling]
-publish: false
+publish: true
 ---
 
 Kappa architecture is a big data processing pattern that has historically diverged from [[Lambda Architecture|Lambda]]. Its foundation is to treat all arriving data as a stream, therefore it contains no batch layer by design, relying solely on a [[Stream Data Processing|stream processing]] layer ("speed layer"). 
@@ -49,12 +49,12 @@ C --> E
 ```
 ## Kappa Architecture Advantages
 
-- a need to maintain, develop and debug much smaller codebase compared to Lambda architecture.
-- advantageous for use cases that require high data velocity.
+- Only need to maintain, develop and debug a much smaller codebase compared to Lambda architecture.
+- Advantageous for use cases that require high data velocity.
 ## Kappa Architecture Disadvantages
 
-- general challenges related to implementing stream processing at scale.
-- higher data loss risks by design - requires specific data storage and recovery strategies.
+- General challenges related to implementing stream processing at scale.
+- Higher data loss risks by design - requires specific data storage and recovery strategies.
 ## Kappa Architecture Learning Resources
 
 [Questioning the Lambda Architecture – O’Reilly (oreilly.com)](https://www.oreilly.com/radar/questioning-the-lambda-architecture/)
@@ -63,7 +63,7 @@ C --> E
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/{{title}}.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/{{title}}.md "git-hub-copy-note")</span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Kappa%20Architecture.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Kappa%20Architecture.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/{{title}}) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/{{title}})</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Kappa%20Architecture) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Kappa%20Architecture)</span>
