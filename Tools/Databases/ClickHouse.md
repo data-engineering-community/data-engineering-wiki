@@ -12,7 +12,7 @@ publish: true
 
 ## ClickHouse Official Documentation
 
-https://clickhouse.com/docs/en/home/
+https://clickhouse.com/docs
 
 ## ClickHouse Advantages
 
