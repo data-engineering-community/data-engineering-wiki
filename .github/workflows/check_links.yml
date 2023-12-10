@@ -21,14 +21,9 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
           args: --verbose --no-progress './**/*.md' --accept 200,201,204,206,401,403,406,429,999 --exclude-path './Templates'
-      
-      - name: Dump steps context
-        env:
-          STEPS_CONTEXT: ${{ toJson(steps) }}
-        run: echo "$STEPS_CONTEXT"
 
       - name: Create Issue From File
-        if: steps.lychee.outputs.exit_code != 0
+        if: env.lychee_exit_code != 0
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Link Checker Report
