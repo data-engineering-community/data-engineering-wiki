@@ -10,11 +10,10 @@ A graph database is a type of [[Non-relational Database|NoSQL]] database that us
 
 ## Popular Graph Databases
 
-[Neo4j](https://neo4j.com/)
-[ArangoDB](https://www.arangodb.com/)
-[OrientDB](https://orientdb.com/)
-[Titan](https://titan.thinkaurelius.com/)
-[Azure Cosmos DB Graph API](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
+- [Neo4j](https://neo4j.com/)
+- [ArangoDB](https://www.arangodb.com/)
+- [OrientDB](https://orientdb.com/)
+- [Azure Cosmos DB Graph API](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
 
 ## Graph Database Use Cases
 
