@@ -16,9 +16,13 @@ https://www.propeldata.com/docs
 - Built-in timezone handling
 - Semantic layer for data modeling with GraphQL APIs
 
-## Propel Disadvantages
+## Use cases
 
-- Learning curve due to the novel nature of the service
+- Embedded analytics: build analytics products.
+- Data APIs: Instant low-latency APIs over any data source.
+- Data Sharing: Give your customers their data.
+- Self-service custom reporting: Empower your customers to build their own reports.
+- ```
 
 %% wiki footer: Please don't edit anything below this line %%
 
