@@ -12,8 +12,8 @@ https://www.propeldata.com/docs
 ## Propel Advantages
 
 - A managed serverless service
-- Low latency, typically in milliseconds
-- Built-in timezone handling
+- Ingest data and speed up queries from any data source.  Low latency, typically in milliseconds
+- Build at any layer of the stack: SQL, APIs, or React UI Components.
 - Semantic layer for data modeling with GraphQL APIs
 
 ## Use cases
