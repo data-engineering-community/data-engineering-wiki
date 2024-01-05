@@ -1,27 +1,24 @@
 ---
-Aliases: [Databricks]
-Tags: [seedling]
+Aliases: [Propel]
+Tags: []
 publish: true
 ---
-[Databricks](https://databricks.com) is a Data Architecture Platform used for Data analytics, Data Engineering, and Data Science work. 
+[Propel](https://propeldata.com) is an Analytics Backend as a Service platform. Essentially a serverless alternative to Clickhouse or Elasticsearch.
 
-## Databricks Official Documentation
+## Propel Official Documentation
 
-https://docs.databricks.com/
-https://learn.microsoft.com/en-us/azure/databricks/
-https://docs.gcp.databricks.com/
+https://www.propeldata.com/docs
 
-## Databricks Advantages
+## Propel Advantages
 
-- Uses Jupyter Notebooks
-- Can use Python, Scala, R or/and SQL
-- Enhances collaboration through notebook comments, history, and realtime editing.
-- Ability to stand up compute based on specific needs.
-- Use of clustering through Apache Spark.
+- A managed serverless service
+- Low latency, typically in milliseconds
+- Built-in timezone handling
+- Semantic layer for data modeling with GraphQL APIs
 
-## Databricks Disadvantages
+## Propel Disadvantages
 
-- Learning curve due to size of platform and available tools.
+- Learning curve due to the novel nature of the service
 
 %% wiki footer: Please don't edit anything below this line %%
 
