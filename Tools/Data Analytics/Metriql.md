@@ -1,5 +1,5 @@
 ---
-Aliases: []
+Aliases: [Tools/Metriql]
 Tags: [seedling]
 publish: true
 ---
@@ -24,7 +24,7 @@ https://metriql.com/introduction/intro
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Metriql.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Metriql.md "git-hub-copy-note")</span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Data%20Analytics/Metriql.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Data%20Analytics/Metriql.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Metriql) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Metriql)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Data%20Analytics/Metriql) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Data%20Analytics/Metriql)</span>

@@ -1,5 +1,5 @@
 ---
-Aliases: [Hadoop]
+Aliases: [Hadoop, Tools/Apache Hadoop]
 Tags: [seedling]
 publish: true
 ---
@@ -54,7 +54,7 @@ When the MapReduce function is finished, the leader will be informed.
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Apache%20Hadoop.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Apache%20Hadoop.md "git-hub-copy-note")</span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Data%20Processing/Apache%20Hadoop.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Data%20Processing/Apache%20Hadoop.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Apache%20Hadoop) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Apache%20Hadoop)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Data%20Processing/Apache%20Hadoop) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Data%20Processing/Apache%20Hadoop)</span>
