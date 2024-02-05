@@ -7,7 +7,7 @@ cssclasses:
 
 Welcome! This is the official wiki built and maintained by the [[Community|data engineering community]]. The data engineering wiki is an open-source living document that contains a constantly evolving collection of topics related to data engineering.
 
-⭐ Star our [GitHub](https://github.com/data-engineering-community/data-engineering-wiki) repo and 🗣️ [Share the wiki](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20resource%20for%20data%20engineering!%20https%3A//dataengineering.wiki/)
+⭐ Star our [GitHub](https://github.com/data-engineering-community/data-engineering-wiki) repo and 🗣️ [Share the wiki](https://www.linkedin.com/shareArticle?mini=true&url=https://dataengineering.wiki/Index)
 
 ## Start Here: [[Getting Started With Data Engineering]]
 
