@@ -10,7 +10,7 @@ publish: true
 
 ## Rockset Official Documentation
 
-https://rockset.com/docs/
+https://docs.rockset.com/documentation
 
 ## Rockset Advantages
 
