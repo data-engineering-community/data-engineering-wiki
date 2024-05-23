@@ -1,3 +1,9 @@
+---
+Aliases: [Data Kitchen]
+Tags: [seedling]
+publish: true
+---
+
 ![apache 2.0 license Badge](https://img.shields.io/badge/License%20-%20Apache%202.0%20-%20blue) 
 ![PRs Badge](https://img.shields.io/badge/PRs%20-%20Welcome%20-%20green) 
 [![Documentation](https://img.shields.io/badge/docs-On%20datakitchen.io-06A04A?style=flat)](https://docs.datakitchen.io/articles/#!open-source-data-observability/data-observability-overview) 
@@ -12,3 +18,12 @@ DataKitchen Open Source Data Observability product suite (released April 2024).
 ![DatKitchen Open Source Data Observability](https://datakitchen.io/wp-content/uploads/2024/04/both-products.png)
 
 For background on why we build this product check out the articles on ['why we open sourced'](https://datakitchen.io/why-we-open-sourced-our-data-observability-products/), [manifesto](https://datajourneymanifesto.org/), [free book](https://datakitchen.io/the-dataops-cookbook/), and [top data observability and DataOps articles](https://datakitchen.io/datakitchen-resource-guide-to-data-journeys-data-observability-dataops/).
+
+%% wiki footer: Please don't edit anything below this line %%
+
+## This note in GitHub
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Tools/Data%20Quality/DataKitchen.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Tools/Data%20Quality/DataKitchen.md "git-hub-copy-note")</span>
+
+<span class="git-footer">Was this page helpful?
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Tools/Data%20Quality/DataKitchen) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Tools/Data%20Quality/DataKitchen)</span>
