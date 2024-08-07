@@ -25,7 +25,7 @@ Before you can optimize anything, you need to turn on metrics to monitor the per
 Examples of metrics monitoring services:
 
 - AWS: [CloudWatch](https://aws.amazon.com/cloudwatch/)
-- [Azure Monitor](https://azure.microsoft.com/en-us/products/monitor/)
+- Azure: [Azure Monitor](https://azure.microsoft.com/en-us/products/monitor/)
 - GCP: [Cloud Monitoring](https://cloud.google.com/monitoring/?hl=en)
 - [Datadog](https://www.datadoghq.com/)
 
@@ -38,6 +38,17 @@ Rightsizing is a term that means identifying and adjusting specific resources to
 ### Enable Autoscaling
 
 After rightsizing your compute service, you can typically enable autoscaling to dynamically adjust resources up and down based on demand in your workload. This means that if demand is low, autoscaling will reduce the amount of resources provisioned allowing you to save money. Along with autoscaling, you will typically set high and low thresholds which should be based around your typical workload.
+
+### Using spot instances
+
+This is a type of VM instance that can be terminated at any time when resources need to be reallocated for other tasks. Because of this, spot VMs are offered at a much lower price with cost reductions of up to 90% as they make use of unused compute capacity. Spot VMs are suitable for fault-tolerant, stateless and flexible workloads that can handle interruptions but don't need to be completed at a specific time. Examples of these types of workloads include CI/CD jobs or batch processing jobs and more but it's not recommended for other types of workloads. 
+
+Examples of different spot VMs:
+
+- AWS: [AWS ECS Spot Instances](https://aws.amazon.com/ec2/spot/)
+- Azure: [Azure Spot VMs](https://azure.microsoft.com/en-us/products/virtual-machines/spot)
+- GCP: [GCP Spot VMs](https://cloud.google.com/spot-vms)
+- IBM: [Transient virtual servers](https://cloud.ibm.com/docs/virtual-servers?topic=virtual-servers-about-vs-transient)
 
 ### Savings plans
 
