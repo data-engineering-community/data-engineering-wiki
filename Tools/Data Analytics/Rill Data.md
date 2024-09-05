@@ -20,6 +20,13 @@ https://docs.rilldata.com/
 ## Rill Data Disadvantages
 #placeholder/description 
 
+## Rill Data Learning Resources
+#placeholder/description 
+
+## Rill Data Recent Posts
+
+https://www.rilldata.com/blog
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub
