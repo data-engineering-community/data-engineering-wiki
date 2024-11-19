@@ -6,7 +6,7 @@ publish: true
 
 The event sourcing pattern captures all changes to an application as a sequence of event objects. This pattern creates a ledger of changes that can be used to replay events and view application state at any point in time.
 
-![Event Sourcing|500](event-sourcing.png)
+![[event-sourcing.png|500]]
 *Image source: [Event Sourcing and Event-Driven Architecture - In Under 5 Minutes!](https://ercin.medium.com/event-sourcing-and-event-driven-architecture-in-under-5-minutes-927f4e88351a)*
 
 ## Event Sourcing Pattern Advantages
