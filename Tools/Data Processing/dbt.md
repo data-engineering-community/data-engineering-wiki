@@ -10,7 +10,7 @@ Data build tool or [dbt](https://www.getdbt.com/) is a tool primarily used for t
 
 ## data build tool Official Documentation
 
-https://www.getdbt.com/docs/
+https://docs.getdbt.com/docs/
 
 ## data build tool Advantages
 
@@ -20,7 +20,7 @@ https://www.getdbt.com/docs/
 
 ## data build tool Disadvantages
 
-#placeholder/description 
+#placeholder/description
 
 %% wiki footer: Please don't edit anything below this line %%
 
