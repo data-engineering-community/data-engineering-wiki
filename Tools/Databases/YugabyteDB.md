@@ -12,7 +12,7 @@ YugabyteDB is an open-source distributed SQL database. It is the most PostgreSQL
 
 https://docs.yugabyte.com/
 https://university.yugabyte.com/
-https://blog.yugabyte.com/
+https://www.yugabyte.com/blog/
 https://www.yugabyte.com/content-library/
 
 
