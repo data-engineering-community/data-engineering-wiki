@@ -1,5 +1,5 @@
 ---
-Aliases: [non-relational data, NoSQL, NoSQL Database, non-relational database]
+Aliases: [non-relational data, NoSQL, NoSQL Database, non-relational database, Concepts/Non-relational Database]
 Tags: [incubating]
 publish: true
 ---
@@ -29,7 +29,7 @@ A non-relational database is a database that does not use a tabular schema of ro
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Non-relational%20Database.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Non-relational%20Database.md "git-hub-copy-note")</span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Data%20Storage/Non-relational%20Database.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Data%20Storage/Non-relational%20Database.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Non-relational%20Database) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Non-relational%20Database)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Data%20Storage/Non-relational%20Database) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Data%20Storage/Non-relational%20Database)</span>
