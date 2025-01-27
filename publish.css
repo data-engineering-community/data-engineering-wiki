@@ -12,25 +12,6 @@
   margin: 0 auto;
 }
 
-.tree-item-self[data-path^='Concepts/Concepts'] {
-  display: none;
-}
-
-.tree-item-self[data-path^='FAQ/FAQ'] {
-  display: none;
-}
-
-.tree-item-self[data-path^='Guides/Guides'] {
-  display: none;
-}
-
-.tree-item-self[data-path^='Tools/Tools'] {
-  display: none;
-}
-
-.tree-item-self[data-path^='Tutorials/Tutorials'] {
-  display: none;
-}
 
 /* Footer Heading */
 h2[data-heading="This note on GitHub"],
