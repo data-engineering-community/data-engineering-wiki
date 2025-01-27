@@ -1,5 +1,5 @@
 ---
-Aliases: [Wide Tables, OBT]
+Aliases: [Wide Tables, OBT, Concepts/One Big Table]
 Tags: [seedling]
 publish: true
 ---
@@ -23,7 +23,7 @@ The main idea behind one big table (OBT) is to join all of the data necessary fo
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/One%20Big%20Table.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/One%20Big%20Table.md "git-hub-copy-note")</span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Data%20Modeling/One%20Big%20Table.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Data%20Modeling/One%20Big%20Table.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/One%20Big%20Table) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/One%20Big%20Table)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Data%20Modeling/One%20Big%20Table) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Data%20Modeling/One%20Big%20Table)</span>

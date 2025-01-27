@@ -1,7 +1,6 @@
 ---
-aliases: 
-tags:
-  - seedling
+Aliases: [Concepts/Cardinality]
+Tags: [seedling]
 publish: true
 ---
 Cardinality has different meanings depending on the context of what's being discussed. In data engineering, we mainly use cardinality when talking about a data model's relationships and when talking about the statistics of a particular column in a database table.
@@ -21,7 +20,7 @@ The number of distinct values in a column/expression. Low cardinality means many
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Cardinality.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Cardinality.md "git-hub-copy-note")</span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Data%20Modeling/Cardinality.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Data%20Modeling/Cardinality.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Cardinality) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Cardinality)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Data%20Modeling/Cardinality) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Data%20Modeling/Cardinality)</span>
