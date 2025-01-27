@@ -1,5 +1,5 @@
 ---
-Aliases: [Data Quality Test]
+Aliases: [Data Quality Test, Concepts/Data Unit Test]
 Tags: [incubating]
 publish: true
 ---
@@ -22,7 +22,7 @@ Other commonly used tests for data are checking to make sure all values in a col
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Data%20Unit%20Test.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Data%20Unit%20Test.md "git-hub-copy-note")</span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Software%20Engineering/Data%20Unit%20Test.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Software%20Engineering/Data%20Unit%20Test.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Data%20Unit%20Test) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Data%20Unit%20Test)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Software%20Engineering/Data%20Unit%20Test) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Software%20Engineering/Data%20Unit%20Test)</span>

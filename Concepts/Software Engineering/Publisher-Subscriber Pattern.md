@@ -1,5 +1,5 @@
 ---
-Aliases: [Pub/sub messaging]
+Aliases: [Pub/sub messaging, Concepts/Publisher-Subscriber Pattern]
 Tags: [seedling]
 publish: true
 ---
@@ -42,7 +42,7 @@ B -->|Event| D((Subscriber))
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Publisher-Subscriber%20Pattern.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Publisher-Subscriber%20Pattern.md "git-hub-copy-note")</span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Software%20Engineering/Publisher-Subscriber%20Pattern.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Software%20Engineering/Publisher-Subscriber%20Pattern.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Publisher-Subscriber%20Pattern) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Publisher-Subscriber%20Pattern)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Software%20Engineering/Publisher-Subscriber%20Pattern) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Software%20Engineering/Publisher-Subscriber%20Pattern)</span>

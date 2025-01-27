@@ -1,5 +1,5 @@
 ---
-Aliases: [Brewer's theorem]
+Aliases: [Brewer's theorem, Concepts/CAP Theorem]
 Tags: [incubating]
 publish: true
 ---
@@ -13,7 +13,7 @@ The CAP theorem in computer science states that it's impossible for a distribute
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/CAP%20Theorem.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/CAP%20Theorem.md "git-hub-copy-note")</span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Software%20Engineering/CAP%20Theorem.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Software%20Engineering/CAP%20Theorem.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/CAP%20Theorem) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/CAP%20Theorem)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Software%20Engineering/CAP%20Theorem) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Software%20Engineering/CAP%20Theorem)</span>
