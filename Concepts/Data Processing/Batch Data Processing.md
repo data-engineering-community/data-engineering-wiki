@@ -1,5 +1,5 @@
 ---
-Aliases: [batch processing]
+Aliases: [batch processing, Concepts/Batch Data Processing]
 Tags: [incubating]
 publish: true
 ---
@@ -46,7 +46,7 @@ As mentioned above, live data streaming is a challenge for batch processing trad
 
 ## This note in GitHub
 
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Batch%20Data%20Processing.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Batch%20Data%20Processing.md "git-hub-copy-note")</span>
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Data%20Processing/Batch%20Data%20Processing.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Data%20Processing/Batch%20Data%20Processing.md "git-hub-copy-note")</span>
 
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Batch%20Data%20Processing) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Batch%20Data%20Processing)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Data%20Processing/Batch%20Data%20Processing) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Data%20Processing/Batch%20Data%20Processing)</span>
