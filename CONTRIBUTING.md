@@ -56,4 +56,4 @@ We also have a #placeholder tag we use to signal the type of information that 
 -   #placeholder/screenshot
 -   #placeholder/tool - Similar to the author tag, any information about a tool
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which [@kentcdodds](https://github.com/kentcdodds) created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by [@Roshanjossey](https://github.com/Roshanjossey).
+If this is your first pull request, check out GitHub's [Guide to Creating a Pull Request](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/), created as a walkthrough tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by [@Roshanjossey](https://github.com/Roshanjossey).
