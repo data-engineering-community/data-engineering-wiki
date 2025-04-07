@@ -7,17 +7,22 @@ cssclasses:
 <center>
 <div style="margin:0 auto;">
  <a href="">
-      <img src="https://publish-01.obsidian.md/access/e5408ef24c9251b993f742b19645ad44/Assets/wes-lewis-zt6OxRORM2g-unsplash.jpg" width=75%>
+      <img src="https://publish-01.obsidian.md/access/e5408ef24c9251b993f742b19645ad44/Assets/wes-lewis-zt6OxRORM2g-unsplash.jpg" width=65%>
  </a>
 <div>
 </center>
 
-Welcome to the largest community of data engineers in the world with over 120,000+ members from over 50+ countries.
+## Communities List
 
-- [🎓 Join our Learning Community](https://www.reddit.com/r/dataengineering/)
-	- A public data engineering community focused on bringing together people who are interested in data engineering to learn the core concepts and tools used in data engineering in order to get started with the profession.
-- [👔 Join our Professional community](https://community.dataengineering.wiki/)
-	- A private data engineering community that brings together professional Data Engineers who are looking to level up their skills, advance their careers, network with other industry experts, and become leaders in the field.
+| Name | Platform | Members (approx.) |
+| ----- | ----- | ----- |
+| [r/dataengineering](https://www.reddit.com/r/dataengineering/) | Reddit | 290K |
+| [Data Talks Club](https://datatalks.club/slack.html) | Slack | 70K |
+| [Data Engineering](https://discord.gg/AxvnVhm24j) | Discord | 10K |
+| [Women in Data](https://www.womenindata.org/) | Other | 10K |
+| [Data Engineer Things](https://www.dataengineerthings.org/) | Slack | 6K |
+| [Locally Optimistic](https://locallyoptimistic.com/community/) | Slack | N/A |
+
 - [[Events|📅 Events]]
 	- Community calendar of data engineering events and conferences.
 - [[Get Involved|✋ Get Involved]]
