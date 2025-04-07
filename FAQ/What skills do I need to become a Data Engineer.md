@@ -14,7 +14,7 @@ There is no one set of tools that will get you a job as a Data Engineer. It will
 
 # Junior Data Engineer
 
-There are very few of these roles currently but similar roles with different titles may exist. For example, if you're a BI developer, SQL developer, or backend engineer then you probably have overlapping experience. See [[How can I transition into Data Engineering|How can I transition into Data Engineering?]]
+Despite the junior title, **data engineering is typically not an entry-level job** and therefore few of these positions exist. If you are starting from scratch, the best advice is to find an adjacent role and transition into data engineering. If you are already in an adjacent role such as: BI developer, SQL developer, or backend engineer then you probably have overlapping experience. See [[How can I transition into Data Engineering|How can I transition into Data Engineering?]]
 
 **Minimum skills required:**
 
