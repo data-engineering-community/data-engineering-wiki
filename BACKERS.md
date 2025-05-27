@@ -17,7 +17,7 @@ The Data Engineering Wiki is an CC0-1.0-licensed open source project with its on
 
 ## Silver Sponsors
 
-<a href="https://bit.ly/dataengwiki">
+<a href="">
     <img src="https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Assets/starburst-logo.svg" width=200>
 </a>
 

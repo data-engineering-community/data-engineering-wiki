@@ -37,12 +37,6 @@ Welcome! This is the official wiki built and maintained by the [[Community|data 
 	</a>
 </div>
 
-## Silver Sponsors
-
-<div class="sponsors-silver" style="display: flex; flex-wrap: wrap;">
-<a href="https://bit.ly/dataengwiki">
-    <img src="https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Assets/starburst-logo.svg" width=200>
-</a>
 </div>
 
 
