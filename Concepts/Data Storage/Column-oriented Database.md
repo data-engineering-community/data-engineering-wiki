@@ -11,8 +11,8 @@ In a column-oriented or columnar database, the data for each column in a datatab
 ## Column-oriented Database Example
 In a datatable like this:
 
-EmpId | Lastname | FirstnameSalary
------ | ----- | -----
+EmpId | Lastname | Firstname | Salary
+----- | ----- | ----- | -----
 10 | Smith | Joe | 60000
 12 | Jones | Mary | 80000
 11 | Johnson | Cathy | 94000
