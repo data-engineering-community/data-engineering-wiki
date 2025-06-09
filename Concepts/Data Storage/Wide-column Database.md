@@ -4,7 +4,9 @@ Tags: [incubating]
 publish: true
 ---
 
-A wide column database organises data into flexible columns that can be spread across multiple servers or database nodes. They are also known as **column family databases**. They store data in rows based on the primary key of each record. Data is organised into **column families**, i.e. groups of columns that share same attributes. This means we can still access column data without reading entire rows.
+A wide column database organises data into flexible columns that can be spread across multiple servers or database nodes. They are also known as **column family databases**. They store data in rows based on the primary key of each record. Data is organised into **column families**, i.e. groups of columns that share same attributes. This means we can still access column data without reading entire rows. Each row in a wide column database is uniquely identified by a row key.
+
+![[Assets/wide_column_database_example.jpg|500]]
 
 While similar to the tabular format of [[Relational Database|relational databases]], the name and format of the column of a wide column database can be different across rows in the same table.
 
