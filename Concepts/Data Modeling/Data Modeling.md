@@ -3,7 +3,7 @@ aliases:
   - Concepts/Data Modeling
 tags:
   - incubating
-  - core
+  - concepts/core
 publish: true
 ---
 Data Modeling is the process of mapping out an information system and how multiple parts are connected. Data models are typically illustrated in an entity-relationship diagram for relational databases like the picture below.

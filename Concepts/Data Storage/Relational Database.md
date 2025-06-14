@@ -4,7 +4,7 @@ aliases:
   - Concepts/Relational Database
 tags:
   - seedling
-  - core
+  - concepts/core
 publish: true
 ---
 

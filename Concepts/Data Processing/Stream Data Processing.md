@@ -4,7 +4,7 @@ aliases:
   - Concepts/Stream Data Processing
 tags:
   - seedling
-  - core
+  - concepts/core
 publish: true
 ---
 

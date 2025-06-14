@@ -4,7 +4,7 @@ aliases:
   - Concepts/Online Analytical Processing
 tags:
   - incubating
-  - core
+  - concepts/core
 publish: true
 ---
 

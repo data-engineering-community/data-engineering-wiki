@@ -4,7 +4,7 @@ aliases:
   - Concepts/Indexing
 tags:
   - seedling
-  - core
+  - concepts/core
 publish: true
 ---
 

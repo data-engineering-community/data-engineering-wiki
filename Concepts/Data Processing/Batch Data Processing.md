@@ -4,7 +4,7 @@ aliases:
   - Concepts/Batch Data Processing
 tags:
   - incubating
-  - core
+  - concepts/core
 publish: true
 ---
 

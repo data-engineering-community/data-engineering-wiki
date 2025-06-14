@@ -6,7 +6,7 @@ aliases:
   - ETL Pipeline
 tags:
   - incubating
-  - core
+  - concepts/core
 publish: true
 ---
 

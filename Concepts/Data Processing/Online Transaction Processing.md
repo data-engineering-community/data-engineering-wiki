@@ -4,7 +4,7 @@ aliases:
   - Concepts/Online Transaction Processing
 tags:
   - incubating
-  - core
+  - concepts/core
 publish: true
 ---
 
