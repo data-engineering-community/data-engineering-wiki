@@ -1,58 +1,30 @@
 ---
 Aliases: []
-Tags: [seedling]
+tags:
+  - seedling
 publish: true
+cssclasses:
+  - list-cards
 ---
 
-## Core Concepts
+## New to data engineering? Start Here: [[Getting Started With Data Engineering]]
 
-- How to build a [[Data Pipeline|data pipeline]]
+- [[Data Architecture]]
+    - Explore foundational architecture patterns including Data Warehouses, Data Lakes, Data Mesh, Lambda, Kappa, and Medallion architectures.
+- [[Data Ingestion]]
+    - Learn about data movement techniques including Change Data Capture, Full Load vs Delta Load strategies, and ingestion best practices.
+- [[Data Management]]
+    - Discover tools and practices for organizing, cataloging, governing, and managing data assets throughout their lifecycle.
 - [[Data Modeling]]
-- [[Batch Data Processing|Batch]] vs [[Stream Data Processing|Stream processing]]
-- [[Indexing]]
-- [[Relational Database|Relational]] vs [[Non-relational Database|Non-relational]] data
-- [[Online Transaction Processing|OLTP]] vs [[Online Analytical Processing|OLAP]]
-
-> [!info]- ## Database Concepts
->
->- [[CAP Theorem]]
->- [[Column-oriented Database]]
->- [[Document Database]]
->- [[Graph Database]]
->- [[Hybrid Transactional Analytical Processing]]
->- [[In-Memory Database]]
->- [[Key-Value Database]]
->- [[Non-relational Database]]
->- [[Online Analytical Processing]]
->- [[Online Transaction Processing]]
->- [[Relational Database]]
->- [[Relational Database Management System]]
->- [[Timeseries Database]]
-
-> [!info]- ## Data Pipeline Concepts
->
->- [[Batch Data Processing]]
->- [[Change Data Capture]]
->- [[Data Pipeline]]
->- [[Data Unit Test]]
->- [[Delta Load]]
->- [[Full Load]]
->- [[Idempotence]]
->- [[Stream Data Processing]]
->- [[Workflow Orchestration]]
-
-> [!info]- ## Data Architecture Concepts
->
->- [[Data Architecture]]
->- [[Data Lake]]
->- [[Data Warehouse]]
->- [[Fan-out]]
->- [[Horizontal Scaling]]
->- [[Lambda Architecture]]
->- [[Medallion Architecture]]
->- [[Metrics Layer]]
->- [[Semantic Layer]]
->- [[Vertical Scaling]]
+    - Study modeling techniques from traditional relational and dimensional modeling to newer approaches like Data Vault and Activity Schema.
+- [[Data Processing]]
+    - Understand batch vs stream processing, OLTP vs OLAP systems, and core data processing paradigms.
+- [[Data Security, Ethics, and Compliance]]
+    - Learn about data protection, privacy, regulatory compliance, and ethical data practices.
+- [[Data Storage]]
+    - Compare relational, non-relational, document, graph, key-value, and column-oriented databases with their use cases.
+- [[Software Engineering]]
+    - Apply software engineering principles including testing, indexing, scaling strategies, and development best practices to data systems.
 
 %% wiki footer: Please don't edit anything below this line %%
 
