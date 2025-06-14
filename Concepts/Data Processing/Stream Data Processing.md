@@ -1,6 +1,10 @@
 ---
-Aliases: [stream processing, Concepts/Stream Data Processing]
-Tags: [seedling]
+aliases:
+  - stream processing
+  - Concepts/Stream Data Processing
+tags:
+  - seedling
+  - core
 publish: true
 ---
 

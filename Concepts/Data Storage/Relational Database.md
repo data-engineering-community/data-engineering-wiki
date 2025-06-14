@@ -1,6 +1,10 @@
 ---
-Aliases: [relational data, Concepts/Relational Database]
-Tags: [seedling]
+aliases:
+  - relational data
+  - Concepts/Relational Database
+tags:
+  - seedling
+  - core
 publish: true
 ---
 

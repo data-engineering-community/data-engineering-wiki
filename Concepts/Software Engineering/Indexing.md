@@ -1,6 +1,10 @@
 ---
-Aliases: [indexes, Concepts/Indexing]
-Tags: [seedling]
+aliases:
+  - indexes
+  - Concepts/Indexing
+tags:
+  - seedling
+  - core
 publish: true
 ---
 

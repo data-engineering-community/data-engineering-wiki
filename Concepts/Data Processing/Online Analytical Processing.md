@@ -1,6 +1,10 @@
 ---
-Aliases: [OLAP, Concepts/Online Analytical Processing]
-Tags: [incubating]
+aliases:
+  - OLAP
+  - Concepts/Online Analytical Processing
+tags:
+  - incubating
+  - core
 publish: true
 ---
 

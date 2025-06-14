@@ -1,6 +1,10 @@
 ---
-Aliases: [batch processing, Concepts/Batch Data Processing]
-Tags: [incubating]
+aliases:
+  - batch processing
+  - Concepts/Batch Data Processing
+tags:
+  - incubating
+  - core
 publish: true
 ---
 

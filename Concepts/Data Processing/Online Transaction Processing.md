@@ -1,6 +1,10 @@
 ---
-Aliases: [OLTP, Concepts/Online Transaction Processing]
-Tags: [incubating]
+aliases:
+  - OLTP
+  - Concepts/Online Transaction Processing
+tags:
+  - incubating
+  - core
 publish: true
 ---
 

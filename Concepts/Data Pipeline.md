@@ -1,6 +1,12 @@
 ---
-Aliases: [data pipeline, ETL, ELT, ETL Pipeline]
-Tags: [incubating]
+aliases:
+  - data pipeline
+  - ETL
+  - ELT
+  - ETL Pipeline
+tags:
+  - incubating
+  - core
 publish: true
 ---
 
