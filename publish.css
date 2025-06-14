@@ -61,55 +61,87 @@ span.git-footer {
   content: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20width%3D%221em%22%20height%3D%221em%22%20preserveAspectRatio%3D%22xMidYMid%20meet%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M19%209h-4V3H9v6H5l7%207l7-7zM5%2018v2h14v-2H5z%22%20fill%3D%22currentColor%22%2F%3E%3C%2Fsvg%3E')
 }
 
-/* List Cards */
+.list-cards {
+  /* Kepano's List Cards from minimal */
+  /* Use cssclasses: list-cards */
+  --list-cards-template: repeat(2, minmax(0, 1fr));
+}
 .list-cards div > ul {
-    --link-color: var(--text-normal);
-    --link-unresolved-color: var(--text-muted);
-    --link-decoration: none;
-    --link-decoration-hover: none;
-    --link-external-color: var(--text-normal);
-    --link-external-decoration: none;
-    --link-external-decoration-hover: none;
-    display: grid;
-    gap: 8px;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    padding:0;
+  --link-color: var(--text-normal);
+  --link-unresolved-color: var(--text-muted);
+  --link-decoration: none;
+  --link-decoration-hover: none;
+  --link-external-color: var(--text-normal);
+  --link-external-decoration: none;
+  --link-external-decoration-hover: none;
+  display: grid;
+  gap: 8px;
+  grid-template-columns: var(--list-cards-template);
+  padding: 0;
+}
+.list-cards ul > li {
+  margin-inline: 0;
 }
 .list-cards div > ul > li {
-    display: flex;
-    border-radius: var(--radius-s);
-    border: 1px solid var(--color-base-25);
+  display: flex;
+  border-radius: var(--radius-s);
+  border: 1px solid var(--color-base-25);
+  flex-wrap: wrap;
+  margin-inline: 0;
 }
-.list-cards div > ul > li:has(ul) {
-	flex-direction: column;
+.list-cards div > ul > li a {
+  flex-grow: 0;
 }
-.list-cards div > ul > li:has(ul) a {
-	flex-grow: 0;
+.list-cards div > ul > li a:after {
+  content: "";
+  flex-basis: 100%;
+  height: 0;
 }
-.list-cards div ul > li a {
-	flex-grow: 1;
-    padding: 16px;
-    font-weight: var(--font-semibold);
-    background: none;
+.list-cards div > ul > li a:hover {
+  border-color: var(--color-base-35);
 }
-.list-cards div ul > li:hover {
-    border-color: var(--color-base-35);
+.list-cards div > ul > li a {
+  flex-grow: 1;
+  padding: 16px;
+  font-weight: var(--font-semibold);
+  background: none;
+}
+.list-cards div > ul > li a:hover {
+  border-color: var(--color-base-35);
+}
+.list-cards div > ul ul {
+  display: block;
+  width: 100%;
+  color: var(--text-muted);
+  font-size: var(--font-smaller);
+  margin-top: -8px;
+  padding: 0 16px 16px;
+}
+.list-cards div > ul ul > li {
+  display: block;
+  margin-inline-start: 0;
+}
+.theme-dark .list-cards div ul > li {
+  background-color: var(--background-secondary);
 }
 
-.theme-dark .list-cards div ul > li {
-    background-color: var(--background-secondary);
+.list-cards .icon-app {
+  display: inline-block;
+  align-self: center;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: 24px 24px;
+  background-position: center;
 }
-.list-cards div ul ul {
-    display: block;
-    width: 100%;
-    color: var(--text-muted);
-    font-size: var(--font-smaller);
-    margin-top: -8px;
-    padding: 0 16px 16px;
+.list-cards .icon-app + a {
+  padding-left: 52px;
+  align-self: center;
+  line-height: 1.15;
 }
-.list-cards div ul ul > li {
-    display: block;
-}
+
 
 /* Clean Embeds */
 /*
