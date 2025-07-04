@@ -19,8 +19,6 @@ Welcome! This is the official wiki built and maintained by the [[Community|data 
 	- Understand how to make Data Engineering decisions.
 - [[Tools|🛠️ Tools]]
 	- Commonly used tools for Data Engineering.
-- [[Tutorials|🔢 Tutorials]]
-	- Step-by-step instructions for Data Engineering tasks.
 - [[Learning Resources|📚 Learning Resources]]
 	- Learn Data Engineering with resources recommended by other Data Engineers.
 

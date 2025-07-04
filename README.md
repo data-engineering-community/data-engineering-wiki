@@ -23,8 +23,7 @@ A collection of notes that are connected organically but loosely organized into 
 2. **[FAQ](https://dataengineering.wiki/FAQ/FAQ):** Frequently asked questions about Data Engineering.
 3. **[Guides](https://dataengineering.wiki/Guides/Guides):** Understand how to make Data Engineering decisions.
 4. **[Tools](https://dataengineering.wiki/Tools/Tools):** Commonly used tools for Data Engineering.
-5. **[Tutorials](https://dataengineering.wiki/Tutorials/Tutorials):** Step-by-step instructions for Data Engineering tasks.
-6. **[Learning Resources](https://dataengineering.wiki/Learning+Resources):** Learn Data Engineering with resources recommended by the Data Engineering community.
+5. **[Learning Resources](https://dataengineering.wiki/Learning+Resources):** Learn Data Engineering with resources recommended by the Data Engineering community.
 
 ## Sponsors
 
