@@ -33,12 +33,17 @@ A best practice guide for data pipelines compiled from data engineers in the com
 
 - Don't let file sizes become too large or too small. Large files (>1 GB) can require more resources and many small files can create a large overhead to process. ~250 MB is a good size that allows for better parallel processing.
 - Use the [[Claim Check Pattern|claim check pattern]] to pass large amounts of data between tasks in your pipeline.
+- Compress data when possible before storing or transmitting. gzip, snappy, and lz4 are common compression algorithms.
+- Partition/cluster data based on common query patterns for efficient querying.
 
 ## Security
 
 - Save credentials in a secrets manager and access them in your pipeline programmatically.
 	- Ideally, have secrets rotated automatically.
 - Avoid logging any sensitive information like credentials or PII data.
+- Encrypt data in transit and at rest.
+- Implement proper access control (IAM) policies.
+- Create audit trails/logs of data access and changes.
 
 ## Testing
 
@@ -46,6 +51,14 @@ A best practice guide for data pipelines compiled from data engineers in the com
 - Test data pipeline code with regular unit tests.
 - Set up a local environment to test pipelines locally first. (see Docker above)
 - Re-define pipeline failures. If pipeline fails x times but data is still delivered on time then it was successful.
+
+## Error Handling and Monitoring
+
+- Implement exponential backoff for transient failures.
+- Streaming: Add dead letter queues (DQL) to store failed messages. This allows you to inspect and reprocess them later without losing data.
+- Set up notifications for pipeline failures.
+- Use comprehensive logging for debugging and auditing.
+- Track metrics such as ingestion rates, latency, CPU/memory usage, and error rates.
 
 %% wiki footer: Please don't edit anything below this line %%
 
