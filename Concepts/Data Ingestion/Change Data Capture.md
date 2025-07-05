@@ -1,14 +1,42 @@
 ---
-Aliases: [CDC, log-based CDC, Concepts/Change Data Capture]
-Tags: [incubating]
+Aliases:
+  - CDC
+  - log-based CDC
+  - Concepts/Change Data Capture
+Tags:
+  - evergreen
 publish: true
 ---
 
-Change data capture describes the process of recording the change of data in a database. Typically, this means tracking when records are inserted, updated, and deleted along with the data itself.
+Change data capture (CDC) is a specialized incremental ingestion technique that captures changes from database transaction logs using CDC software. This means tracking when records are inserted, updated, and deleted along with the data itself and optionally events like schema changes. It is a widely used technique because of it's efficiency and minimal impact on source systems. ^overview-cdc
+
+```mermaid
+%%{init: { "flowchart": { "useMaxWidth": true } } }%%
+graph LR
+    subgraph Source
+        A[(Database)]
+        B[Transaction Log]
+        A --> B
+    end
+    
+    subgraph CDC Process
+        C[CDC Tool]
+        D[Change Events]
+        B -->|Read log| C
+        C --> D
+    end
+    
+    subgraph Target
+        E[(Data Warehouse)]
+        D -->|Apply changes| E
+    end
+```
+^overview-cdc-diagram
 
 ## Change Data Capture Advantages
-- Better use of bandwidth
-- Can keep historical data changes
+- Real-time or near real-time data replication
+- Minimal impact on source systems
+- Captures all types of changes (INSERT, UPDATE, DELETE) and often schema changes as well.
 
 ## Change Data Capture Disadvantages
 - More complex to set up than [[Full Load|full loads]] or [[Delta Load|delta loads]]

@@ -1,10 +1,21 @@
 ---
-Aliases: [Destructive Load, Concepts/Full Load]
-Tags: [seedling]
+Aliases:
+  - Destructive Load
+  - Concepts/Full Load
+Tags:
+  - evergreen
 publish: true
 ---
+With a full load, the entire dataset is dumped, or loaded, and is then completely replaced (i.e., deleted and replaced) with the new, updated dataset. No additional information, such as timestamps, is required. ^overview-full-load
 
-With a full load, the entire dataset is dumped, or loaded, and is then completely replaced (i.e., deleted and replaced) with the new, updated dataset. No additional information, such as timestamps, is required.
+```mermaid
+%%{init: { "flowchart": { "useMaxWidth": true } } }%%
+graph LR
+    A[(Source<br/>100,000 records)] -->|Extract all records| B[Ingestion Process]
+    B -->|Load/overwrite all records| C[(Destination<br/>100,000 records)]
+```
+
+^overview-full-load-diagram
 
 ## Full Load Advantages
 

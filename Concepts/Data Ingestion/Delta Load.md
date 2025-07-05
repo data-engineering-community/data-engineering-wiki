@@ -1,16 +1,41 @@
 ---
-Aliases: [incremental load, query-based CDC, Concepts/Delta Load]
-Tags: [seedling]
+Aliases:
+  - incremental load
+  - query-based CDC
+  - Concepts/Delta Load
+Tags:
+  - evergreen
 publish: true
 ---
 
-A delta load refers to extracting only the data that has changed since the last time the extract process has run. The most commonly used steps to perform a delta load are:
+A delta load (or incremental load) refers to extracting only the data that has changed since the last time the extract process has run. This process is typically query-based and requires an incrementing id or timestamp column that can be used to determine new records. ^overview-delta-load
 
+```mermaid
+%%{init: { "flowchart": { "useMaxWidth": true } } }%%
+graph TD
+    subgraph S1 [Initial Load]
+    direction LR
+    A1[(Source<br/>100,000 records)] -->|Extract all records| B1[Ingestion Process]
+    B1 -->|Load all records| C1[(Destination<br/>100,000 records)]
+    end
+
+    subgraph S2 [Subsequent Runs]
+    direction LR
+    A2[(Destination<br/> 100,000 records)] -->|"Query for MAX(modified_at)<br/>from Destination"| D[Latest Timestamp]
+    D -->|"Query source using timestamp to filter"|A[(Source<br/>100,500 records)] 
+    A -->|Load 500 new/changed records| B[Ingestion Process]
+    B --> C[(Destination<br/>100,500 records)]
+    end
+
+    S1 --> S2
+```
+^overview-delta-load-diagram
+
+The most commonly used steps to perform a delta load are:
 1. Ensure there is a `modified_at` timestamp or incremental id column such as a primary key on the data source. 
 2. On the initial run of the pipeline, do a full load of the dataset.
 3. On following runs of the pipeline, query the target dataset using `MAX(column_name)`.
 4. Query the source dataset and filter records where values are greater than the value from step 3.
-
 
 ## Delta Load Advantages
 
