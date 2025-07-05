@@ -10,11 +10,15 @@ This guide is intended for people who are new to Data Engineering and aren't sur
 
 ## Step 1: Read the FAQ
 
-![[FAQ]]
+![[FAQ#Frequently Asked Questions]]
 
 ## Step 2: Learn Data Engineering core concepts
 
-![[Concepts#Core Concepts]]
+- Understand the basics of a [[Data Pipeline]]
+- [[Batch Data Processing]] vs [[Stream Data Processing]]
+- [[Online Transaction Processing|Online Transaction Processing (OLTP)]] vs [[Online Analytical Processing| Online Analytical Processing (OLAP)]]
+- [[Relational Database]] vs [[Non-relational Database]]
+- [[Data Modeling]]: Similar to OLTP vs OLAP, read about [[Relational Modeling]] vs [[Dimensional Modeling]]
 
 ## Step 3: Learn the core tools
 

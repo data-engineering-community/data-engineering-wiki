@@ -7,8 +7,8 @@ publish: true
 ## Core Tools
 
 - Learn [[SQL]], the most widely used language for interacting with data.
-- Learn a scripting language like [[Python]], [[Java]], or [[Scala]] which are currently the most popular languages for DE.
-- Learn how to use a set of cloud tools like [[Amazon Web Services]], [[Microsoft Azure]], or [[Google Cloud Platform]].
+- Learn [[Python]] which is the most popular programming language in data engineering. [[Java]] and [[Scala]] are also used for more niche use cases.
+- Learn how to use a set of cloud tools like [[Amazon Web Services]], [[Microsoft Azure]], or [[Google Cloud Platform]]. Choose AWS if you're unsure because it has the most [marketshare](https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/) and thus more job opportunities.
 
 ## Databases
 

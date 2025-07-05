@@ -3,6 +3,7 @@ Aliases: [frequently asked questions]
 Tags: [seedling]
 publish: true
 ---
+## Frequently Asked Questions
 
 > [!faq]- ### What is Data Engineering?
 > ![[What is Data Engineering|What is data engineering?]]
