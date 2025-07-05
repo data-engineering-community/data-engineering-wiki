@@ -21,22 +21,10 @@ Welcome! This is the official wiki built and maintained by the [[Community|data 
 	- Commonly used tools for Data Engineering.
 - [[Learning Resources|📚 Learning Resources]]
 	- Learn Data Engineering with resources recommended by other Data Engineers.
+- [[Community|👨‍👩‍👧‍👦 Community]]
+	- Discover online & local data engineering communities and events.
 
 > [!success]- [[Get Involved|Want to get involved? Click here!]]
-
-## Gold Sponsors
-
-<div class="sponsors-gold" style="display: flex; flex-wrap: wrap;">
-	<a href="https://dataengjobs.com/">
-	    <img src="https://avatars.githubusercontent.com/u/109050594?v=4" width=250>
-	</a>
-	<a href="https://greatexpectations.io/cloud/?utm_source=reddit&utm_medium=sponsored&utm_campaign=r-dataengineering&utm_content=cloud-signup">
-	    <img src="https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/41d72633bf4c6fea9f1d073f590dfc7d331359b4/Assets/great-expectations-logo.svg" width=250>
-	</a>
-</div>
-
-</div>
-
 
 <iframe src="https://dataengineeringcommunity.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
