@@ -28,6 +28,45 @@ Common data sources include:
 
 ### 2. Ingestion Patterns
 
+#### Extract, Transform, Load (ETL)
+
+ETL is a traditional ingestion pattern where data is extracted from a source, transformed (during the ingestion process), and then loaded into the destination.
+
+```mermaid
+%%{init: { "flowchart": { "useMaxWidth": true } } }%%
+graph LR
+    A[Data Source] 
+    B[Extract]
+    C[Transform<br/>Data Validation<br/>Business Rules<br/>Cleaning]
+    D[Load]
+    E[(Data Warehouse)]
+    
+    A -->|Raw data| B
+    B -->|Extracted data| C
+    C -->|Clean data| D
+    D -->|Structured data| E
+```
+
+#### Extract, Load, Transform (ELT)
+
+ELT is the modern ingestion pattern where raw data is extracted and loaded directly into the destination, then transformed within the destination system. ELT is the more popular pattern because storage is cheap and keeping the raw data allows for more flexibility in future data use cases.
+
+```mermaid
+%%{init: { "flowchart": { "useMaxWidth": true } } }%%
+graph LR
+    A[Data Source] 
+    B[Extract]
+    C[Load]
+    D[Transform<br/>In destination]
+    E[(Data Warehouse/Lake)]
+    
+    A -->|Raw data| B
+    B -->|Extracted data| C
+    C -->|Raw data| E
+    E -->|Stored data| D
+    D -->|Transformed data| E
+```
+
 #### [[Batch Data Processing|Batch Ingestion]]
 
 Data is collected and processed in discrete chunks at scheduled intervals.
@@ -195,25 +234,7 @@ graph LR
     D -->|Load processed data| E
 ```
 
-## Common Data Ingestion Challenges
 
-### Scalability
-
-- Volume Growth: Handling increasing data volumes
-- Source System Impact: Minimizing load on operational systems
-- Resource Management: Efficiently using compute and storage resources
-
-### Reliability
-
-- Source System Downtime: Handling unavailable data sources
-- Network Issues: Managing connectivity problems
-- Data Consistency: Ensuring data integrity across systems
-
-### Complexity
-
-- Schema Evolution: Handling changes in source data structures
-- Multiple Sources: Managing diverse data sources and formats
-- Dependency Management: Coordinating ingestion across related datasets
 
 %% wiki footer: Please don't edit anything below this line %%
 
