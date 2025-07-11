@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Tools/{{title}}
+  - Tools/Skopeo
 tags:
   - seedling
 publish: false
