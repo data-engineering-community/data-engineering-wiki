@@ -6,11 +6,13 @@ tags:
 publish: false
 ---
 
-(optional) Logo
+![[Kubernetes-logo.png]]
 
-Brief description of the tool.
+An open-source orchestration system that automates the deployment, scaling, and management of containerized applications across clusters.
 
 ## Kubernetes Official Documentation
+
+[Official Kubernetes Documentation](https://kubernetes.io/docs/home/)
 
 ## Kubernetes Advantages
 
@@ -18,7 +20,11 @@ Brief description of the tool.
 
 ## Kubernetes Learning Resources
 
+[Kubernetes courses on Linux Foundation](https://training.linuxfoundation.org/full-catalog/?_sft_product_type=training&_sft_technology=kubernetes)
+
 ## Kubernetes Recent Posts
+
+[Kubernetes recent blogs](kubernetes.io/blog/)
 
 %% wiki footer: Please don't edit anything below this line %%
 
