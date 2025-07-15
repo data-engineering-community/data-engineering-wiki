@@ -28,20 +28,17 @@ Containerization is a special form of **virtualization** that packages the softw
 
 ## When to use Containerization
 
-It is well-known that containerization is a game-changing technology for modern process of development and deployment. However, there are still some requirements that need to be meet in order to use this technology. Here are some Do's and Don'ts:
-
 ### Do's
 
-- **Familiar with Microservices architecture**: If you're working with microservices architectures, containerization is a must. Containers allow you to deploy, scale, and manage each microservice independently. This modularity makes your applications more scalable and resilient. By isolating services, you can update or fix one component without affecting the others, leading to faster development cycles.
-- **DevOps workflow**: This combine with containerization deliver consistency and speed to the process of CI/CD, enable efficient error-free development, testing, deployment pipeline. Hence, the delivery process will not have any problems.
-- **Complex dependencies**: By encapsulating dependencies within [[Container]], this allow applications to run consistently regardless of infrastructure.
-- **Optimizing resource**: [[Container]] is light-weight and portable, they require minimal resource to operate. This is perfect for cost-effective deployment and scaling.
+- **Working with a Microservices architecture**: If you're working with microservices, containerization is a great fit. Containers allow you to deploy, scale, and manage each microservice independently making your application more scalable and resilient. 
+- **DevOps workflow**: This combined with containerization delivers consistency and speed to the process of CI/CD, enables efficient development, testing, deployment pipelines.
+- **Complex dependencies**: By encapsulating dependencies within a [[Container]], this allow applications to run consistently regardless of infrastructure.
 
 ### Don'ts
 
-- **Simple application**: Using containerization for simple apps is just overkill, straight deployment might be better regarding management complexity and speed.
-- **Legacy system adoption**: "If it works, leave it be", refactor a working legacy system to newer technology might contain potential risks and tradeoffs that need intense consideration.
-- **Fear of missing out**: "Everyone is using containerization so we need to use it too", this a false understanding of containerization usage. It is true that it provides many benefits to the development and deployment process, but when deciding to use a technology, you need to consider many aspects of a bigger picture. Everything has a tradeoff and containerization is not doing everything by itself, it need to cooperate with its surrounding.
+- **Simple application**: Using containerization for simple apps is overkill, straight deployment might be better regarding management complexity and speed.
+- **Legacy system adoption**: "If it works, leave it be", refactor a working legacy system to newer technology might contain potential risks and tradeoffs that need consideration.
+- **Fear of missing out**: "Everyone is using containerization so we need to use it too", this a false understanding of containerization usage. It is true that it provides many benefits to the development and deployment process, but when deciding to use a technology, you need to consider many aspects of a bigger picture. Everything has a tradeoff and containerization is not doing everything by itself, it needs to cooperate with its surroundings.
 
 ## Containerization Tools
 
