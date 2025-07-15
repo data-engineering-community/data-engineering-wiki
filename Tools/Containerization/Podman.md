@@ -6,11 +6,13 @@ tags:
 publish: false
 ---
 
-(optional) Logo
+![[Podman-logo.jpg]]
 
-Brief description of the tool.
+A daemonless (serviceless) container engine that offers Docker-compatible commands while supporting rootless containers for enhanced security.
 
 ## Podman Official Documentation
+
+[Official Podman Documentation](https://podman.io/docs)
 
 ## Podman Advantages
 
@@ -18,7 +20,13 @@ Brief description of the tool.
 
 ## Podman Learning Resources
 
+[Podman tutorials on GitHub](https://github.com/containers/podman/tree/main/docs/tutorials)
+
 ## Podman Recent Posts
+
+[Podman on GitHub](https://github.com/containers/podman)
+
+[Podman recent blogs](https://podman.io/blogs)
 
 %% wiki footer: Please don't edit anything below this line %%
 
