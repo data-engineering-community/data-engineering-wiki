@@ -50,8 +50,9 @@ Containerization is a special form of **virtualization** that packages the softw
 
 ## Best Practices
 
-[Containerization best practices - Simform](https://www.simform.com/blog/containerization-best-practices)
-[Containerization best practices - Dev Communities](https://dev.to/aws-builders/the-art-of-creating-container-images-and-best-practices-3p9d)
+- [Containerization best practices - Simform](https://www.simform.com/blog/containerization-best-practices)
+- [Containerization best practices - Dev Communities](https://dev.to/aws-builders/the-art-of-creating-container-images-and-best-practices-3p9d)
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub
