@@ -25,7 +25,7 @@ Containerization is a special form of **virtualization** that packages the softw
 - **More security concerns**: Containerization require many components to function such as **Container**, **Container Image**, services,... These could be targets for exploits and attacks.
 - **Increase Complexity**: The process of creating and managing **Container** is a thorny task that require deep and wide system knowledge.
 - **Compatibility**: Containerized applications may face compatibility issues when interacting with legacy systems.
-- **Steep learning curve**: Adopting Containerization requires significant amount of time and effort to master and apply into real-world system.
+- **Require efforts**: Adopting Containerization requires significant amount of time and effort to master and apply into real-world system.
 
 ## Container 
 
