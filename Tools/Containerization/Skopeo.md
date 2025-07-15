@@ -6,11 +6,13 @@ tags:
 publish: false
 ---
 
-(optional) Logo
+![[Skopeo-logo.png]]
 
-Brief description of the tool.
+A command-line tool for managing container images, allowing you to inspect, copy, and sign images without needing to pull them locally.
 
 ## Skopeo Official Documentation
+
+[Skopeo documentation on Github](https://github.com/containers/skopeo/tree/main/docs)
 
 ## Skopeo Advantages
 
@@ -18,7 +20,7 @@ Brief description of the tool.
 
 ## Skopeo Learning Resources
 
-## Skopeo Recent Posts
+[Skopeo on Github](https://github.com/containers/skopeo)
 
 %% wiki footer: Please don't edit anything below this line %%
 
