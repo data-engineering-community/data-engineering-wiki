@@ -11,12 +11,12 @@ Containerization is a special form of **virtualization** that packages the softw
 
 ## Containerization Advantages
 
-- **Portability**: By isolating the code from its dependencies from the OS and associate libraries, it solve the problem of "But it works on my machine", allowing the containerized software to run uniformly and consistently on various platform.  
-- **Efficiency**: The software run on the containerized environment utilize the host machine's OS kernel. Hence, it comes with smaller size and require less time to start up.
-- **Faster deployment**: Application running from container can be deployed easily and rapidly scaled due to their portability and efficiency.    
-- **Security**: The usage of containerization reduce the risk of the application being negatively impacted by security threats or exploits.
+- **Portability**: By packaging the code, its dependencies and OS, it solves the problem of "But it works on my machine", allowing the containerized software to run uniformly and consistently on various platforms.
+- **Efficiency**: The software running in the containerized environment utilizes the host machine's OS kernel. Hence, it comes with a smaller size and requires less time to start up.
+- **Faster deployment**: An application running from a container can be deployed easily and rapidly scaled due to their portability and efficiency.
+- **Security**: The usage of containerization reduces the risk of the application being negatively impacted by security threats or exploits.
 - **Microservices architecture**: Enables the development of modular, independently deployable services by using [[Container]] as deployment method.
-- **Automation workflow**: Containerization can be integrated with **CI/CD** workflow, collaborating with various tools to create an automatic and consistent pipeline for building, testing, and deploying applications.
+- **Automation workflow**: Containerization can be integrated with **CI/CD** workflows, collaborating with various tools to create an automatic and consistent pipeline for building, testing, and deploying applications.
 
 ## Containerization Disadvantages
 
