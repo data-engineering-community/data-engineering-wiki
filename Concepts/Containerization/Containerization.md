@@ -20,11 +20,11 @@ Containerization is a special form of **virtualization** that packages the softw
 
 ## Containerization Disadvantages
 
-- **OS kernel**: Containerization use the OS kernel to operate so if there are any vulnerability in the kernel can potentially lead to errors on the application.
-- **More security concerns**: Containerization require many components to function such as [[Container]], [[Container Image]], services,... These could the target for exploits and attacks.
-- **Increase Complexity**: The process of creating and managing [[Container]] is a thorny task that require deep and wide system knowledge. 
+- **OS kernel**: Containerization uses the OS kernel to operate so if there are any vulnerabilities in the kernel it can potentially lead to errors on the application.
+- **More security concerns**: Containerization require many components to function such as [[Container]], [[Container Image]], services,... These could be targets for exploits and attacks.
+- **Increase Complexity**: The process of creating and managing [[Container]] is a thorny task that require deep and wide system knowledge.
 - **Compatibility**: Containerized applications may face compatibility issues when interacting with legacy systems.
-- **Steep learning curve**: Adopting Containerization require significant amount of time and effort to master and apply into real-world system.
+- **Steep learning curve**: Adopting Containerization requires significant amount of time and effort to master and apply into real-world system.
 
 ## When to use Containerization
 
