@@ -6,11 +6,13 @@ tags:
 publish: false
 ---
 
-(optional) Logo
+![[Buildah-logo.png]]
 
-Brief description of the tool.
+A tool for building Open Container Initiative (OCI) and Docker images from scratch or using **Dockerfiles**, often integrated with [[Podman]] for complete container workflows.
 
 ## Buildah Official Documentation
+
+[Buildah documentation on Github](https://github.com/containers/buildah/tree/main/docs)
 
 ## Buildah Advantages
 
@@ -18,7 +20,11 @@ Brief description of the tool.
 
 ## Buildah Learning Resources
 
+[Buildah tutorial on Github](https://github.com/containers/buildah/tree/main/docs/tutorials)
+
 ## Buildah Recent Posts
+
+[Buidah recent blogs](https://buildah.io/blogs/)
 
 %% wiki footer: Please don't edit anything below this line %%
 
