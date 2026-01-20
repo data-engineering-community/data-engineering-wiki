@@ -267,7 +267,7 @@ Note that aggregate functions do not work within in a `WHERE` clause due to the 
 ## 3. Advanced SQL
 
 ### Window Functions
-[Online Reference](https://www.sqltutorial.org/sql-window-functions/)
+[Online Reference](https://www.mysqltutorial.org/mysql-window-functions/)
 
 Window functions perform calculations on a set of rows that are related together, but, unlike aggregate functions, windowing functions do not collapse the result of the rows into a single value. Instead, all the rows maintain their original identity and the calculated result is returned for every row.
 
