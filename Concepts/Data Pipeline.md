@@ -23,7 +23,7 @@ The architecture you choose can vary wildly and there is no one size fits all. H
 
 ### Data Sources
 
-Common data sources are application databases, APIs, or files from an SFTP server. If you are looking for data sources to practice with or analyze, many governments publish their datasets publicly and you can find them by searching "[open data portal](http://googleitfor.me/?q=open+data+portal)."
+Common data sources are application databases, APIs, or files from an SFTP server. If you are looking for data sources to practice with or analyze, many governments publish their datasets publicly and you can find them by searching "[open data portal](https://www.google.com/search?q=open+data+portal)."
 
 ### Business Logic
 
