@@ -1,11 +1,11 @@
 ---
-Title: Queue
-Aliases:
+title: Queue
+aliases:
   - Message Queue
   - Work Queue
   - SQS
   - Kafka
-Tags:
+tags:
   - concepts
   - data-processing
   - messaging
@@ -16,7 +16,7 @@ Tags:
 
 A **queue** is a messaging pattern where producers put messages into a buffer, and consumers pull messages out to process them. The main point is **decoupling**: the producer and consumer don’t need to run at the same speed (or even be online at the same time).
 
-In data engineering, “queue” sometimes gets mixed up with tools like Kafka. They both move messages, but they are built for **different goals**.
+In data engineering, "queue" sometimes gets mixed up with tools like Kafka. They both move messages, but they are built for **different goals**.
 
 ---
 
@@ -32,22 +32,22 @@ A simple way to remember it:
 ### ✅ SQS-style Queue (work distribution)
 SQS is designed to help you **get work done** by distributing tasks to workers.
 
-Examples of “work” messages:
-- “Process this CSV file”
-- “Resize these images”
-- “Run enrichment for customer 42”
-- “Send a notification email”
+Examples of "work" messages:
+- "Process this CSV file"
+- "Resize these images"
+- "Run enrichment for customer 42"
+- "Send a notification email"
 
 You push tasks into SQS, and a pool of workers pulls tasks and executes them.
 
 ### ✅ Kafka-style Broker / Log (event streaming)
 Kafka is designed to store **events** so that **many consumers** can read them and you can **replay history**.
 
-Examples of “event” messages:
-- “OrderPlaced”
-- “PaymentSucceeded”
-- “InventoryUpdated”
-- “CustomerProfileChanged”
+Examples of "event" messages:
+- "OrderPlaced"
+- "PaymentSucceeded"
+- "InventoryUpdated"
+- "CustomerProfileChanged"
 
 Kafka stores these events like an **append-only log**.
 
@@ -76,7 +76,7 @@ Kafka stores these events like an **append-only log**.
 
 ### SQS
 - Typically, **one consumer** processes a message.
-- If you have 10 workers, they “share” the queue; each message goes to **one** worker.
+- If you have 10 workers, they "share" the queue; each message goes to **one** worker.
 - Great for scaling a worker pool.
 
 ### Kafka
@@ -84,7 +84,7 @@ Kafka supports both:
 1. **Consumer groups:** within a group, each message goes to one consumer (work distribution).
 2. **Multiple groups:** different systems can independently consume the same events.
 
-Example: the same “OrderPlaced” event can be consumed by:
+Example: the same "OrderPlaced" event can be consumed by:
 - analytics
 - fraud detection
 - email service
@@ -135,7 +135,7 @@ Each system reads the stream without interfering with the others.
 Examples:
 - file processing jobs
 - async API jobs
-- ETL triggers like “process file X now”
+- ETL triggers like "process file X now"
 - sending notifications (task-based)
 
 ### Use Kafka when:
@@ -159,7 +159,7 @@ Examples:
 
 ---
 
-## 8) Tiny real-world example: “A customer places an order”
+## 8) Tiny real-world example: "A customer places an order"
 
 ### Kafka approach (event first)
 - Produce: `OrderPlaced(order_id=123, user=...)`
@@ -171,7 +171,7 @@ Examples:
 - If analytics is down for a day, it can replay the topic and catch up.
 
 ### SQS approach (task first)
-- Put task: “Send receipt for order 123”
+- Put task: "Send receipt for order 123"
 - One worker picks it and sends the email.
 - Great for the email task — but SQS is not ideal as the main system-of-record for all order events.
 
@@ -184,9 +184,10 @@ Examples:
 - **Retention (Kafka):** how long Kafka keeps messages.
 
 %% wiki footer: Please don't edit anything below this line %%
+
 ## This note in GitHub
-<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Data%20Processing/Queue.md "git-hub-edit-note") |
-[Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Data%20Processing/Queue.md "git-hub-copy-note")</span>
+
+<span class="git-footer">[Edit In GitHub](https://github.dev/data-engineering-community/data-engineering-wiki/blob/main/Concepts/Data%20Processing/Queue.md "git-hub-edit-note") | [Copy this note](https://raw.githubusercontent.com/data-engineering-community/data-engineering-wiki/main/Concepts/Data%20Processing/Queue.md "git-hub-copy-note")</span>
+
 <span class="git-footer">Was this page helpful?
-[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Data%20Processing/Queue) or
-[👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Data%20Processing/Queue)</span>
+[👍](https://tally.so/r/mOaxjk?rating=Yes&url=https://dataengineering.wiki/Concepts/Data%20Processing/Queue) or [👎](https://tally.so/r/mOaxjk?rating=No&url=https://dataengineering.wiki/Concepts/Data%20Processing/Queue)</span>
