@@ -142,9 +142,9 @@ These outputs can be previewed and analyzed via Mage's GUI. This reduces frictio
 | 🎶  | [Orchestration](https://docs.mage.ai/design/data-pipeline-management)                | Schedule and manage data pipelines with observability.                 |
 | --- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | 📓  | [Notebook](https://docs.mage.ai/about/features#notebook-for-building-data-pipelines) | Interactive Python, SQL, & R editor for coding data pipelines.         |
-| 🏗️  | [Data integrations](https://docs.mage.ai/integrations/data-integrations)             | Synchronize data from 3rd party sources to your internal destinations. |
-| 🚰  | [Streaming pipelines](https://docs.mage.ai/guides/streaming-pipeline)                | Ingest and transform real-time data.                                   |
-| ❎  | [DBT](https://docs.mage.ai/dbt/overview)                                             | Build, run, and manage your dbt models with Mage.                      |
+| 🏗️  | [Data integrations](https://docs.mage.ai/data-integrations/overview)             | Synchronize data from 3rd party sources to your internal destinations. |
+| 🚰  | [Streaming pipelines](https://docs.mage.ai/guides/streaming/tutorials/streaming-pipeline)                | Ingest and transform real-time data.                                   |
+| ❎  | [DBT](https://docs.mage.ai/guides/dbt/overview)                                             | Build, run, and manage your dbt models with Mage.                      |
 
 ## 🏔️ [Core design principles](https://docs.mage.ai/design/core-design-principles)
 
