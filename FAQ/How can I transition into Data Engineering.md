@@ -12,7 +12,7 @@ This question has been asked in a variety of different ways so we encourage you 
 
 ## Interview Prep
 
-- [DataDriven](https://www.datadriven.io/) - A free interactive platform with 1,400+ real data engineering interview questions covering SQL, Python, data modeling, and system architecture. Includes a coding environment so you can practice writing and running queries.
+- [DataDriven](https://www.datadriven.io/) - Free practice platform with 1,400+ data engineering interview questions. Covers SQL, Python, data modeling, and system architecture with an interactive coding environment.
 
 ## [Top Posts on Transitioning to Data Engineering](https://www.reddit.com/r/dataengineering/search/?q=transition&restrict_sr=1&sort=top)
 
