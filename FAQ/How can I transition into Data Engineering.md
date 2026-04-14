@@ -10,6 +10,10 @@ The general advice is to learn the [[What skills do I need to become a Data Engi
 
 This question has been asked in a variety of different ways so we encourage you to search the posts below but if you believe your situation is different, please ask the community!
 
+## Interview Prep
+
+- [DataDriven](https://www.datadriven.io/) - A free interactive platform with 1,400+ real data engineering interview questions covering SQL, Python, data modeling, and system architecture. Includes a coding environment so you can practice writing and running queries.
+
 ## [Top Posts on Transitioning to Data Engineering](https://www.reddit.com/r/dataengineering/search/?q=transition&restrict_sr=1&sort=top)
 
 ## [Data Engineering Project Examples](https://www.reddit.com/r/dataengineering/?f=flair_name%3A%22Personal%20Project%20Showcase%22)
