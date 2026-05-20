@@ -26,6 +26,14 @@ Welcome! This is the official wiki built and maintained by the [[Community|data 
 
 > [!success]- [[Get Involved|Want to get involved? Click here!]]
 
+## Gold Sponsors
+
+<div class="sponsors-gold" style="display: flex; flex-wrap: wrap;">
+	<a href="https://datadriven.io/">
+	    <img src="./Assets/logo-datadriven.png" width=250>
+	</a>
+</div>
+
 <iframe src="https://dataengineeringcommunity.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 
