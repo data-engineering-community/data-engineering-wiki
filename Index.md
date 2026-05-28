@@ -29,10 +29,10 @@ Welcome! This is the official wiki built and maintained by the [[Community|data 
 ## Gold Sponsors
 
 <div class="sponsors-gold" style="display: flex; flex-direction: column; align-items: flex-start; gap: 8px;">
-	<a href="https://datadriven.io/?utm_source=dataengineering-wiki&utm_medium=referral&utm_campaign=gold-sponsor&utm_content=index-logo">
+	<a href="https://datadriven.io/?utm_source=dataengineering-wiki&utm_medium=referral&utm_campaign=gold-placement&utm_content=index-logo">
 	    <img src="./Assets/logo-datadriven-wide.png" width=328 alt="DataDriven — Data Engineer Interview Practice">
 	</a>
-	<a href="https://datadriven.io/?utm_source=dataengineering-wiki&utm_medium=referral&utm_campaign=gold-sponsor&utm_content=index-textlink">DataDriven — Free Data Engineer Interview Problems</a>
+	<a href="https://datadriven.io/?utm_source=dataengineering-wiki&utm_medium=referral&utm_campaign=gold-placement&utm_content=index-textlink">DataDriven — Free Data Engineer Interview Problems</a>
 </div>
 
 <iframe src="https://dataengineeringcommunity.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
