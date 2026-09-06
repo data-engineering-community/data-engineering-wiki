@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-[Data Oculus](https://dataoculus.app/) is shift left, real-time and end-to-end data observability platform that can monitors, detect, prevent and remediate any data issues from any datastore as per user defined requirements throughout the data lifecycle.
+[Data Oculus](https://github.com/dataoculus) is shift left, real-time and end-to-end data observability platform that can monitors, detect, prevent and remediate any data issues from any datastore as per user defined requirements throughout the data lifecycle.
 
 ## Summary
 
@@ -12,7 +12,7 @@ Data Oculus aims to be datadog for data. It monitors all types of data in realti
 
 
 ## Official website and documentations
-[Data Oculus](https://dataoculus.app/)
+[Data Oculus (GitHub)](https://github.com/dataoculus)
 
 %% wiki footer: Please don't edit anything below this line %%
 ## This note in GitHub
