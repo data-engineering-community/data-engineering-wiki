@@ -4,7 +4,7 @@ Tags: [seedling]
 publish: true
 ---
 
-[Matillion Data Loader](https://www.matillion.com/data-productivity-cloud/move) is a low-code data ingestion tool made by Matillion. It allows you to create batch and CDC pipelines from their cloud-based UI and currently has 150+ connectors.
+[Matillion Data Loader](https://www.matillion.com/) is a low-code data ingestion tool made by Matillion. It allows you to create batch and CDC pipelines from their cloud-based UI and currently has 150+ connectors.
 
 ## Matillion Data Loader Official Documentation
 
