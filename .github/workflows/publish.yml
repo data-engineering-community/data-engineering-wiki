@@ -1,0 +1,39 @@
+# Publish the vault to Obsidian Publish (dataengineering.wiki) on merge to main.
+# https://obsidian.md/help/publish/headless
+name: Publish
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Never let two merges publish at once; queue instead of cancelling so no merge is skipped.
+concurrency:
+  group: obsidian-publish
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - run: npm install -g obsidian-headless
+
+      # The runner is stateless and the vault/site link lives in $HOME, not the
+      # repo, so setup and config run on every publish.
+      - name: Publish vault
+        env:
+          OBSIDIAN_AUTH_TOKEN: ${{ secrets.OBSIDIAN_AUTH_TOKEN }}
+          OBSIDIAN_SITE_SLUG: ${{ secrets.OBSIDIAN_SITE_SLUG }}
+        run: |
+          ob publish-setup --site "$OBSIDIAN_SITE_SLUG" --path .
+          ob publish-config --includes Assets
+          ob publish --yes
