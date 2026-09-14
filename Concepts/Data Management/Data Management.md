@@ -30,6 +30,10 @@ Data security protects data from unauthorized access, corruption, and theft thro
 
 #placeholder 
 
+### 5. [[Data Contract]]
+
+Data contracts establish formal schema, SLA, and semantic quality agreements between data producers and consumers.
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub
