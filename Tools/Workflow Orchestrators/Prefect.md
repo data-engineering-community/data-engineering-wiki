@@ -6,7 +6,7 @@ publish: true
 
 [Prefect](https://www.prefect.io/) is an open-source framework that allows you to design, test, run, and monitor your data pipelines with Python. Prefect also offers it's framework as a service called Prefect Cloud.
 
-## [Prefect Official Documentation](https://docs.prefect.io/core/)
+## [Prefect Official Documentation](https://docs.prefect.io/)
 
 ## Prefect Advantages
 
@@ -20,7 +20,7 @@ publish: true
 
 ## Prefect Learning Resources
 
-https://docs.prefect.io/core/getting_started/quick-start.html
+https://docs.prefect.io/v3/get-started/quickstart
 
 ## [Prefect Recent Posts](https://www.reddit.com/r/dataengineering/search/?q=Prefect&restrict_sr=1&sr_nsfw=)
 
